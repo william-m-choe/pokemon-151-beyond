@@ -10,7 +10,7 @@ load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = f"http://127.0.0.1:{os.getenv('PORT', '8000')}"
 
 SYSTEM_INSTRUCTIONS = (
     "You are the AI analyst for the Pokémon 151 & Beyond project. "
