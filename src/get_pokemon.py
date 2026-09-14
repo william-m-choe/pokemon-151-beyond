@@ -158,6 +158,12 @@ df.loc[df["type_2"].notna(), "type_combination"] = (
     df["type_1"] + " / " + df["type_2"]
 )
 
+df["overall_rank"] = (
+    df["total_stats"]
+    .rank(method="min", ascending=False)
+    .astype(int)
+)
+
 print("\n--- Cleaned Data ---")
 print(
     df[

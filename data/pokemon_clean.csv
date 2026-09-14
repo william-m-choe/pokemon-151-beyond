@@ -1,1026 +1,1026 @@
-id,name,generation,height,weight,base_experience,hp,attack,defense,special_attack,special_defense,speed,type_1,type_2,total_stats,height_m,weight_kg,type_combination
-1,bulbasaur,Gen 1,7,69,64,45,49,49,65,65,45,grass,poison,318,0.7,6.9,grass / poison
-2,ivysaur,Gen 1,10,130,142,60,62,63,80,80,60,grass,poison,405,1.0,13.0,grass / poison
-3,venusaur,Gen 1,20,1000,236,80,82,83,100,100,80,grass,poison,525,2.0,100.0,grass / poison
-4,charmander,Gen 1,6,85,62,39,52,43,60,50,65,fire,,309,0.6,8.5,fire
-5,charmeleon,Gen 1,11,190,142,58,64,58,80,65,80,fire,,405,1.1,19.0,fire
-6,charizard,Gen 1,17,905,240,78,84,78,109,85,100,fire,flying,534,1.7,90.5,fire / flying
-7,squirtle,Gen 1,5,90,63,44,48,65,50,64,43,water,,314,0.5,9.0,water
-8,wartortle,Gen 1,10,225,142,59,63,80,65,80,58,water,,405,1.0,22.5,water
-9,blastoise,Gen 1,16,855,239,79,83,100,85,105,78,water,,530,1.6,85.5,water
-10,caterpie,Gen 1,3,29,39,45,30,35,20,20,45,bug,,195,0.3,2.9,bug
-11,metapod,Gen 1,7,99,72,50,20,55,25,25,30,bug,,205,0.7,9.9,bug
-12,butterfree,Gen 1,11,320,178,60,45,50,90,80,70,bug,flying,395,1.1,32.0,bug / flying
-13,weedle,Gen 1,3,32,39,40,35,30,20,20,50,bug,poison,195,0.3,3.2,bug / poison
-14,kakuna,Gen 1,6,100,72,45,25,50,25,25,35,bug,poison,205,0.6,10.0,bug / poison
-15,beedrill,Gen 1,10,295,178,65,90,40,45,80,75,bug,poison,395,1.0,29.5,bug / poison
-16,pidgey,Gen 1,3,18,50,40,45,40,35,35,56,normal,flying,251,0.3,1.8,normal / flying
-17,pidgeotto,Gen 1,11,300,122,63,60,55,50,50,71,normal,flying,349,1.1,30.0,normal / flying
-18,pidgeot,Gen 1,15,395,216,83,80,75,70,70,101,normal,flying,479,1.5,39.5,normal / flying
-19,rattata,Gen 1,3,35,51,30,56,35,25,35,72,normal,,253,0.3,3.5,normal
-20,raticate,Gen 1,7,185,145,55,81,60,50,70,97,normal,,413,0.7,18.5,normal
-21,spearow,Gen 1,3,20,52,40,60,30,31,31,70,normal,flying,262,0.3,2.0,normal / flying
-22,fearow,Gen 1,12,380,155,65,90,65,61,61,100,normal,flying,442,1.2,38.0,normal / flying
-23,ekans,Gen 1,20,69,58,35,60,44,40,54,55,poison,,288,2.0,6.9,poison
-24,arbok,Gen 1,35,650,157,60,95,69,65,79,80,poison,,448,3.5,65.0,poison
-25,pikachu,Gen 1,4,60,112,35,55,40,50,50,90,electric,,320,0.4,6.0,electric
-26,raichu,Gen 1,8,300,218,60,90,55,90,80,110,electric,,485,0.8,30.0,electric
-27,sandshrew,Gen 1,6,120,60,50,75,85,20,30,40,ground,,300,0.6,12.0,ground
-28,sandslash,Gen 1,10,295,158,75,100,110,45,55,65,ground,,450,1.0,29.5,ground
-29,nidoran-f,Gen 1,4,70,55,55,47,52,40,40,41,poison,,275,0.4,7.0,poison
-30,nidorina,Gen 1,8,200,128,70,62,67,55,55,56,poison,,365,0.8,20.0,poison
-31,nidoqueen,Gen 1,13,600,227,90,92,87,75,85,76,poison,ground,505,1.3,60.0,poison / ground
-32,nidoran-m,Gen 1,5,90,55,46,57,40,40,40,50,poison,,273,0.5,9.0,poison
-33,nidorino,Gen 1,9,195,128,61,72,57,55,55,65,poison,,365,0.9,19.5,poison
-34,nidoking,Gen 1,14,620,227,81,102,77,85,75,85,poison,ground,505,1.4,62.0,poison / ground
-35,clefairy,Gen 1,6,75,113,70,45,48,60,65,35,fairy,,323,0.6,7.5,fairy
-36,clefable,Gen 1,13,400,217,95,70,73,95,90,60,fairy,,483,1.3,40.0,fairy
-37,vulpix,Gen 1,6,99,60,38,41,40,50,65,65,fire,,299,0.6,9.9,fire
-38,ninetales,Gen 1,11,199,177,73,76,75,81,100,100,fire,,505,1.1,19.9,fire
-39,jigglypuff,Gen 1,5,55,95,115,45,20,45,25,20,normal,fairy,270,0.5,5.5,normal / fairy
-40,wigglytuff,Gen 1,10,120,196,140,70,45,85,50,45,normal,fairy,435,1.0,12.0,normal / fairy
-41,zubat,Gen 1,8,75,49,40,45,35,30,40,55,poison,flying,245,0.8,7.5,poison / flying
-42,golbat,Gen 1,16,550,159,75,80,70,65,75,90,poison,flying,455,1.6,55.0,poison / flying
-43,oddish,Gen 1,5,54,64,45,50,55,75,65,30,grass,poison,320,0.5,5.4,grass / poison
-44,gloom,Gen 1,8,86,138,60,65,70,85,75,40,grass,poison,395,0.8,8.6,grass / poison
-45,vileplume,Gen 1,12,186,221,75,80,85,110,90,50,grass,poison,490,1.2,18.6,grass / poison
-46,paras,Gen 1,3,54,57,35,70,55,45,55,25,bug,grass,285,0.3,5.4,bug / grass
-47,parasect,Gen 1,10,295,142,60,95,80,60,80,30,bug,grass,405,1.0,29.5,bug / grass
-48,venonat,Gen 1,10,300,61,60,55,50,40,55,45,bug,poison,305,1.0,30.0,bug / poison
-49,venomoth,Gen 1,15,125,158,70,65,60,90,75,90,bug,poison,450,1.5,12.5,bug / poison
-50,diglett,Gen 1,2,8,53,10,55,25,35,45,95,ground,,265,0.2,0.8,ground
-51,dugtrio,Gen 1,7,333,149,35,100,50,50,70,120,ground,,425,0.7,33.3,ground
-52,meowth,Gen 1,4,42,58,40,45,35,40,40,90,normal,,290,0.4,4.2,normal
-53,persian,Gen 1,10,320,154,65,70,60,65,65,115,normal,,440,1.0,32.0,normal
-54,psyduck,Gen 1,8,196,64,50,52,48,65,50,55,water,,320,0.8,19.6,water
-55,golduck,Gen 1,17,766,175,80,82,78,95,80,85,water,,500,1.7,76.6,water
-56,mankey,Gen 1,5,280,61,40,80,35,35,45,70,fighting,,305,0.5,28.0,fighting
-57,primeape,Gen 1,10,320,159,65,105,60,60,70,95,fighting,,455,1.0,32.0,fighting
-58,growlithe,Gen 1,7,190,70,55,70,45,70,50,60,fire,,350,0.7,19.0,fire
-59,arcanine,Gen 1,19,1550,194,90,110,80,100,80,95,fire,,555,1.9,155.0,fire
-60,poliwag,Gen 1,6,124,60,40,50,40,40,40,90,water,,300,0.6,12.4,water
-61,poliwhirl,Gen 1,10,200,135,65,65,65,50,50,90,water,,385,1.0,20.0,water
-62,poliwrath,Gen 1,13,540,230,90,95,95,70,90,70,water,fighting,510,1.3,54.0,water / fighting
-63,abra,Gen 1,9,195,62,25,20,15,105,55,90,psychic,,310,0.9,19.5,psychic
-64,kadabra,Gen 1,13,565,140,40,35,30,120,70,105,psychic,,400,1.3,56.5,psychic
-65,alakazam,Gen 1,15,480,225,55,50,45,135,95,120,psychic,,500,1.5,48.0,psychic
-66,machop,Gen 1,8,195,61,70,80,50,35,35,35,fighting,,305,0.8,19.5,fighting
-67,machoke,Gen 1,15,705,142,80,100,70,50,60,45,fighting,,405,1.5,70.5,fighting
-68,machamp,Gen 1,16,1300,227,90,130,80,65,85,55,fighting,,505,1.6,130.0,fighting
-69,bellsprout,Gen 1,7,40,60,50,75,35,70,30,40,grass,poison,300,0.7,4.0,grass / poison
-70,weepinbell,Gen 1,10,64,137,65,90,50,85,45,55,grass,poison,390,1.0,6.4,grass / poison
-71,victreebel,Gen 1,17,155,221,80,105,65,100,70,70,grass,poison,490,1.7,15.5,grass / poison
-72,tentacool,Gen 1,9,455,67,40,40,35,50,100,70,water,poison,335,0.9,45.5,water / poison
-73,tentacruel,Gen 1,16,550,180,80,70,65,80,120,100,water,poison,515,1.6,55.0,water / poison
-74,geodude,Gen 1,4,200,60,40,80,100,30,30,20,rock,ground,300,0.4,20.0,rock / ground
-75,graveler,Gen 1,10,1050,137,55,95,115,45,45,35,rock,ground,390,1.0,105.0,rock / ground
-76,golem,Gen 1,14,3000,223,80,120,130,55,65,45,rock,ground,495,1.4,300.0,rock / ground
-77,ponyta,Gen 1,10,300,82,50,85,55,65,65,90,fire,,410,1.0,30.0,fire
-78,rapidash,Gen 1,17,950,175,65,100,70,80,80,105,fire,,500,1.7,95.0,fire
-79,slowpoke,Gen 1,12,360,63,90,65,65,40,40,15,water,psychic,315,1.2,36.0,water / psychic
-80,slowbro,Gen 1,16,785,172,95,75,110,100,80,30,water,psychic,490,1.6,78.5,water / psychic
-81,magnemite,Gen 1,3,60,65,25,35,70,95,55,45,electric,steel,325,0.3,6.0,electric / steel
-82,magneton,Gen 1,10,600,163,50,60,95,120,70,70,electric,steel,465,1.0,60.0,electric / steel
-83,farfetchd,Gen 1,8,150,132,52,90,55,58,62,60,normal,flying,377,0.8,15.0,normal / flying
-84,doduo,Gen 1,14,392,62,35,85,45,35,35,75,normal,flying,310,1.4,39.2,normal / flying
-85,dodrio,Gen 1,18,852,165,60,110,70,60,60,110,normal,flying,470,1.8,85.2,normal / flying
-86,seel,Gen 1,11,900,65,65,45,55,45,70,45,water,,325,1.1,90.0,water
-87,dewgong,Gen 1,17,1200,166,90,70,80,70,95,70,water,ice,475,1.7,120.0,water / ice
-88,grimer,Gen 1,9,300,65,80,80,50,40,50,25,poison,,325,0.9,30.0,poison
-89,muk,Gen 1,12,300,175,105,105,75,65,100,50,poison,,500,1.2,30.0,poison
-90,shellder,Gen 1,3,40,61,30,65,100,45,25,40,water,,305,0.3,4.0,water
-91,cloyster,Gen 1,15,1325,184,50,95,180,85,45,70,water,ice,525,1.5,132.5,water / ice
-92,gastly,Gen 1,13,1,62,30,35,30,100,35,80,ghost,poison,310,1.3,0.1,ghost / poison
-93,haunter,Gen 1,16,1,142,45,50,45,115,55,95,ghost,poison,405,1.6,0.1,ghost / poison
-94,gengar,Gen 1,15,405,225,60,65,60,130,75,110,ghost,poison,500,1.5,40.5,ghost / poison
-95,onix,Gen 1,88,2100,77,35,45,160,30,45,70,rock,ground,385,8.8,210.0,rock / ground
-96,drowzee,Gen 1,10,324,66,60,48,45,43,90,42,psychic,,328,1.0,32.4,psychic
-97,hypno,Gen 1,16,756,169,85,73,70,73,115,67,psychic,,483,1.6,75.6,psychic
-98,krabby,Gen 1,4,65,65,30,105,90,25,25,50,water,,325,0.4,6.5,water
-99,kingler,Gen 1,13,600,166,55,130,115,50,50,75,water,,475,1.3,60.0,water
-100,voltorb,Gen 1,5,104,66,40,30,50,55,55,100,electric,,330,0.5,10.4,electric
-101,electrode,Gen 1,12,666,172,60,50,70,80,80,150,electric,,490,1.2,66.6,electric
-102,exeggcute,Gen 1,4,25,65,60,40,80,60,45,40,grass,psychic,325,0.4,2.5,grass / psychic
-103,exeggutor,Gen 1,20,1200,186,95,95,85,125,75,55,grass,psychic,530,2.0,120.0,grass / psychic
-104,cubone,Gen 1,4,65,64,50,50,95,40,50,35,ground,,320,0.4,6.5,ground
-105,marowak,Gen 1,10,450,149,60,80,110,50,80,45,ground,,425,1.0,45.0,ground
-106,hitmonlee,Gen 1,15,498,159,50,120,53,35,110,87,fighting,,455,1.5,49.8,fighting
-107,hitmonchan,Gen 1,14,502,159,50,105,79,35,110,76,fighting,,455,1.4,50.2,fighting
-108,lickitung,Gen 1,12,655,77,90,55,75,60,75,30,normal,,385,1.2,65.5,normal
-109,koffing,Gen 1,6,10,68,40,65,95,60,45,35,poison,,340,0.6,1.0,poison
-110,weezing,Gen 1,12,95,172,65,90,120,85,70,60,poison,,490,1.2,9.5,poison
-111,rhyhorn,Gen 1,10,1150,69,80,85,95,30,30,25,ground,rock,345,1.0,115.0,ground / rock
-112,rhydon,Gen 1,19,1200,170,105,130,120,45,45,40,ground,rock,485,1.9,120.0,ground / rock
-113,chansey,Gen 1,11,346,395,250,5,5,35,105,50,normal,,450,1.1,34.6,normal
-114,tangela,Gen 1,10,350,87,65,55,115,100,40,60,grass,,435,1.0,35.0,grass
-115,kangaskhan,Gen 1,22,800,172,105,95,80,40,80,90,normal,,490,2.2,80.0,normal
-116,horsea,Gen 1,4,80,59,30,40,70,70,25,60,water,,295,0.4,8.0,water
-117,seadra,Gen 1,12,250,154,55,65,95,95,45,85,water,,440,1.2,25.0,water
-118,goldeen,Gen 1,6,150,64,45,67,60,35,50,63,water,,320,0.6,15.0,water
-119,seaking,Gen 1,13,390,158,80,92,65,65,80,68,water,,450,1.3,39.0,water
-120,staryu,Gen 1,8,345,68,30,45,55,70,55,85,water,,340,0.8,34.5,water
-121,starmie,Gen 1,11,800,182,60,75,85,100,85,115,water,psychic,520,1.1,80.0,water / psychic
-122,mr-mime,Gen 1,13,545,161,40,45,65,100,120,90,psychic,fairy,460,1.3,54.5,psychic / fairy
-123,scyther,Gen 1,15,560,100,70,110,80,55,80,105,bug,flying,500,1.5,56.0,bug / flying
-124,jynx,Gen 1,14,406,159,65,50,35,115,95,95,ice,psychic,455,1.4,40.6,ice / psychic
-125,electabuzz,Gen 1,11,300,172,65,83,57,95,85,105,electric,,490,1.1,30.0,electric
-126,magmar,Gen 1,13,445,173,65,95,57,100,85,93,fire,,495,1.3,44.5,fire
-127,pinsir,Gen 1,15,550,175,65,125,100,55,70,85,bug,,500,1.5,55.0,bug
-128,tauros,Gen 1,14,884,172,75,100,95,40,70,110,normal,,490,1.4,88.4,normal
-129,magikarp,Gen 1,9,100,40,20,10,55,15,20,80,water,,200,0.9,10.0,water
-130,gyarados,Gen 1,65,2350,189,95,125,79,60,100,81,water,flying,540,6.5,235.0,water / flying
-131,lapras,Gen 1,25,2200,187,130,85,80,85,95,60,water,ice,535,2.5,220.0,water / ice
-132,ditto,Gen 1,3,40,101,48,48,48,48,48,48,normal,,288,0.3,4.0,normal
-133,eevee,Gen 1,3,65,65,55,55,50,45,65,55,normal,,325,0.3,6.5,normal
-134,vaporeon,Gen 1,10,290,184,130,65,60,110,95,65,water,,525,1.0,29.0,water
-135,jolteon,Gen 1,8,245,184,65,65,60,110,95,130,electric,,525,0.8,24.5,electric
-136,flareon,Gen 1,9,250,184,65,130,60,95,110,65,fire,,525,0.9,25.0,fire
-137,porygon,Gen 1,8,365,79,65,60,70,85,75,40,normal,,395,0.8,36.5,normal
-138,omanyte,Gen 1,4,75,71,35,40,100,90,55,35,rock,water,355,0.4,7.5,rock / water
-139,omastar,Gen 1,10,350,173,70,60,125,115,70,55,rock,water,495,1.0,35.0,rock / water
-140,kabuto,Gen 1,5,115,71,30,80,90,55,45,55,rock,water,355,0.5,11.5,rock / water
-141,kabutops,Gen 1,13,405,173,60,115,105,65,70,80,rock,water,495,1.3,40.5,rock / water
-142,aerodactyl,Gen 1,18,590,180,80,105,65,60,75,130,rock,flying,515,1.8,59.0,rock / flying
-143,snorlax,Gen 1,21,4600,189,160,110,65,65,110,30,normal,,540,2.1,460.0,normal
-144,articuno,Gen 1,17,554,261,90,85,100,95,125,85,ice,flying,580,1.7,55.4,ice / flying
-145,zapdos,Gen 1,16,526,261,90,90,85,125,90,100,electric,flying,580,1.6,52.6,electric / flying
-146,moltres,Gen 1,20,600,261,90,100,90,125,85,90,fire,flying,580,2.0,60.0,fire / flying
-147,dratini,Gen 1,18,33,60,41,64,45,50,50,50,dragon,,300,1.8,3.3,dragon
-148,dragonair,Gen 1,40,165,147,61,84,65,70,70,70,dragon,,420,4.0,16.5,dragon
-149,dragonite,Gen 1,22,2100,270,91,134,95,100,100,80,dragon,flying,600,2.2,210.0,dragon / flying
-150,mewtwo,Gen 1,20,1220,306,106,110,90,154,90,130,psychic,,680,2.0,122.0,psychic
-151,mew,Gen 1,4,40,270,100,100,100,100,100,100,psychic,,600,0.4,4.0,psychic
-152,chikorita,Gen 2,9,64,64,45,49,65,49,65,45,grass,,318,0.9,6.4,grass
-153,bayleef,Gen 2,12,158,142,60,62,80,63,80,60,grass,,405,1.2,15.8,grass
-154,meganium,Gen 2,18,1005,236,80,82,100,83,100,80,grass,,525,1.8,100.5,grass
-155,cyndaquil,Gen 2,5,79,62,39,52,43,60,50,65,fire,,309,0.5,7.9,fire
-156,quilava,Gen 2,9,190,142,58,64,58,80,65,80,fire,,405,0.9,19.0,fire
-157,typhlosion,Gen 2,17,795,240,78,84,78,109,85,100,fire,,534,1.7,79.5,fire
-158,totodile,Gen 2,6,95,63,50,65,64,44,48,43,water,,314,0.6,9.5,water
-159,croconaw,Gen 2,11,250,142,65,80,80,59,63,58,water,,405,1.1,25.0,water
-160,feraligatr,Gen 2,23,888,239,85,105,100,79,83,78,water,,530,2.3,88.8,water
-161,sentret,Gen 2,8,60,43,35,46,34,35,45,20,normal,,215,0.8,6.0,normal
-162,furret,Gen 2,18,325,145,85,76,64,45,55,90,normal,,415,1.8,32.5,normal
-163,hoothoot,Gen 2,7,212,52,60,30,30,36,56,50,normal,flying,262,0.7,21.2,normal / flying
-164,noctowl,Gen 2,16,408,158,100,50,50,86,96,70,normal,flying,452,1.6,40.8,normal / flying
-165,ledyba,Gen 2,10,108,53,40,20,30,40,80,55,bug,flying,265,1.0,10.8,bug / flying
-166,ledian,Gen 2,14,356,137,55,35,50,55,110,85,bug,flying,390,1.4,35.6,bug / flying
-167,spinarak,Gen 2,5,85,50,40,60,40,40,40,30,bug,poison,250,0.5,8.5,bug / poison
-168,ariados,Gen 2,11,335,140,70,90,70,60,70,40,bug,poison,400,1.1,33.5,bug / poison
-169,crobat,Gen 2,18,750,241,85,90,80,70,80,130,poison,flying,535,1.8,75.0,poison / flying
-170,chinchou,Gen 2,5,120,66,75,38,38,56,56,67,water,electric,330,0.5,12.0,water / electric
-171,lanturn,Gen 2,12,225,161,125,58,58,76,76,67,water,electric,460,1.2,22.5,water / electric
-172,pichu,Gen 2,3,20,41,20,40,15,35,35,60,electric,,205,0.3,2.0,electric
-173,cleffa,Gen 2,3,30,44,50,25,28,45,55,15,fairy,,218,0.3,3.0,fairy
-174,igglybuff,Gen 2,3,10,42,90,30,15,40,20,15,normal,fairy,210,0.3,1.0,normal / fairy
-175,togepi,Gen 2,3,15,49,35,20,65,40,65,20,fairy,,245,0.3,1.5,fairy
-176,togetic,Gen 2,6,32,142,55,40,85,80,105,40,fairy,flying,405,0.6,3.2,fairy / flying
-177,natu,Gen 2,2,20,64,40,50,45,70,45,70,psychic,flying,320,0.2,2.0,psychic / flying
-178,xatu,Gen 2,15,150,165,65,75,70,95,70,95,psychic,flying,470,1.5,15.0,psychic / flying
-179,mareep,Gen 2,6,78,56,55,40,40,65,45,35,electric,,280,0.6,7.8,electric
-180,flaaffy,Gen 2,8,133,128,70,55,55,80,60,45,electric,,365,0.8,13.3,electric
-181,ampharos,Gen 2,14,615,230,90,75,85,115,90,55,electric,,510,1.4,61.5,electric
-182,bellossom,Gen 2,4,58,221,75,80,95,90,100,50,grass,,490,0.4,5.8,grass
-183,marill,Gen 2,4,85,88,70,20,50,20,50,40,water,fairy,250,0.4,8.5,water / fairy
-184,azumarill,Gen 2,8,285,189,100,50,80,60,80,50,water,fairy,420,0.8,28.5,water / fairy
-185,sudowoodo,Gen 2,12,380,144,70,100,115,30,65,30,rock,,410,1.2,38.0,rock
-186,politoed,Gen 2,11,339,225,90,75,75,90,100,70,water,,500,1.1,33.9,water
-187,hoppip,Gen 2,4,5,50,35,35,40,35,55,50,grass,flying,250,0.4,0.5,grass / flying
-188,skiploom,Gen 2,6,10,119,55,45,50,45,65,80,grass,flying,340,0.6,1.0,grass / flying
-189,jumpluff,Gen 2,8,30,207,75,55,70,55,95,110,grass,flying,460,0.8,3.0,grass / flying
-190,aipom,Gen 2,8,115,72,55,70,55,40,55,85,normal,,360,0.8,11.5,normal
-191,sunkern,Gen 2,3,18,36,30,30,30,30,30,30,grass,,180,0.3,1.8,grass
-192,sunflora,Gen 2,8,85,149,75,75,55,105,85,30,grass,,425,0.8,8.5,grass
-193,yanma,Gen 2,12,380,78,65,65,45,75,45,95,bug,flying,390,1.2,38.0,bug / flying
-194,wooper,Gen 2,4,85,42,55,45,45,25,25,15,water,ground,210,0.4,8.5,water / ground
-195,quagsire,Gen 2,14,750,151,95,85,85,65,65,35,water,ground,430,1.4,75.0,water / ground
-196,espeon,Gen 2,9,265,184,65,65,60,130,95,110,psychic,,525,0.9,26.5,psychic
-197,umbreon,Gen 2,10,270,184,95,65,110,60,130,65,dark,,525,1.0,27.0,dark
-198,murkrow,Gen 2,5,21,81,60,85,42,85,42,91,dark,flying,405,0.5,2.1,dark / flying
-199,slowking,Gen 2,20,795,172,95,75,80,100,110,30,water,psychic,490,2.0,79.5,water / psychic
-200,misdreavus,Gen 2,7,10,87,60,60,60,85,85,85,ghost,,435,0.7,1.0,ghost
-201,unown,Gen 2,5,50,118,48,72,48,72,48,48,psychic,,336,0.5,5.0,psychic
-202,wobbuffet,Gen 2,13,285,142,190,33,58,33,58,33,psychic,,405,1.3,28.5,psychic
-203,girafarig,Gen 2,15,415,159,70,80,65,90,65,85,normal,psychic,455,1.5,41.5,normal / psychic
-204,pineco,Gen 2,6,72,58,50,65,90,35,35,15,bug,,290,0.6,7.2,bug
-205,forretress,Gen 2,12,1258,163,75,90,140,60,60,40,bug,steel,465,1.2,125.8,bug / steel
-206,dunsparce,Gen 2,15,140,145,100,70,70,65,65,45,normal,,415,1.5,14.0,normal
-207,gligar,Gen 2,11,648,86,65,75,105,35,65,85,ground,flying,430,1.1,64.8,ground / flying
-208,steelix,Gen 2,92,4000,179,75,85,200,55,65,30,steel,ground,510,9.2,400.0,steel / ground
-209,snubbull,Gen 2,6,78,60,60,80,50,40,40,30,fairy,,300,0.6,7.8,fairy
-210,granbull,Gen 2,14,487,158,90,120,75,60,60,45,fairy,,450,1.4,48.7,fairy
-211,qwilfish,Gen 2,5,39,88,65,95,85,55,55,85,water,poison,440,0.5,3.9,water / poison
-212,scizor,Gen 2,18,1180,175,70,130,100,55,80,65,bug,steel,500,1.8,118.0,bug / steel
-213,shuckle,Gen 2,6,205,177,20,10,230,10,230,5,bug,rock,505,0.6,20.5,bug / rock
-214,heracross,Gen 2,15,540,175,80,125,75,40,95,85,bug,fighting,500,1.5,54.0,bug / fighting
-215,sneasel,Gen 2,9,280,86,55,95,55,35,75,115,dark,ice,430,0.9,28.0,dark / ice
-216,teddiursa,Gen 2,6,88,66,60,80,50,50,50,40,normal,,330,0.6,8.8,normal
-217,ursaring,Gen 2,18,1258,175,90,130,75,75,75,55,normal,,500,1.8,125.8,normal
-218,slugma,Gen 2,7,350,50,40,40,40,70,40,20,fire,,250,0.7,35.0,fire
-219,magcargo,Gen 2,8,550,151,60,50,120,90,80,30,fire,rock,430,0.8,55.0,fire / rock
-220,swinub,Gen 2,4,65,50,50,50,40,30,30,50,ice,ground,250,0.4,6.5,ice / ground
-221,piloswine,Gen 2,11,558,158,100,100,80,60,60,50,ice,ground,450,1.1,55.8,ice / ground
-222,corsola,Gen 2,6,50,144,65,55,95,65,95,35,water,rock,410,0.6,5.0,water / rock
-223,remoraid,Gen 2,6,120,60,35,65,35,65,35,65,water,,300,0.6,12.0,water
-224,octillery,Gen 2,9,285,168,75,105,75,105,75,45,water,,480,0.9,28.5,water
-225,delibird,Gen 2,9,160,116,45,55,45,65,45,75,ice,flying,330,0.9,16.0,ice / flying
-226,mantine,Gen 2,21,2200,170,85,40,70,80,140,70,water,flying,485,2.1,220.0,water / flying
-227,skarmory,Gen 2,17,505,163,65,80,140,40,70,70,steel,flying,465,1.7,50.5,steel / flying
-228,houndour,Gen 2,6,108,66,45,60,30,80,50,65,dark,fire,330,0.6,10.8,dark / fire
-229,houndoom,Gen 2,14,350,175,75,90,50,110,80,95,dark,fire,500,1.4,35.0,dark / fire
-230,kingdra,Gen 2,18,1520,243,75,95,95,95,95,85,water,dragon,540,1.8,152.0,water / dragon
-231,phanpy,Gen 2,5,335,66,90,60,60,40,40,40,ground,,330,0.5,33.5,ground
-232,donphan,Gen 2,11,1200,175,90,120,120,60,60,50,ground,,500,1.1,120.0,ground
-233,porygon2,Gen 2,6,325,180,85,80,90,105,95,60,normal,,515,0.6,32.5,normal
-234,stantler,Gen 2,14,712,163,73,95,62,85,65,85,normal,,465,1.4,71.2,normal
-235,smeargle,Gen 2,12,580,88,55,20,35,20,45,75,normal,,250,1.2,58.0,normal
-236,tyrogue,Gen 2,7,210,42,35,35,35,35,35,35,fighting,,210,0.7,21.0,fighting
-237,hitmontop,Gen 2,14,480,159,50,95,95,35,110,70,fighting,,455,1.4,48.0,fighting
-238,smoochum,Gen 2,4,60,61,45,30,15,85,65,65,ice,psychic,305,0.4,6.0,ice / psychic
-239,elekid,Gen 2,6,235,72,45,63,37,65,55,95,electric,,360,0.6,23.5,electric
-240,magby,Gen 2,7,214,73,45,75,37,70,55,83,fire,,365,0.7,21.4,fire
-241,miltank,Gen 2,12,755,172,95,80,105,40,70,100,normal,,490,1.2,75.5,normal
-242,blissey,Gen 2,15,468,608,255,10,10,75,135,55,normal,,540,1.5,46.8,normal
-243,raikou,Gen 2,19,1780,261,90,85,75,115,100,115,electric,,580,1.9,178.0,electric
-244,entei,Gen 2,21,1980,261,115,115,85,90,75,100,fire,,580,2.1,198.0,fire
-245,suicune,Gen 2,20,1870,261,100,75,115,90,115,85,water,,580,2.0,187.0,water
-246,larvitar,Gen 2,6,720,60,50,64,50,45,50,41,rock,ground,300,0.6,72.0,rock / ground
-247,pupitar,Gen 2,12,1520,144,70,84,70,65,70,51,rock,ground,410,1.2,152.0,rock / ground
-248,tyranitar,Gen 2,20,2020,270,100,134,110,95,100,61,rock,dark,600,2.0,202.0,rock / dark
-249,lugia,Gen 2,52,2160,306,106,90,130,90,154,110,psychic,flying,680,5.2,216.0,psychic / flying
-250,ho-oh,Gen 2,38,1990,306,106,130,90,110,154,90,fire,flying,680,3.8,199.0,fire / flying
-251,celebi,Gen 2,6,50,270,100,100,100,100,100,100,psychic,grass,600,0.6,5.0,psychic / grass
-252,treecko,Gen 3,5,50,62,40,45,35,65,55,70,grass,,310,0.5,5.0,grass
-253,grovyle,Gen 3,9,216,142,50,65,45,85,65,95,grass,,405,0.9,21.6,grass
-254,sceptile,Gen 3,17,522,239,70,85,65,105,85,120,grass,,530,1.7,52.2,grass
-255,torchic,Gen 3,4,25,62,45,60,40,70,50,45,fire,,310,0.4,2.5,fire
-256,combusken,Gen 3,9,195,142,60,85,60,85,60,55,fire,fighting,405,0.9,19.5,fire / fighting
-257,blaziken,Gen 3,19,520,239,80,120,70,110,70,80,fire,fighting,530,1.9,52.0,fire / fighting
-258,mudkip,Gen 3,4,76,62,50,70,50,50,50,40,water,,310,0.4,7.6,water
-259,marshtomp,Gen 3,7,280,142,70,85,70,60,70,50,water,ground,405,0.7,28.0,water / ground
-260,swampert,Gen 3,15,819,241,100,110,90,85,90,60,water,ground,535,1.5,81.9,water / ground
-261,poochyena,Gen 3,5,136,56,35,55,35,30,30,35,dark,,220,0.5,13.6,dark
-262,mightyena,Gen 3,10,370,147,70,90,70,60,60,70,dark,,420,1.0,37.0,dark
-263,zigzagoon,Gen 3,4,175,56,38,30,41,30,41,60,normal,,240,0.4,17.5,normal
-264,linoone,Gen 3,5,325,147,78,70,61,50,61,100,normal,,420,0.5,32.5,normal
-265,wurmple,Gen 3,3,36,56,45,45,35,20,30,20,bug,,195,0.3,3.6,bug
-266,silcoon,Gen 3,6,100,72,50,35,55,25,25,15,bug,,205,0.6,10.0,bug
-267,beautifly,Gen 3,10,284,178,60,70,50,100,50,65,bug,flying,395,1.0,28.4,bug / flying
-268,cascoon,Gen 3,7,115,72,50,35,55,25,25,15,bug,,205,0.7,11.5,bug
-269,dustox,Gen 3,12,316,173,60,50,70,50,90,65,bug,poison,385,1.2,31.6,bug / poison
-270,lotad,Gen 3,5,26,44,40,30,30,40,50,30,water,grass,220,0.5,2.6,water / grass
-271,lombre,Gen 3,12,325,119,60,50,50,60,70,50,water,grass,340,1.2,32.5,water / grass
-272,ludicolo,Gen 3,15,550,216,80,70,70,90,100,70,water,grass,480,1.5,55.0,water / grass
-273,seedot,Gen 3,5,40,44,40,40,50,30,30,30,grass,,220,0.5,4.0,grass
-274,nuzleaf,Gen 3,10,280,119,70,70,40,60,40,60,grass,dark,340,1.0,28.0,grass / dark
-275,shiftry,Gen 3,13,596,216,90,100,60,90,60,80,grass,dark,480,1.3,59.6,grass / dark
-276,taillow,Gen 3,3,23,54,40,55,30,30,30,85,normal,flying,270,0.3,2.3,normal / flying
-277,swellow,Gen 3,7,198,159,60,85,60,75,50,125,normal,flying,455,0.7,19.8,normal / flying
-278,wingull,Gen 3,6,95,54,40,30,30,55,30,85,water,flying,270,0.6,9.5,water / flying
-279,pelipper,Gen 3,12,280,154,60,50,100,95,70,65,water,flying,440,1.2,28.0,water / flying
-280,ralts,Gen 3,4,66,40,28,25,25,45,35,40,psychic,fairy,198,0.4,6.6,psychic / fairy
-281,kirlia,Gen 3,8,202,97,38,35,35,65,55,50,psychic,fairy,278,0.8,20.2,psychic / fairy
-282,gardevoir,Gen 3,16,484,233,68,65,65,125,115,80,psychic,fairy,518,1.6,48.4,psychic / fairy
-283,surskit,Gen 3,5,17,54,40,30,32,50,52,65,bug,water,269,0.5,1.7,bug / water
-284,masquerain,Gen 3,8,36,159,70,60,62,100,82,80,bug,flying,454,0.8,3.6,bug / flying
-285,shroomish,Gen 3,4,45,59,60,40,60,40,60,35,grass,,295,0.4,4.5,grass
-286,breloom,Gen 3,12,392,161,60,130,80,60,60,70,grass,fighting,460,1.2,39.2,grass / fighting
-287,slakoth,Gen 3,8,240,56,60,60,60,35,35,30,normal,,280,0.8,24.0,normal
-288,vigoroth,Gen 3,14,465,154,80,80,80,55,55,90,normal,,440,1.4,46.5,normal
-289,slaking,Gen 3,20,1305,252,150,160,100,95,65,100,normal,,670,2.0,130.5,normal
-290,nincada,Gen 3,5,55,53,31,45,90,30,30,40,bug,ground,266,0.5,5.5,bug / ground
-291,ninjask,Gen 3,8,120,160,61,90,45,50,50,160,bug,flying,456,0.8,12.0,bug / flying
-292,shedinja,Gen 3,8,12,83,1,90,45,30,30,40,bug,ghost,236,0.8,1.2,bug / ghost
-293,whismur,Gen 3,6,163,48,64,51,23,51,23,28,normal,,240,0.6,16.3,normal
-294,loudred,Gen 3,10,405,126,84,71,43,71,43,48,normal,,360,1.0,40.5,normal
-295,exploud,Gen 3,15,840,221,104,91,63,91,73,68,normal,,490,1.5,84.0,normal
-296,makuhita,Gen 3,10,864,47,72,60,30,20,30,25,fighting,,237,1.0,86.4,fighting
-297,hariyama,Gen 3,23,2538,166,144,120,60,40,60,50,fighting,,474,2.3,253.8,fighting
-298,azurill,Gen 3,2,20,38,50,20,40,20,40,20,normal,fairy,190,0.2,2.0,normal / fairy
-299,nosepass,Gen 3,10,970,75,30,45,135,45,90,30,rock,,375,1.0,97.0,rock
-300,skitty,Gen 3,6,110,52,50,45,45,35,35,50,normal,,260,0.6,11.0,normal
-301,delcatty,Gen 3,11,326,140,70,65,65,55,55,90,normal,,400,1.1,32.6,normal
-302,sableye,Gen 3,5,110,133,50,75,75,65,65,50,dark,ghost,380,0.5,11.0,dark / ghost
-303,mawile,Gen 3,6,115,133,50,85,85,55,55,50,steel,fairy,380,0.6,11.5,steel / fairy
-304,aron,Gen 3,4,600,66,50,70,100,40,40,30,steel,rock,330,0.4,60.0,steel / rock
-305,lairon,Gen 3,9,1200,151,60,90,140,50,50,40,steel,rock,430,0.9,120.0,steel / rock
-306,aggron,Gen 3,21,3600,239,70,110,180,60,60,50,steel,rock,530,2.1,360.0,steel / rock
-307,meditite,Gen 3,6,112,56,30,40,55,40,55,60,fighting,psychic,280,0.6,11.2,fighting / psychic
-308,medicham,Gen 3,13,315,144,60,60,75,60,75,80,fighting,psychic,410,1.3,31.5,fighting / psychic
-309,electrike,Gen 3,6,152,59,40,45,40,65,40,65,electric,,295,0.6,15.2,electric
-310,manectric,Gen 3,15,402,166,70,75,60,105,60,105,electric,,475,1.5,40.2,electric
-311,plusle,Gen 3,4,42,142,60,50,40,85,75,95,electric,,405,0.4,4.2,electric
-312,minun,Gen 3,4,42,142,60,40,50,75,85,95,electric,,405,0.4,4.2,electric
-313,volbeat,Gen 3,7,177,151,65,73,75,47,85,85,bug,,430,0.7,17.7,bug
-314,illumise,Gen 3,6,177,151,65,47,75,73,85,85,bug,,430,0.6,17.7,bug
-315,roselia,Gen 3,3,20,140,50,60,45,100,80,65,grass,poison,400,0.3,2.0,grass / poison
-316,gulpin,Gen 3,4,103,60,70,43,53,43,53,40,poison,,302,0.4,10.3,poison
-317,swalot,Gen 3,17,800,163,100,73,83,73,83,55,poison,,467,1.7,80.0,poison
-318,carvanha,Gen 3,8,208,61,45,90,20,65,20,65,water,dark,305,0.8,20.8,water / dark
-319,sharpedo,Gen 3,18,888,161,70,120,40,95,40,95,water,dark,460,1.8,88.8,water / dark
-320,wailmer,Gen 3,20,1300,80,130,70,35,70,35,60,water,,400,2.0,130.0,water
-321,wailord,Gen 3,145,3980,175,170,90,45,90,45,60,water,,500,14.5,398.0,water
-322,numel,Gen 3,7,240,61,60,60,40,65,45,35,fire,ground,305,0.7,24.0,fire / ground
-323,camerupt,Gen 3,19,2200,161,70,100,70,105,75,40,fire,ground,460,1.9,220.0,fire / ground
-324,torkoal,Gen 3,5,804,165,70,85,140,85,70,20,fire,,470,0.5,80.4,fire
-325,spoink,Gen 3,7,306,66,60,25,35,70,80,60,psychic,,330,0.7,30.6,psychic
-326,grumpig,Gen 3,9,715,165,80,45,65,90,110,80,psychic,,470,0.9,71.5,psychic
-327,spinda,Gen 3,11,50,126,60,60,60,60,60,60,normal,,360,1.1,5.0,normal
-328,trapinch,Gen 3,7,150,58,45,100,45,45,45,10,ground,,290,0.7,15.0,ground
-329,vibrava,Gen 3,11,153,119,50,70,50,50,50,70,ground,dragon,340,1.1,15.3,ground / dragon
-330,flygon,Gen 3,20,820,234,80,100,80,80,80,100,ground,dragon,520,2.0,82.0,ground / dragon
-331,cacnea,Gen 3,4,513,67,50,85,40,85,40,35,grass,,335,0.4,51.3,grass
-332,cacturne,Gen 3,13,774,166,70,115,60,115,60,55,grass,dark,475,1.3,77.4,grass / dark
-333,swablu,Gen 3,4,12,62,45,40,60,40,75,50,normal,flying,310,0.4,1.2,normal / flying
-334,altaria,Gen 3,11,206,172,75,70,90,70,105,80,dragon,flying,490,1.1,20.6,dragon / flying
-335,zangoose,Gen 3,13,403,160,73,115,60,60,60,90,normal,,458,1.3,40.3,normal
-336,seviper,Gen 3,27,525,160,73,100,60,100,60,65,poison,,458,2.7,52.5,poison
-337,lunatone,Gen 3,10,1680,161,90,55,65,95,85,70,rock,psychic,460,1.0,168.0,rock / psychic
-338,solrock,Gen 3,12,1540,161,90,95,85,55,65,70,rock,psychic,460,1.2,154.0,rock / psychic
-339,barboach,Gen 3,4,19,58,50,48,43,46,41,60,water,ground,288,0.4,1.9,water / ground
-340,whiscash,Gen 3,9,236,164,110,78,73,76,71,60,water,ground,468,0.9,23.6,water / ground
-341,corphish,Gen 3,6,115,62,43,80,65,50,35,35,water,,308,0.6,11.5,water
-342,crawdaunt,Gen 3,11,328,164,63,120,85,90,55,55,water,dark,468,1.1,32.8,water / dark
-343,baltoy,Gen 3,5,215,60,40,40,55,40,70,55,ground,psychic,300,0.5,21.5,ground / psychic
-344,claydol,Gen 3,15,1080,175,60,70,105,70,120,75,ground,psychic,500,1.5,108.0,ground / psychic
-345,lileep,Gen 3,10,238,71,66,41,77,61,87,23,rock,grass,355,1.0,23.8,rock / grass
-346,cradily,Gen 3,15,604,173,86,81,97,81,107,43,rock,grass,495,1.5,60.4,rock / grass
-347,anorith,Gen 3,7,125,71,45,95,50,40,50,75,rock,bug,355,0.7,12.5,rock / bug
-348,armaldo,Gen 3,15,682,173,75,125,100,70,80,45,rock,bug,495,1.5,68.2,rock / bug
-349,feebas,Gen 3,6,74,40,20,15,20,10,55,80,water,,200,0.6,7.4,water
-350,milotic,Gen 3,62,1620,189,95,60,79,100,125,81,water,,540,6.2,162.0,water
-351,castform,Gen 3,3,8,147,70,70,70,70,70,70,normal,,420,0.3,0.8,normal
-352,kecleon,Gen 3,10,220,154,60,90,70,60,120,40,normal,,440,1.0,22.0,normal
-353,shuppet,Gen 3,6,23,59,44,75,35,63,33,45,ghost,,295,0.6,2.3,ghost
-354,banette,Gen 3,11,125,159,64,115,65,83,63,65,ghost,,455,1.1,12.5,ghost
-355,duskull,Gen 3,8,150,59,20,40,90,30,90,25,ghost,,295,0.8,15.0,ghost
-356,dusclops,Gen 3,16,306,159,40,70,130,60,130,25,ghost,,455,1.6,30.6,ghost
-357,tropius,Gen 3,20,1000,161,99,68,83,72,87,51,grass,flying,460,2.0,100.0,grass / flying
-358,chimecho,Gen 3,6,10,159,75,50,80,95,90,65,psychic,,455,0.6,1.0,psychic
-359,absol,Gen 3,12,470,163,65,130,60,75,60,75,dark,,465,1.2,47.0,dark
-360,wynaut,Gen 3,6,140,52,95,23,48,23,48,23,psychic,,260,0.6,14.0,psychic
-361,snorunt,Gen 3,7,168,60,50,50,50,50,50,50,ice,,300,0.7,16.8,ice
-362,glalie,Gen 3,15,2565,168,80,80,80,80,80,80,ice,,480,1.5,256.5,ice
-363,spheal,Gen 3,8,395,58,70,40,50,55,50,25,ice,water,290,0.8,39.5,ice / water
-364,sealeo,Gen 3,11,876,144,90,60,70,75,70,45,ice,water,410,1.1,87.6,ice / water
-365,walrein,Gen 3,14,1506,239,110,80,90,95,90,65,ice,water,530,1.4,150.6,ice / water
-366,clamperl,Gen 3,4,525,69,35,64,85,74,55,32,water,,345,0.4,52.5,water
-367,huntail,Gen 3,17,270,170,55,104,105,94,75,52,water,,485,1.7,27.0,water
-368,gorebyss,Gen 3,18,226,170,55,84,105,114,75,52,water,,485,1.8,22.6,water
-369,relicanth,Gen 3,10,234,170,100,90,130,45,65,55,water,rock,485,1.0,23.4,water / rock
-370,luvdisc,Gen 3,6,87,116,43,30,55,40,65,97,water,,330,0.6,8.7,water
-371,bagon,Gen 3,6,421,60,45,75,60,40,30,50,dragon,,300,0.6,42.1,dragon
-372,shelgon,Gen 3,11,1105,147,65,95,100,60,50,50,dragon,,420,1.1,110.5,dragon
-373,salamence,Gen 3,15,1026,270,95,135,80,110,80,100,dragon,flying,600,1.5,102.6,dragon / flying
-374,beldum,Gen 3,6,952,60,40,55,80,35,60,30,steel,psychic,300,0.6,95.2,steel / psychic
-375,metang,Gen 3,12,2025,147,60,75,100,55,80,50,steel,psychic,420,1.2,202.5,steel / psychic
-376,metagross,Gen 3,16,5500,270,80,135,130,95,90,70,steel,psychic,600,1.6,550.0,steel / psychic
-377,regirock,Gen 3,17,2300,261,80,100,200,50,100,50,rock,,580,1.7,230.0,rock
-378,regice,Gen 3,18,1750,261,80,50,100,100,200,50,ice,,580,1.8,175.0,ice
-379,registeel,Gen 3,19,2050,261,80,75,150,75,150,50,steel,,580,1.9,205.0,steel
-380,latias,Gen 3,14,400,270,80,80,90,110,130,110,dragon,psychic,600,1.4,40.0,dragon / psychic
-381,latios,Gen 3,20,600,270,80,90,80,130,110,110,dragon,psychic,600,2.0,60.0,dragon / psychic
-382,kyogre,Gen 3,45,3520,302,100,100,90,150,140,90,water,,670,4.5,352.0,water
-383,groudon,Gen 3,35,9500,302,100,150,140,100,90,90,ground,,670,3.5,950.0,ground
-384,rayquaza,Gen 3,70,2065,306,105,150,90,150,90,95,dragon,flying,680,7.0,206.5,dragon / flying
-385,jirachi,Gen 3,3,11,270,100,100,100,100,100,100,steel,psychic,600,0.3,1.1,steel / psychic
-386,deoxys-normal,Gen 3,17,608,270,50,150,50,150,50,150,psychic,,600,1.7,60.8,psychic
-387,turtwig,Gen 4,4,102,64,55,68,64,45,55,31,grass,,318,0.4,10.2,grass
-388,grotle,Gen 4,11,970,142,75,89,85,55,65,36,grass,,405,1.1,97.0,grass
-389,torterra,Gen 4,22,3100,236,95,109,105,75,85,56,grass,ground,525,2.2,310.0,grass / ground
-390,chimchar,Gen 4,5,62,62,44,58,44,58,44,61,fire,,309,0.5,6.2,fire
-391,monferno,Gen 4,9,220,142,64,78,52,78,52,81,fire,fighting,405,0.9,22.0,fire / fighting
-392,infernape,Gen 4,12,550,240,76,104,71,104,71,108,fire,fighting,534,1.2,55.0,fire / fighting
-393,piplup,Gen 4,4,52,63,53,51,53,61,56,40,water,,314,0.4,5.2,water
-394,prinplup,Gen 4,8,230,142,64,66,68,81,76,50,water,,405,0.8,23.0,water
-395,empoleon,Gen 4,17,845,239,84,86,88,111,101,60,water,steel,530,1.7,84.5,water / steel
-396,starly,Gen 4,3,20,49,40,55,30,30,30,60,normal,flying,245,0.3,2.0,normal / flying
-397,staravia,Gen 4,6,155,119,55,75,50,40,40,80,normal,flying,340,0.6,15.5,normal / flying
-398,staraptor,Gen 4,12,249,218,85,120,70,50,60,100,normal,flying,485,1.2,24.9,normal / flying
-399,bidoof,Gen 4,5,200,50,59,45,40,35,40,31,normal,,250,0.5,20.0,normal
-400,bibarel,Gen 4,10,315,144,79,85,60,55,60,71,normal,water,410,1.0,31.5,normal / water
-401,kricketot,Gen 4,3,22,39,37,25,41,25,41,25,bug,,194,0.3,2.2,bug
-402,kricketune,Gen 4,10,255,134,77,85,51,55,51,65,bug,,384,1.0,25.5,bug
-403,shinx,Gen 4,5,95,53,45,65,34,40,34,45,electric,,263,0.5,9.5,electric
-404,luxio,Gen 4,9,305,127,60,85,49,60,49,60,electric,,363,0.9,30.5,electric
-405,luxray,Gen 4,14,420,235,80,120,79,95,79,70,electric,,523,1.4,42.0,electric
-406,budew,Gen 4,2,12,56,40,30,35,50,70,55,grass,poison,280,0.2,1.2,grass / poison
-407,roserade,Gen 4,9,145,232,60,70,65,125,105,90,grass,poison,515,0.9,14.5,grass / poison
-408,cranidos,Gen 4,9,315,70,67,125,40,30,30,58,rock,,350,0.9,31.5,rock
-409,rampardos,Gen 4,16,1025,173,97,165,60,65,50,58,rock,,495,1.6,102.5,rock
-410,shieldon,Gen 4,5,570,70,30,42,118,42,88,30,rock,steel,350,0.5,57.0,rock / steel
-411,bastiodon,Gen 4,13,1495,173,60,52,168,47,138,30,rock,steel,495,1.3,149.5,rock / steel
-412,burmy,Gen 4,2,34,45,40,29,45,29,45,36,bug,,224,0.2,3.4,bug
-413,wormadam-plant,Gen 4,5,65,148,60,59,85,79,105,36,bug,grass,424,0.5,6.5,bug / grass
-414,mothim,Gen 4,9,233,148,70,94,50,94,50,66,bug,flying,424,0.9,23.3,bug / flying
-415,combee,Gen 4,3,55,49,30,30,42,30,42,70,bug,flying,244,0.3,5.5,bug / flying
-416,vespiquen,Gen 4,12,385,166,70,80,102,80,102,40,bug,flying,474,1.2,38.5,bug / flying
-417,pachirisu,Gen 4,4,39,142,60,45,70,45,90,95,electric,,405,0.4,3.9,electric
-418,buizel,Gen 4,7,295,66,55,65,35,60,30,85,water,,330,0.7,29.5,water
-419,floatzel,Gen 4,11,335,173,85,105,55,85,50,115,water,,495,1.1,33.5,water
-420,cherubi,Gen 4,4,33,55,45,35,45,62,53,35,grass,,275,0.4,3.3,grass
-421,cherrim,Gen 4,5,93,158,70,60,70,87,78,85,grass,,450,0.5,9.3,grass
-422,shellos,Gen 4,3,63,65,76,48,48,57,62,34,water,,325,0.3,6.3,water
-423,gastrodon,Gen 4,9,299,166,111,83,68,92,82,39,water,ground,475,0.9,29.9,water / ground
-424,ambipom,Gen 4,12,203,169,75,100,66,60,66,115,normal,,482,1.2,20.3,normal
-425,drifloon,Gen 4,4,12,70,90,50,34,60,44,70,ghost,flying,348,0.4,1.2,ghost / flying
-426,drifblim,Gen 4,12,150,174,150,80,44,90,54,80,ghost,flying,498,1.2,15.0,ghost / flying
-427,buneary,Gen 4,4,55,70,55,66,44,44,56,85,normal,,350,0.4,5.5,normal
-428,lopunny,Gen 4,12,333,168,65,76,84,54,96,105,normal,,480,1.2,33.3,normal
-429,mismagius,Gen 4,9,44,173,60,60,60,105,105,105,ghost,,495,0.9,4.4,ghost
-430,honchkrow,Gen 4,9,273,177,100,125,52,105,52,71,dark,flying,505,0.9,27.3,dark / flying
-431,glameow,Gen 4,5,39,62,49,55,42,42,37,85,normal,,310,0.5,3.9,normal
-432,purugly,Gen 4,10,438,158,71,82,64,64,59,112,normal,,452,1.0,43.8,normal
-433,chingling,Gen 4,2,6,57,45,30,50,65,50,45,psychic,,285,0.2,0.6,psychic
-434,stunky,Gen 4,4,192,66,63,63,47,41,41,74,poison,dark,329,0.4,19.2,poison / dark
-435,skuntank,Gen 4,10,380,168,103,93,67,71,61,84,poison,dark,479,1.0,38.0,poison / dark
-436,bronzor,Gen 4,5,605,60,57,24,86,24,86,23,steel,psychic,300,0.5,60.5,steel / psychic
-437,bronzong,Gen 4,13,1870,175,67,89,116,79,116,33,steel,psychic,500,1.3,187.0,steel / psychic
-438,bonsly,Gen 4,5,150,58,50,80,95,10,45,10,rock,,290,0.5,15.0,rock
-439,mime-jr,Gen 4,6,130,62,20,25,45,70,90,60,psychic,fairy,310,0.6,13.0,psychic / fairy
-440,happiny,Gen 4,6,244,110,100,5,5,15,65,30,normal,,220,0.6,24.4,normal
-441,chatot,Gen 4,5,19,144,76,65,45,92,42,91,normal,flying,411,0.5,1.9,normal / flying
-442,spiritomb,Gen 4,10,1080,170,50,92,108,92,108,35,ghost,dark,485,1.0,108.0,ghost / dark
-443,gible,Gen 4,7,205,60,58,70,45,40,45,42,dragon,ground,300,0.7,20.5,dragon / ground
-444,gabite,Gen 4,14,560,144,68,90,65,50,55,82,dragon,ground,410,1.4,56.0,dragon / ground
-445,garchomp,Gen 4,19,950,270,108,130,95,80,85,102,dragon,ground,600,1.9,95.0,dragon / ground
-446,munchlax,Gen 4,6,1050,78,135,85,40,40,85,5,normal,,390,0.6,105.0,normal
-447,riolu,Gen 4,7,202,57,40,70,40,35,40,60,fighting,,285,0.7,20.2,fighting
-448,lucario,Gen 4,12,540,184,70,110,70,115,70,90,fighting,steel,525,1.2,54.0,fighting / steel
-449,hippopotas,Gen 4,8,495,66,68,72,78,38,42,32,ground,,330,0.8,49.5,ground
-450,hippowdon,Gen 4,20,3000,184,108,112,118,68,72,47,ground,,525,2.0,300.0,ground
-451,skorupi,Gen 4,8,120,66,40,50,90,30,55,65,poison,bug,330,0.8,12.0,poison / bug
-452,drapion,Gen 4,13,615,175,70,90,110,60,75,95,poison,dark,500,1.3,61.5,poison / dark
-453,croagunk,Gen 4,7,230,60,48,61,40,61,40,50,poison,fighting,300,0.7,23.0,poison / fighting
-454,toxicroak,Gen 4,13,444,172,83,106,65,86,65,85,poison,fighting,490,1.3,44.4,poison / fighting
-455,carnivine,Gen 4,14,270,159,74,100,72,90,72,46,grass,,454,1.4,27.0,grass
-456,finneon,Gen 4,4,70,66,49,49,56,49,61,66,water,,330,0.4,7.0,water
-457,lumineon,Gen 4,12,240,161,69,69,76,69,86,91,water,,460,1.2,24.0,water
-458,mantyke,Gen 4,10,650,69,45,20,50,60,120,50,water,flying,345,1.0,65.0,water / flying
-459,snover,Gen 4,10,505,67,60,62,50,62,60,40,grass,ice,334,1.0,50.5,grass / ice
-460,abomasnow,Gen 4,22,1355,173,90,92,75,92,85,60,grass,ice,494,2.2,135.5,grass / ice
-461,weavile,Gen 4,11,340,179,70,120,65,45,85,125,dark,ice,510,1.1,34.0,dark / ice
-462,magnezone,Gen 4,12,1800,241,70,70,115,130,90,60,electric,steel,535,1.2,180.0,electric / steel
-463,lickilicky,Gen 4,17,1400,180,110,85,95,80,95,50,normal,,515,1.7,140.0,normal
-464,rhyperior,Gen 4,24,2828,241,115,140,130,55,55,40,ground,rock,535,2.4,282.8,ground / rock
-465,tangrowth,Gen 4,20,1286,187,100,100,125,110,50,50,grass,,535,2.0,128.6,grass
-466,electivire,Gen 4,18,1386,243,75,123,67,95,85,95,electric,,540,1.8,138.6,electric
-467,magmortar,Gen 4,16,680,243,75,95,67,125,95,83,fire,,540,1.6,68.0,fire
-468,togekiss,Gen 4,15,380,245,85,50,95,120,115,80,fairy,flying,545,1.5,38.0,fairy / flying
-469,yanmega,Gen 4,19,515,180,86,76,86,116,56,95,bug,flying,515,1.9,51.5,bug / flying
-470,leafeon,Gen 4,10,255,184,65,110,130,60,65,95,grass,,525,1.0,25.5,grass
-471,glaceon,Gen 4,8,259,184,65,60,110,130,95,65,ice,,525,0.8,25.9,ice
-472,gliscor,Gen 4,20,425,179,75,95,125,45,75,95,ground,flying,510,2.0,42.5,ground / flying
-473,mamoswine,Gen 4,25,2910,239,110,130,80,70,60,80,ice,ground,530,2.5,291.0,ice / ground
-474,porygon-z,Gen 4,9,340,241,85,80,70,135,75,90,normal,,535,0.9,34.0,normal
-475,gallade,Gen 4,16,520,233,68,125,65,65,115,80,psychic,fighting,518,1.6,52.0,psychic / fighting
-476,probopass,Gen 4,14,3400,184,60,55,145,75,150,40,rock,steel,525,1.4,340.0,rock / steel
-477,dusknoir,Gen 4,22,1066,236,45,100,135,65,135,45,ghost,,525,2.2,106.6,ghost
-478,froslass,Gen 4,13,266,168,70,80,70,80,70,110,ice,ghost,480,1.3,26.6,ice / ghost
-479,rotom,Gen 4,3,3,154,50,50,77,95,77,91,electric,ghost,440,0.3,0.3,electric / ghost
-480,uxie,Gen 4,3,3,261,75,75,130,75,130,95,psychic,,580,0.3,0.3,psychic
-481,mesprit,Gen 4,3,3,261,80,105,105,105,105,80,psychic,,580,0.3,0.3,psychic
-482,azelf,Gen 4,3,3,261,75,125,70,125,70,115,psychic,,580,0.3,0.3,psychic
-483,dialga,Gen 4,54,6830,306,100,120,120,150,100,90,steel,dragon,680,5.4,683.0,steel / dragon
-484,palkia,Gen 4,42,3360,306,90,120,100,150,120,100,water,dragon,680,4.2,336.0,water / dragon
-485,heatran,Gen 4,17,4300,270,91,90,106,130,106,77,fire,steel,600,1.7,430.0,fire / steel
-486,regigigas,Gen 4,37,4200,302,110,160,110,80,110,100,normal,,670,3.7,420.0,normal
-487,giratina-altered,Gen 4,45,7500,306,150,100,120,100,120,90,ghost,dragon,680,4.5,750.0,ghost / dragon
-488,cresselia,Gen 4,15,856,270,120,70,110,75,120,85,psychic,,580,1.5,85.6,psychic
-489,phione,Gen 4,4,31,216,80,80,80,80,80,80,water,,480,0.4,3.1,water
-490,manaphy,Gen 4,3,14,270,100,100,100,100,100,100,water,,600,0.3,1.4,water
-491,darkrai,Gen 4,15,505,270,70,90,90,135,90,125,dark,,600,1.5,50.5,dark
-492,shaymin-land,Gen 4,2,21,270,100,100,100,100,100,100,grass,,600,0.2,2.1,grass
-493,arceus,Gen 4,32,3200,324,120,120,120,120,120,120,normal,,720,3.2,320.0,normal
-494,victini,Gen 5,4,40,270,100,100,100,100,100,100,psychic,fire,600,0.4,4.0,psychic / fire
-495,snivy,Gen 5,6,81,62,45,45,55,45,55,63,grass,,308,0.6,8.1,grass
-496,servine,Gen 5,8,160,145,60,60,75,60,75,83,grass,,413,0.8,16.0,grass
-497,serperior,Gen 5,33,630,238,75,75,95,75,95,113,grass,,528,3.3,63.0,grass
-498,tepig,Gen 5,5,99,62,65,63,45,45,45,45,fire,,308,0.5,9.9,fire
-499,pignite,Gen 5,10,555,146,90,93,55,70,55,55,fire,fighting,418,1.0,55.5,fire / fighting
-500,emboar,Gen 5,16,1500,238,110,123,65,100,65,65,fire,fighting,528,1.6,150.0,fire / fighting
-501,oshawott,Gen 5,5,59,62,55,55,45,63,45,45,water,,308,0.5,5.9,water
-502,dewott,Gen 5,8,245,145,75,75,60,83,60,60,water,,413,0.8,24.5,water
-503,samurott,Gen 5,15,946,238,95,100,85,108,70,70,water,,528,1.5,94.6,water
-504,patrat,Gen 5,5,116,51,45,55,39,35,39,42,normal,,255,0.5,11.6,normal
-505,watchog,Gen 5,11,270,147,60,85,69,60,69,77,normal,,420,1.1,27.0,normal
-506,lillipup,Gen 5,4,41,55,45,60,45,25,45,55,normal,,275,0.4,4.1,normal
-507,herdier,Gen 5,9,147,130,65,80,65,35,65,60,normal,,370,0.9,14.7,normal
-508,stoutland,Gen 5,12,610,225,85,110,90,45,90,80,normal,,500,1.2,61.0,normal
-509,purrloin,Gen 5,4,101,56,41,50,37,50,37,66,dark,,281,0.4,10.1,dark
-510,liepard,Gen 5,11,375,156,64,88,50,88,50,106,dark,,446,1.1,37.5,dark
-511,pansage,Gen 5,6,105,63,50,53,48,53,48,64,grass,,316,0.6,10.5,grass
-512,simisage,Gen 5,11,305,174,75,98,63,98,63,101,grass,,498,1.1,30.5,grass
-513,pansear,Gen 5,6,110,63,50,53,48,53,48,64,fire,,316,0.6,11.0,fire
-514,simisear,Gen 5,10,280,174,75,98,63,98,63,101,fire,,498,1.0,28.0,fire
-515,panpour,Gen 5,6,135,63,50,53,48,53,48,64,water,,316,0.6,13.5,water
-516,simipour,Gen 5,10,290,174,75,98,63,98,63,101,water,,498,1.0,29.0,water
-517,munna,Gen 5,6,233,58,76,25,45,67,55,24,psychic,,292,0.6,23.3,psychic
-518,musharna,Gen 5,11,605,170,116,55,85,107,95,29,psychic,,487,1.1,60.5,psychic
-519,pidove,Gen 5,3,21,53,50,55,50,36,30,43,normal,flying,264,0.3,2.1,normal / flying
-520,tranquill,Gen 5,6,150,125,62,77,62,50,42,65,normal,flying,358,0.6,15.0,normal / flying
-521,unfezant,Gen 5,12,290,220,80,115,80,65,55,93,normal,flying,488,1.2,29.0,normal / flying
-522,blitzle,Gen 5,8,298,59,45,60,32,50,32,76,electric,,295,0.8,29.8,electric
-523,zebstrika,Gen 5,16,795,174,75,100,63,80,63,116,electric,,497,1.6,79.5,electric
-524,roggenrola,Gen 5,4,180,56,55,75,85,25,25,15,rock,,280,0.4,18.0,rock
-525,boldore,Gen 5,9,1020,137,70,105,105,50,40,20,rock,,390,0.9,102.0,rock
-526,gigalith,Gen 5,17,2600,232,85,135,130,60,80,25,rock,,515,1.7,260.0,rock
-527,woobat,Gen 5,4,21,65,65,45,43,55,43,72,psychic,flying,323,0.4,2.1,psychic / flying
-528,swoobat,Gen 5,9,105,149,67,57,55,77,55,114,psychic,flying,425,0.9,10.5,psychic / flying
-529,drilbur,Gen 5,3,85,66,60,85,40,30,45,68,ground,,328,0.3,8.5,ground
-530,excadrill,Gen 5,7,404,178,110,135,60,50,65,88,ground,steel,508,0.7,40.4,ground / steel
-531,audino,Gen 5,11,310,390,103,60,86,60,86,50,normal,,445,1.1,31.0,normal
-532,timburr,Gen 5,6,125,61,75,80,55,25,35,35,fighting,,305,0.6,12.5,fighting
-533,gurdurr,Gen 5,12,400,142,85,105,85,40,50,40,fighting,,405,1.2,40.0,fighting
-534,conkeldurr,Gen 5,14,870,227,105,140,95,55,65,45,fighting,,505,1.4,87.0,fighting
-535,tympole,Gen 5,5,45,59,50,50,40,50,40,64,water,,294,0.5,4.5,water
-536,palpitoad,Gen 5,8,170,134,75,65,55,65,55,69,water,ground,384,0.8,17.0,water / ground
-537,seismitoad,Gen 5,15,620,229,105,95,75,85,75,74,water,ground,509,1.5,62.0,water / ground
-538,throh,Gen 5,13,555,163,120,100,85,30,85,45,fighting,,465,1.3,55.5,fighting
-539,sawk,Gen 5,14,510,163,75,125,75,30,75,85,fighting,,465,1.4,51.0,fighting
-540,sewaddle,Gen 5,3,25,62,45,53,70,40,60,42,bug,grass,310,0.3,2.5,bug / grass
-541,swadloon,Gen 5,5,73,133,55,63,90,50,80,42,bug,grass,380,0.5,7.3,bug / grass
-542,leavanny,Gen 5,12,205,225,75,103,80,70,80,92,bug,grass,500,1.2,20.5,bug / grass
-543,venipede,Gen 5,4,53,52,30,45,59,30,39,57,bug,poison,260,0.4,5.3,bug / poison
-544,whirlipede,Gen 5,12,585,126,40,55,99,40,79,47,bug,poison,360,1.2,58.5,bug / poison
-545,scolipede,Gen 5,25,2005,218,60,100,89,55,69,112,bug,poison,485,2.5,200.5,bug / poison
-546,cottonee,Gen 5,3,6,56,40,27,60,37,50,66,grass,fairy,280,0.3,0.6,grass / fairy
-547,whimsicott,Gen 5,7,66,168,60,67,85,77,75,116,grass,fairy,480,0.7,6.6,grass / fairy
-548,petilil,Gen 5,5,66,56,45,35,50,70,50,30,grass,,280,0.5,6.6,grass
-549,lilligant,Gen 5,11,163,168,70,60,75,110,75,90,grass,,480,1.1,16.3,grass
-550,basculin-red-striped,Gen 5,10,180,161,70,92,65,80,55,98,water,,460,1.0,18.0,water
-551,sandile,Gen 5,7,152,58,50,72,35,35,35,65,ground,dark,292,0.7,15.2,ground / dark
-552,krokorok,Gen 5,10,334,123,60,82,45,45,45,74,ground,dark,351,1.0,33.4,ground / dark
-553,krookodile,Gen 5,15,963,234,95,117,80,65,70,92,ground,dark,519,1.5,96.3,ground / dark
-554,darumaka,Gen 5,6,375,63,70,90,45,15,45,50,fire,,315,0.6,37.5,fire
-555,darmanitan-standard,Gen 5,13,929,168,105,140,55,30,55,95,fire,,480,1.3,92.9,fire
-556,maractus,Gen 5,10,280,161,75,86,67,106,67,60,grass,,461,1.0,28.0,grass
-557,dwebble,Gen 5,3,145,65,50,65,85,35,35,55,bug,rock,325,0.3,14.5,bug / rock
-558,crustle,Gen 5,14,2000,170,70,105,125,65,75,45,bug,rock,485,1.4,200.0,bug / rock
-559,scraggy,Gen 5,6,118,70,50,75,70,35,70,48,dark,fighting,348,0.6,11.8,dark / fighting
-560,scrafty,Gen 5,11,300,171,65,90,115,45,115,58,dark,fighting,488,1.1,30.0,dark / fighting
-561,sigilyph,Gen 5,14,140,172,72,58,80,103,80,97,psychic,flying,490,1.4,14.0,psychic / flying
-562,yamask,Gen 5,5,15,61,38,30,85,55,65,30,ghost,,303,0.5,1.5,ghost
-563,cofagrigus,Gen 5,17,765,169,58,50,145,95,105,30,ghost,,483,1.7,76.5,ghost
-564,tirtouga,Gen 5,7,165,71,54,78,103,53,45,22,water,rock,355,0.7,16.5,water / rock
-565,carracosta,Gen 5,12,810,173,74,108,133,83,65,32,water,rock,495,1.2,81.0,water / rock
-566,archen,Gen 5,5,95,71,55,112,45,74,45,70,rock,flying,401,0.5,9.5,rock / flying
-567,archeops,Gen 5,14,320,177,75,140,65,112,65,110,rock,flying,567,1.4,32.0,rock / flying
-568,trubbish,Gen 5,6,310,66,50,50,62,40,62,65,poison,,329,0.6,31.0,poison
-569,garbodor,Gen 5,19,1073,166,80,95,82,60,82,75,poison,,474,1.9,107.3,poison
-570,zorua,Gen 5,7,125,66,40,65,40,80,40,65,dark,,330,0.7,12.5,dark
-571,zoroark,Gen 5,16,811,179,60,105,60,120,60,105,dark,,510,1.6,81.1,dark
-572,minccino,Gen 5,4,58,60,55,50,40,40,40,75,normal,,300,0.4,5.8,normal
-573,cinccino,Gen 5,5,75,165,75,95,60,65,60,115,normal,,470,0.5,7.5,normal
-574,gothita,Gen 5,4,58,58,45,30,50,55,65,45,psychic,,290,0.4,5.8,psychic
-575,gothorita,Gen 5,7,180,137,60,45,70,75,85,55,psychic,,390,0.7,18.0,psychic
-576,gothitelle,Gen 5,15,440,221,70,55,95,95,110,65,psychic,,490,1.5,44.0,psychic
-577,solosis,Gen 5,3,10,58,45,30,40,105,50,20,psychic,,290,0.3,1.0,psychic
-578,duosion,Gen 5,6,80,130,65,40,50,125,60,30,psychic,,370,0.6,8.0,psychic
-579,reuniclus,Gen 5,10,201,221,110,65,75,125,85,30,psychic,,490,1.0,20.1,psychic
-580,ducklett,Gen 5,5,55,61,62,44,50,44,50,55,water,flying,305,0.5,5.5,water / flying
-581,swanna,Gen 5,13,242,166,75,87,63,87,63,98,water,flying,473,1.3,24.2,water / flying
-582,vanillite,Gen 5,4,57,61,36,50,50,65,60,44,ice,,305,0.4,5.7,ice
-583,vanillish,Gen 5,11,410,138,51,65,65,80,75,59,ice,,395,1.1,41.0,ice
-584,vanilluxe,Gen 5,13,575,241,71,95,85,110,95,79,ice,,535,1.3,57.5,ice
-585,deerling,Gen 5,6,195,67,60,60,50,40,50,75,normal,grass,335,0.6,19.5,normal / grass
-586,sawsbuck,Gen 5,19,925,166,80,100,70,60,70,95,normal,grass,475,1.9,92.5,normal / grass
-587,emolga,Gen 5,4,50,150,55,75,60,75,60,103,electric,flying,428,0.4,5.0,electric / flying
-588,karrablast,Gen 5,5,59,63,50,75,45,40,45,60,bug,,315,0.5,5.9,bug
-589,escavalier,Gen 5,10,330,173,70,135,105,60,105,20,bug,steel,495,1.0,33.0,bug / steel
-590,foongus,Gen 5,2,10,59,69,55,45,55,55,15,grass,poison,294,0.2,1.0,grass / poison
-591,amoonguss,Gen 5,6,105,162,114,85,70,85,80,30,grass,poison,464,0.6,10.5,grass / poison
-592,frillish-male,Gen 5,12,330,67,55,40,50,65,85,40,water,ghost,335,1.2,33.0,water / ghost
-593,jellicent-male,Gen 5,22,1350,168,100,60,70,85,105,60,water,ghost,480,2.2,135.0,water / ghost
-594,alomomola,Gen 5,12,316,165,165,75,80,40,45,65,water,,470,1.2,31.6,water
-595,joltik,Gen 5,1,6,64,50,47,50,57,50,65,bug,electric,319,0.1,0.6,bug / electric
-596,galvantula,Gen 5,8,143,165,70,77,60,97,60,108,bug,electric,472,0.8,14.3,bug / electric
-597,ferroseed,Gen 5,6,188,61,44,50,91,24,86,10,grass,steel,305,0.6,18.8,grass / steel
-598,ferrothorn,Gen 5,10,1100,171,74,94,131,54,116,20,grass,steel,489,1.0,110.0,grass / steel
-599,klink,Gen 5,3,210,60,40,55,70,45,60,30,steel,,300,0.3,21.0,steel
-600,klang,Gen 5,6,510,154,60,80,95,70,85,50,steel,,440,0.6,51.0,steel
-601,klinklang,Gen 5,6,810,234,60,100,115,70,85,90,steel,,520,0.6,81.0,steel
-602,tynamo,Gen 5,2,3,55,35,55,40,45,40,60,electric,,275,0.2,0.3,electric
-603,eelektrik,Gen 5,12,220,142,65,85,70,75,70,40,electric,,405,1.2,22.0,electric
-604,eelektross,Gen 5,21,805,232,85,115,80,105,80,50,electric,,515,2.1,80.5,electric
-605,elgyem,Gen 5,5,90,67,55,55,55,85,55,30,psychic,,335,0.5,9.0,psychic
-606,beheeyem,Gen 5,10,345,170,75,75,75,125,95,40,psychic,,485,1.0,34.5,psychic
-607,litwick,Gen 5,3,31,55,50,30,55,65,55,20,ghost,fire,275,0.3,3.1,ghost / fire
-608,lampent,Gen 5,6,130,130,60,40,60,95,60,55,ghost,fire,370,0.6,13.0,ghost / fire
-609,chandelure,Gen 5,10,343,234,60,55,90,145,90,80,ghost,fire,520,1.0,34.3,ghost / fire
-610,axew,Gen 5,6,180,64,46,87,60,30,40,57,dragon,,320,0.6,18.0,dragon
-611,fraxure,Gen 5,10,360,144,66,117,70,40,50,67,dragon,,410,1.0,36.0,dragon
-612,haxorus,Gen 5,18,1055,243,76,147,90,60,70,97,dragon,,540,1.8,105.5,dragon
-613,cubchoo,Gen 5,5,85,61,55,70,40,60,40,40,ice,,305,0.5,8.5,ice
-614,beartic,Gen 5,26,2600,177,95,130,80,70,80,50,ice,,505,2.6,260.0,ice
-615,cryogonal,Gen 5,11,1480,180,80,50,50,95,135,105,ice,,515,1.1,148.0,ice
-616,shelmet,Gen 5,4,77,61,50,40,85,40,65,25,bug,,305,0.4,7.7,bug
-617,accelgor,Gen 5,8,253,173,80,70,40,100,60,145,bug,,495,0.8,25.3,bug
-618,stunfisk,Gen 5,7,110,165,109,66,84,81,99,32,ground,electric,471,0.7,11.0,ground / electric
-619,mienfoo,Gen 5,9,200,70,45,85,50,55,50,65,fighting,,350,0.9,20.0,fighting
-620,mienshao,Gen 5,14,355,179,65,125,60,95,60,105,fighting,,510,1.4,35.5,fighting
-621,druddigon,Gen 5,16,1390,170,77,120,90,60,90,48,dragon,,485,1.6,139.0,dragon
-622,golett,Gen 5,10,920,61,59,74,50,35,50,35,ground,ghost,303,1.0,92.0,ground / ghost
-623,golurk,Gen 5,28,3300,169,89,124,80,55,80,55,ground,ghost,483,2.8,330.0,ground / ghost
-624,pawniard,Gen 5,5,102,68,45,85,70,40,40,60,dark,steel,340,0.5,10.2,dark / steel
-625,bisharp,Gen 5,16,700,172,65,125,100,60,70,70,dark,steel,490,1.6,70.0,dark / steel
-626,bouffalant,Gen 5,16,946,172,95,110,95,40,95,55,normal,,490,1.6,94.6,normal
-627,rufflet,Gen 5,5,105,70,70,83,50,37,50,60,normal,flying,350,0.5,10.5,normal / flying
-628,braviary,Gen 5,15,410,179,100,123,75,57,75,80,normal,flying,510,1.5,41.0,normal / flying
-629,vullaby,Gen 5,5,90,74,70,55,75,45,65,60,dark,flying,370,0.5,9.0,dark / flying
-630,mandibuzz,Gen 5,12,395,179,110,65,105,55,95,80,dark,flying,510,1.2,39.5,dark / flying
-631,heatmor,Gen 5,14,580,169,85,97,66,105,66,65,fire,,484,1.4,58.0,fire
-632,durant,Gen 5,3,330,169,58,109,112,48,48,109,bug,steel,484,0.3,33.0,bug / steel
-633,deino,Gen 5,8,173,60,52,65,50,45,50,38,dark,dragon,300,0.8,17.3,dark / dragon
-634,zweilous,Gen 5,14,500,147,72,85,70,65,70,58,dark,dragon,420,1.4,50.0,dark / dragon
-635,hydreigon,Gen 5,18,1600,270,92,105,90,125,90,98,dark,dragon,600,1.8,160.0,dark / dragon
-636,larvesta,Gen 5,11,288,72,55,85,55,50,55,60,bug,fire,360,1.1,28.8,bug / fire
-637,volcarona,Gen 5,16,460,248,85,60,65,135,105,100,bug,fire,550,1.6,46.0,bug / fire
-638,cobalion,Gen 5,21,2500,261,91,90,129,90,72,108,steel,fighting,580,2.1,250.0,steel / fighting
-639,terrakion,Gen 5,19,2600,261,91,129,90,72,90,108,rock,fighting,580,1.9,260.0,rock / fighting
-640,virizion,Gen 5,20,2000,261,91,90,72,90,129,108,grass,fighting,580,2.0,200.0,grass / fighting
-641,tornadus-incarnate,Gen 5,15,630,261,79,115,70,125,80,111,flying,,580,1.5,63.0,flying
-642,thundurus-incarnate,Gen 5,15,610,261,79,115,70,125,80,111,electric,flying,580,1.5,61.0,electric / flying
-643,reshiram,Gen 5,32,3300,306,100,120,100,150,120,90,dragon,fire,680,3.2,330.0,dragon / fire
-644,zekrom,Gen 5,29,3450,306,100,150,120,120,100,90,dragon,electric,680,2.9,345.0,dragon / electric
-645,landorus-incarnate,Gen 5,15,680,270,89,125,90,115,80,101,ground,flying,600,1.5,68.0,ground / flying
-646,kyurem,Gen 5,30,3250,297,125,130,90,130,90,95,dragon,ice,660,3.0,325.0,dragon / ice
-647,keldeo-ordinary,Gen 5,14,485,261,91,72,90,129,90,108,water,fighting,580,1.4,48.5,water / fighting
-648,meloetta-aria,Gen 5,6,65,270,100,77,77,128,128,90,normal,psychic,600,0.6,6.5,normal / psychic
-649,genesect,Gen 5,15,825,270,71,120,95,120,95,99,bug,steel,600,1.5,82.5,bug / steel
-650,chespin,Gen 6,4,90,63,56,61,65,48,45,38,grass,,313,0.4,9.0,grass
-651,quilladin,Gen 6,7,290,142,61,78,95,56,58,57,grass,,405,0.7,29.0,grass
-652,chesnaught,Gen 6,16,900,239,88,107,122,74,75,64,grass,fighting,530,1.6,90.0,grass / fighting
-653,fennekin,Gen 6,4,94,61,40,45,40,62,60,60,fire,,307,0.4,9.4,fire
-654,braixen,Gen 6,10,145,143,59,59,58,90,70,73,fire,,409,1.0,14.5,fire
-655,delphox,Gen 6,15,390,240,75,69,72,114,100,104,fire,psychic,534,1.5,39.0,fire / psychic
-656,froakie,Gen 6,3,70,63,41,56,40,62,44,71,water,,314,0.3,7.0,water
-657,frogadier,Gen 6,6,109,142,54,63,52,83,56,97,water,,405,0.6,10.9,water
-658,greninja,Gen 6,15,400,239,72,95,67,103,71,122,water,dark,530,1.5,40.0,water / dark
-659,bunnelby,Gen 6,4,50,47,38,36,38,32,36,57,normal,,237,0.4,5.0,normal
-660,diggersby,Gen 6,10,424,148,85,56,77,50,77,78,normal,ground,423,1.0,42.4,normal / ground
-661,fletchling,Gen 6,3,17,56,45,50,43,40,38,62,normal,flying,278,0.3,1.7,normal / flying
-662,fletchinder,Gen 6,7,160,134,62,73,55,56,52,84,fire,flying,382,0.7,16.0,fire / flying
-663,talonflame,Gen 6,12,245,175,78,81,71,74,69,126,fire,flying,499,1.2,24.5,fire / flying
-664,scatterbug,Gen 6,3,25,40,38,35,40,27,25,35,bug,,200,0.3,2.5,bug
-665,spewpa,Gen 6,3,84,75,45,22,60,27,30,29,bug,,213,0.3,8.4,bug
-666,vivillon,Gen 6,12,170,185,80,52,50,90,50,89,bug,flying,411,1.2,17.0,bug / flying
-667,litleo,Gen 6,6,135,74,62,50,58,73,54,72,fire,normal,369,0.6,13.5,fire / normal
-668,pyroar-male,Gen 6,15,815,177,86,68,72,109,66,106,fire,normal,507,1.5,81.5,fire / normal
-669,flabebe,Gen 6,1,1,61,44,38,39,61,79,42,fairy,,303,0.1,0.1,fairy
-670,floette,Gen 6,2,9,130,54,45,47,75,98,52,fairy,,371,0.2,0.9,fairy
-671,florges,Gen 6,11,100,248,78,65,68,112,154,75,fairy,,552,1.1,10.0,fairy
-672,skiddo,Gen 6,9,310,70,66,65,48,62,57,52,grass,,350,0.9,31.0,grass
-673,gogoat,Gen 6,17,910,186,123,100,62,97,81,68,grass,,531,1.7,91.0,grass
-674,pancham,Gen 6,6,80,70,67,82,62,46,48,43,fighting,,348,0.6,8.0,fighting
-675,pangoro,Gen 6,21,1360,173,95,124,78,69,71,58,fighting,dark,495,2.1,136.0,fighting / dark
-676,furfrou,Gen 6,12,280,165,75,80,60,65,90,102,normal,,472,1.2,28.0,normal
-677,espurr,Gen 6,3,35,71,62,48,54,63,60,68,psychic,,355,0.3,3.5,psychic
-678,meowstic-male,Gen 6,6,85,163,74,48,76,83,81,104,psychic,,466,0.6,8.5,psychic
-679,honedge,Gen 6,8,20,65,45,80,100,35,37,28,steel,ghost,325,0.8,2.0,steel / ghost
-680,doublade,Gen 6,8,45,157,59,110,150,45,49,35,steel,ghost,448,0.8,4.5,steel / ghost
-681,aegislash-shield,Gen 6,17,530,234,60,50,140,50,140,60,steel,ghost,500,1.7,53.0,steel / ghost
-682,spritzee,Gen 6,2,5,68,78,52,60,63,65,23,fairy,,341,0.2,0.5,fairy
-683,aromatisse,Gen 6,8,155,162,101,72,72,99,89,29,fairy,,462,0.8,15.5,fairy
-684,swirlix,Gen 6,4,35,68,62,48,66,59,57,49,fairy,,341,0.4,3.5,fairy
-685,slurpuff,Gen 6,8,50,168,82,80,86,85,75,72,fairy,,480,0.8,5.0,fairy
-686,inkay,Gen 6,4,35,58,53,54,53,37,46,45,dark,psychic,288,0.4,3.5,dark / psychic
-687,malamar,Gen 6,15,470,169,86,92,88,68,75,73,dark,psychic,482,1.5,47.0,dark / psychic
-688,binacle,Gen 6,5,310,61,42,52,67,39,56,50,rock,water,306,0.5,31.0,rock / water
-689,barbaracle,Gen 6,13,960,175,72,105,115,54,86,68,rock,water,500,1.3,96.0,rock / water
-690,skrelp,Gen 6,5,73,64,50,60,60,60,60,30,poison,water,320,0.5,7.3,poison / water
-691,dragalge,Gen 6,18,815,173,65,75,90,97,123,44,poison,dragon,494,1.8,81.5,poison / dragon
-692,clauncher,Gen 6,5,83,66,50,53,62,58,63,44,water,,330,0.5,8.3,water
-693,clawitzer,Gen 6,13,353,100,71,73,88,120,89,59,water,,500,1.3,35.3,water
-694,helioptile,Gen 6,5,60,58,44,38,33,61,43,70,electric,normal,289,0.5,6.0,electric / normal
-695,heliolisk,Gen 6,10,210,168,62,55,52,109,94,109,electric,normal,481,1.0,21.0,electric / normal
-696,tyrunt,Gen 6,8,260,72,58,89,77,45,45,48,rock,dragon,362,0.8,26.0,rock / dragon
-697,tyrantrum,Gen 6,25,2700,182,82,121,119,69,59,71,rock,dragon,521,2.5,270.0,rock / dragon
-698,amaura,Gen 6,13,252,72,77,59,50,67,63,46,rock,ice,362,1.3,25.2,rock / ice
-699,aurorus,Gen 6,27,2250,104,123,77,72,99,92,58,rock,ice,521,2.7,225.0,rock / ice
-700,sylveon,Gen 6,10,235,184,95,65,65,110,130,60,fairy,,525,1.0,23.5,fairy
-701,hawlucha,Gen 6,8,215,175,78,92,75,74,63,118,fighting,flying,500,0.8,21.5,fighting / flying
-702,dedenne,Gen 6,2,22,151,67,58,57,81,67,101,electric,fairy,431,0.2,2.2,electric / fairy
-703,carbink,Gen 6,3,57,100,50,50,150,50,150,50,rock,fairy,500,0.3,5.7,rock / fairy
-704,goomy,Gen 6,3,28,60,45,50,35,55,75,40,dragon,,300,0.3,2.8,dragon
-705,sliggoo,Gen 6,8,175,158,68,75,53,83,113,60,dragon,,452,0.8,17.5,dragon
-706,goodra,Gen 6,20,1505,270,90,100,70,110,150,80,dragon,,600,2.0,150.5,dragon
-707,klefki,Gen 6,2,30,165,57,80,91,80,87,75,steel,fairy,470,0.2,3.0,steel / fairy
-708,phantump,Gen 6,4,70,62,43,70,48,50,60,38,ghost,grass,309,0.4,7.0,ghost / grass
-709,trevenant,Gen 6,15,710,166,85,110,76,65,82,56,ghost,grass,474,1.5,71.0,ghost / grass
-710,pumpkaboo-average,Gen 6,4,50,67,49,66,70,44,55,51,ghost,grass,335,0.4,5.0,ghost / grass
-711,gourgeist-average,Gen 6,9,125,173,65,90,122,58,75,84,ghost,grass,494,0.9,12.5,ghost / grass
-712,bergmite,Gen 6,10,995,61,55,69,85,32,35,28,ice,,304,1.0,99.5,ice
-713,avalugg,Gen 6,20,5050,180,95,117,184,44,46,28,ice,,514,2.0,505.0,ice
-714,noibat,Gen 6,5,80,49,40,30,35,45,40,55,flying,dragon,245,0.5,8.0,flying / dragon
-715,noivern,Gen 6,15,850,187,85,70,80,97,80,123,flying,dragon,535,1.5,85.0,flying / dragon
-716,xerneas,Gen 6,30,2150,306,126,131,95,131,98,99,fairy,,680,3.0,215.0,fairy
-717,yveltal,Gen 6,58,2030,306,126,131,95,131,98,99,dark,flying,680,5.8,203.0,dark / flying
-718,zygarde-50,Gen 6,50,3050,270,108,100,121,81,95,95,dragon,ground,600,5.0,305.0,dragon / ground
-719,diancie,Gen 6,7,88,270,50,100,150,100,150,50,rock,fairy,600,0.7,8.8,rock / fairy
-720,hoopa,Gen 6,5,90,270,80,110,60,150,130,70,psychic,ghost,600,0.5,9.0,psychic / ghost
-721,volcanion,Gen 6,17,1950,270,80,110,120,130,90,70,fire,water,600,1.7,195.0,fire / water
-722,rowlet,Gen 7,3,15,64,68,55,55,50,50,42,grass,flying,320,0.3,1.5,grass / flying
-723,dartrix,Gen 7,7,160,147,78,75,75,70,70,52,grass,flying,420,0.7,16.0,grass / flying
-724,decidueye,Gen 7,16,366,239,78,107,75,100,100,70,grass,ghost,530,1.6,36.6,grass / ghost
-725,litten,Gen 7,4,43,64,45,65,40,60,40,70,fire,,320,0.4,4.3,fire
-726,torracat,Gen 7,7,250,147,65,85,50,80,50,90,fire,,420,0.7,25.0,fire
-727,incineroar,Gen 7,18,830,239,95,115,90,80,90,60,fire,dark,530,1.8,83.0,fire / dark
-728,popplio,Gen 7,4,75,64,50,54,54,66,56,40,water,,320,0.4,7.5,water
-729,brionne,Gen 7,6,175,147,60,69,69,91,81,50,water,,420,0.6,17.5,water
-730,primarina,Gen 7,18,440,239,80,74,74,126,116,60,water,fairy,530,1.8,44.0,water / fairy
-731,pikipek,Gen 7,3,12,53,35,75,30,30,30,65,normal,flying,265,0.3,1.2,normal / flying
-732,trumbeak,Gen 7,6,148,124,55,85,50,40,50,75,normal,flying,355,0.6,14.8,normal / flying
-733,toucannon,Gen 7,11,260,218,80,120,75,75,75,60,normal,flying,485,1.1,26.0,normal / flying
-734,yungoos,Gen 7,4,60,51,48,70,30,30,30,45,normal,,253,0.4,6.0,normal
-735,gumshoos,Gen 7,7,142,146,88,110,60,55,60,45,normal,,418,0.7,14.2,normal
-736,grubbin,Gen 7,4,44,60,47,62,45,55,45,46,bug,,300,0.4,4.4,bug
-737,charjabug,Gen 7,5,105,140,57,82,95,55,75,36,bug,electric,400,0.5,10.5,bug / electric
-738,vikavolt,Gen 7,15,450,225,77,70,90,145,75,43,bug,electric,500,1.5,45.0,bug / electric
-739,crabrawler,Gen 7,6,70,68,47,82,57,42,47,63,fighting,,338,0.6,7.0,fighting
-740,crabominable,Gen 7,17,1800,167,97,132,77,62,67,43,fighting,ice,478,1.7,180.0,fighting / ice
-741,oricorio-baile,Gen 7,6,34,167,75,70,70,98,70,93,fire,flying,476,0.6,3.4,fire / flying
-742,cutiefly,Gen 7,1,2,61,40,45,40,55,40,84,bug,fairy,304,0.1,0.2,bug / fairy
-743,ribombee,Gen 7,2,5,162,60,55,60,95,70,124,bug,fairy,464,0.2,0.5,bug / fairy
-744,rockruff,Gen 7,5,92,56,45,65,40,30,40,60,rock,,280,0.5,9.2,rock
-745,lycanroc-midday,Gen 7,8,250,170,75,115,65,55,65,112,rock,,487,0.8,25.0,rock
-746,wishiwashi-solo,Gen 7,2,3,61,45,20,20,25,25,40,water,,175,0.2,0.3,water
-747,mareanie,Gen 7,4,80,61,50,53,62,43,52,45,poison,water,305,0.4,8.0,poison / water
-748,toxapex,Gen 7,7,145,173,50,63,152,53,142,35,poison,water,495,0.7,14.5,poison / water
-749,mudbray,Gen 7,10,1100,77,70,100,70,45,55,45,ground,,385,1.0,110.0,ground
-750,mudsdale,Gen 7,25,9200,175,100,125,100,55,85,35,ground,,500,2.5,920.0,ground
-751,dewpider,Gen 7,3,40,54,38,40,52,40,72,27,water,bug,269,0.3,4.0,water / bug
-752,araquanid,Gen 7,18,820,159,68,70,92,50,132,42,water,bug,454,1.8,82.0,water / bug
-753,fomantis,Gen 7,3,15,50,40,55,35,50,35,35,grass,,250,0.3,1.5,grass
-754,lurantis,Gen 7,9,185,168,70,105,90,80,90,45,grass,,480,0.9,18.5,grass
-755,morelull,Gen 7,2,15,57,40,35,55,65,75,15,grass,fairy,285,0.2,1.5,grass / fairy
-756,shiinotic,Gen 7,10,115,142,60,45,80,90,100,30,grass,fairy,405,1.0,11.5,grass / fairy
-757,salandit,Gen 7,6,48,64,48,44,40,71,40,77,poison,fire,320,0.6,4.8,poison / fire
-758,salazzle,Gen 7,12,222,168,68,64,60,111,60,117,poison,fire,480,1.2,22.2,poison / fire
-759,stufful,Gen 7,5,68,68,70,75,50,45,50,50,normal,fighting,340,0.5,6.8,normal / fighting
-760,bewear,Gen 7,21,1350,175,120,125,80,55,60,60,normal,fighting,500,2.1,135.0,normal / fighting
-761,bounsweet,Gen 7,3,32,42,42,30,38,30,38,32,grass,,210,0.3,3.2,grass
-762,steenee,Gen 7,7,82,102,52,40,48,40,48,62,grass,,290,0.7,8.2,grass
-763,tsareena,Gen 7,12,214,230,72,120,98,50,98,72,grass,,510,1.2,21.4,grass
-764,comfey,Gen 7,1,3,170,51,52,90,82,110,100,fairy,,485,0.1,0.3,fairy
-765,oranguru,Gen 7,15,760,172,90,60,80,90,110,60,normal,psychic,490,1.5,76.0,normal / psychic
-766,passimian,Gen 7,20,828,172,100,120,90,40,60,80,fighting,,490,2.0,82.8,fighting
-767,wimpod,Gen 7,5,120,46,25,35,40,20,30,80,bug,water,230,0.5,12.0,bug / water
-768,golisopod,Gen 7,20,1080,186,75,125,140,60,90,40,bug,water,530,2.0,108.0,bug / water
-769,sandygast,Gen 7,5,700,64,55,55,80,70,45,15,ghost,ground,320,0.5,70.0,ghost / ground
-770,palossand,Gen 7,13,2500,168,85,75,110,100,75,35,ghost,ground,480,1.3,250.0,ghost / ground
-771,pyukumuku,Gen 7,3,12,144,55,60,130,30,130,5,water,,410,0.3,1.2,water
-772,type-null,Gen 7,19,1205,107,95,95,95,95,95,59,normal,,534,1.9,120.5,normal
-773,silvally,Gen 7,23,1005,257,95,95,95,95,95,95,normal,,570,2.3,100.5,normal
-774,minior-red-meteor,Gen 7,3,400,154,60,60,100,60,100,60,rock,flying,440,0.3,40.0,rock / flying
-775,komala,Gen 7,4,199,168,65,115,65,75,95,65,normal,,480,0.4,19.9,normal
-776,turtonator,Gen 7,20,2120,170,60,78,135,91,85,36,fire,dragon,485,2.0,212.0,fire / dragon
-777,togedemaru,Gen 7,3,33,152,65,98,63,40,73,96,electric,steel,435,0.3,3.3,electric / steel
-778,mimikyu-disguised,Gen 7,2,7,167,55,90,80,50,105,96,ghost,fairy,476,0.2,0.7,ghost / fairy
-779,bruxish,Gen 7,9,190,166,68,105,70,70,70,92,water,psychic,475,0.9,19.0,water / psychic
-780,drampa,Gen 7,30,1850,170,78,60,85,135,91,36,normal,dragon,485,3.0,185.0,normal / dragon
-781,dhelmise,Gen 7,39,2100,181,70,131,100,86,90,40,ghost,grass,517,3.9,210.0,ghost / grass
-782,jangmo-o,Gen 7,6,297,60,45,55,65,45,45,45,dragon,,300,0.6,29.7,dragon
-783,hakamo-o,Gen 7,12,470,147,55,75,90,65,70,65,dragon,fighting,420,1.2,47.0,dragon / fighting
-784,kommo-o,Gen 7,16,782,270,75,110,125,100,105,85,dragon,fighting,600,1.6,78.2,dragon / fighting
-785,tapu-koko,Gen 7,18,205,257,70,115,85,95,75,130,electric,fairy,570,1.8,20.5,electric / fairy
-786,tapu-lele,Gen 7,12,186,257,70,85,75,130,115,95,psychic,fairy,570,1.2,18.6,psychic / fairy
-787,tapu-bulu,Gen 7,19,455,257,70,130,115,85,95,75,grass,fairy,570,1.9,45.5,grass / fairy
-788,tapu-fini,Gen 7,13,212,257,70,75,115,95,130,85,water,fairy,570,1.3,21.2,water / fairy
-789,cosmog,Gen 7,2,1,40,43,29,31,29,31,37,psychic,,200,0.2,0.1,psychic
-790,cosmoem,Gen 7,1,9999,140,43,29,131,29,131,37,psychic,,400,0.1,999.9,psychic
-791,solgaleo,Gen 7,34,2300,306,137,137,107,113,89,97,psychic,steel,680,3.4,230.0,psychic / steel
-792,lunala,Gen 7,40,1200,306,137,113,89,137,107,97,psychic,ghost,680,4.0,120.0,psychic / ghost
-793,nihilego,Gen 7,12,555,257,109,53,47,127,131,103,rock,poison,570,1.2,55.5,rock / poison
-794,buzzwole,Gen 7,24,3336,257,107,139,139,53,53,79,bug,fighting,570,2.4,333.6,bug / fighting
-795,pheromosa,Gen 7,18,250,257,71,137,37,137,37,151,bug,fighting,570,1.8,25.0,bug / fighting
-796,xurkitree,Gen 7,38,1000,257,83,89,71,173,71,83,electric,,570,3.8,100.0,electric
-797,celesteela,Gen 7,92,9999,257,97,101,103,107,101,61,steel,flying,570,9.2,999.9,steel / flying
-798,kartana,Gen 7,3,1,257,59,181,131,59,31,109,grass,steel,570,0.3,0.1,grass / steel
-799,guzzlord,Gen 7,55,8880,257,223,101,53,97,53,43,dark,dragon,570,5.5,888.0,dark / dragon
-800,necrozma,Gen 7,24,2300,270,97,107,101,127,89,79,psychic,,600,2.4,230.0,psychic
-801,magearna,Gen 7,10,805,270,80,95,115,130,115,65,steel,fairy,600,1.0,80.5,steel / fairy
-802,marshadow,Gen 7,7,222,270,90,125,80,90,90,125,fighting,ghost,600,0.7,22.2,fighting / ghost
-803,poipole,Gen 7,6,18,189,67,73,67,73,67,73,poison,,420,0.6,1.8,poison
-804,naganadel,Gen 7,36,1500,243,73,73,73,127,73,121,poison,dragon,540,3.6,150.0,poison / dragon
-805,stakataka,Gen 7,55,8200,257,61,131,211,53,101,13,rock,steel,570,5.5,820.0,rock / steel
-806,blacephalon,Gen 7,18,130,257,53,127,53,151,79,107,fire,ghost,570,1.8,13.0,fire / ghost
-807,zeraora,Gen 7,15,445,270,88,112,75,102,80,143,electric,,600,1.5,44.5,electric
-808,meltan,Gen 7,2,80,135,46,65,65,55,35,34,steel,,300,0.2,8.0,steel
-809,melmetal,Gen 7,25,8000,270,135,143,143,80,65,34,steel,,600,2.5,800.0,steel
-810,grookey,Gen 8,3,50,62,50,65,50,40,40,65,grass,,310,0.3,5.0,grass
-811,thwackey,Gen 8,7,140,147,70,85,70,55,60,80,grass,,420,0.7,14.0,grass
-812,rillaboom,Gen 8,21,900,265,100,125,90,60,70,85,grass,,530,2.1,90.0,grass
-813,scorbunny,Gen 8,3,45,62,50,71,40,40,40,69,fire,,310,0.3,4.5,fire
-814,raboot,Gen 8,6,90,147,65,86,60,55,60,94,fire,,420,0.6,9.0,fire
-815,cinderace,Gen 8,14,330,265,80,116,75,65,75,119,fire,,530,1.4,33.0,fire
-816,sobble,Gen 8,3,40,62,50,40,40,70,40,70,water,,310,0.3,4.0,water
-817,drizzile,Gen 8,7,115,147,65,60,55,95,55,90,water,,420,0.7,11.5,water
-818,inteleon,Gen 8,19,452,265,70,85,65,125,65,120,water,,530,1.9,45.2,water
-819,skwovet,Gen 8,3,25,55,70,55,55,35,35,25,normal,,275,0.3,2.5,normal
-820,greedent,Gen 8,6,60,161,120,95,95,55,75,20,normal,,460,0.6,6.0,normal
-821,rookidee,Gen 8,2,18,49,38,47,35,33,35,57,flying,,245,0.2,1.8,flying
-822,corvisquire,Gen 8,8,160,128,68,67,55,43,55,77,flying,,365,0.8,16.0,flying
-823,corviknight,Gen 8,22,750,248,98,87,105,53,85,67,flying,steel,495,2.2,75.0,flying / steel
-824,blipbug,Gen 8,4,80,36,25,20,20,25,45,45,bug,,180,0.4,8.0,bug
-825,dottler,Gen 8,4,195,117,50,35,80,50,90,30,bug,psychic,335,0.4,19.5,bug / psychic
-826,orbeetle,Gen 8,4,408,253,60,45,110,80,120,90,bug,psychic,505,0.4,40.8,bug / psychic
-827,nickit,Gen 8,6,89,49,40,28,28,47,52,50,dark,,245,0.6,8.9,dark
-828,thievul,Gen 8,12,199,159,70,58,58,87,92,90,dark,,455,1.2,19.9,dark
-829,gossifleur,Gen 8,4,22,50,40,40,60,40,60,10,grass,,250,0.4,2.2,grass
-830,eldegoss,Gen 8,5,25,161,60,50,90,80,120,60,grass,,460,0.5,2.5,grass
-831,wooloo,Gen 8,6,60,122,42,40,55,40,45,48,normal,,270,0.6,6.0,normal
-832,dubwool,Gen 8,13,430,172,72,80,100,60,90,88,normal,,490,1.3,43.0,normal
-833,chewtle,Gen 8,3,85,57,50,64,50,38,38,44,water,,284,0.3,8.5,water
-834,drednaw,Gen 8,10,1155,170,90,115,90,48,68,74,water,rock,485,1.0,115.5,water / rock
-835,yamper,Gen 8,3,135,54,59,45,50,40,50,26,electric,,270,0.3,13.5,electric
-836,boltund,Gen 8,10,340,172,69,90,60,90,60,121,electric,,490,1.0,34.0,electric
-837,rolycoly,Gen 8,3,120,48,30,40,50,40,50,30,rock,,240,0.3,12.0,rock
-838,carkol,Gen 8,11,780,144,80,60,90,60,70,50,rock,fire,410,1.1,78.0,rock / fire
-839,coalossal,Gen 8,28,3105,255,110,80,120,80,90,30,rock,fire,510,2.8,310.5,rock / fire
-840,applin,Gen 8,2,5,52,40,40,80,40,40,20,grass,dragon,260,0.2,0.5,grass / dragon
-841,flapple,Gen 8,3,10,170,70,110,80,95,60,70,grass,dragon,485,0.3,1.0,grass / dragon
-842,appletun,Gen 8,4,130,170,110,85,80,100,80,30,grass,dragon,485,0.4,13.0,grass / dragon
-843,silicobra,Gen 8,22,76,63,52,57,75,35,50,46,ground,,315,2.2,7.6,ground
-844,sandaconda,Gen 8,38,655,179,72,107,125,65,70,71,ground,,510,3.8,65.5,ground
-845,cramorant,Gen 8,8,180,166,70,85,55,85,95,85,flying,water,475,0.8,18.0,flying / water
-846,arrokuda,Gen 8,5,10,56,41,63,40,40,30,66,water,,280,0.5,1.0,water
-847,barraskewda,Gen 8,13,300,172,61,123,60,60,50,136,water,,490,1.3,30.0,water
-848,toxel,Gen 8,4,110,48,40,38,35,54,35,40,electric,poison,242,0.4,11.0,electric / poison
-849,toxtricity-amped,Gen 8,16,400,176,75,98,70,114,70,75,electric,poison,502,1.6,40.0,electric / poison
-850,sizzlipede,Gen 8,7,10,61,50,65,45,50,50,45,fire,bug,305,0.7,1.0,fire / bug
-851,centiskorch,Gen 8,30,1200,184,100,115,65,90,90,65,fire,bug,525,3.0,120.0,fire / bug
-852,clobbopus,Gen 8,6,40,62,50,68,60,50,50,32,fighting,,310,0.6,4.0,fighting
-853,grapploct,Gen 8,16,390,168,80,118,90,70,80,42,fighting,,480,1.6,39.0,fighting
-854,sinistea,Gen 8,1,2,62,40,45,45,74,54,50,ghost,,308,0.1,0.2,ghost
-855,polteageist,Gen 8,2,4,178,60,65,65,134,114,70,ghost,,508,0.2,0.4,ghost
-856,hatenna,Gen 8,4,34,53,42,30,45,56,53,39,psychic,,265,0.4,3.4,psychic
-857,hattrem,Gen 8,6,48,130,57,40,65,86,73,49,psychic,,370,0.6,4.8,psychic
-858,hatterene,Gen 8,21,51,255,57,90,95,136,103,29,psychic,fairy,510,2.1,5.1,psychic / fairy
-859,impidimp,Gen 8,4,55,53,45,45,30,55,40,50,dark,fairy,265,0.4,5.5,dark / fairy
-860,morgrem,Gen 8,8,125,130,65,60,45,75,55,70,dark,fairy,370,0.8,12.5,dark / fairy
-861,grimmsnarl,Gen 8,15,610,255,95,120,65,95,75,60,dark,fairy,510,1.5,61.0,dark / fairy
-862,obstagoon,Gen 8,16,460,260,93,90,101,60,81,95,dark,normal,520,1.6,46.0,dark / normal
-863,perrserker,Gen 8,8,280,154,70,110,100,50,60,50,steel,,440,0.8,28.0,steel
-864,cursola,Gen 8,10,4,179,60,95,50,145,130,30,ghost,,510,1.0,0.4,ghost
-865,sirfetchd,Gen 8,8,1170,177,62,135,95,68,82,65,fighting,,507,0.8,117.0,fighting
-866,mr-rime,Gen 8,15,582,182,80,85,75,110,100,70,ice,psychic,520,1.5,58.2,ice / psychic
-867,runerigus,Gen 8,16,666,169,58,95,145,50,105,30,ground,ghost,483,1.6,66.6,ground / ghost
-868,milcery,Gen 8,2,3,54,45,40,40,50,61,34,fairy,,270,0.2,0.3,fairy
-869,alcremie,Gen 8,3,5,173,65,60,75,110,121,64,fairy,,495,0.3,0.5,fairy
-870,falinks,Gen 8,30,620,165,65,100,100,70,60,75,fighting,,470,3.0,62.0,fighting
-871,pincurchin,Gen 8,3,10,152,48,101,95,91,85,15,electric,,435,0.3,1.0,electric
-872,snom,Gen 8,3,38,37,30,25,35,45,30,20,ice,bug,185,0.3,3.8,ice / bug
-873,frosmoth,Gen 8,13,420,166,70,65,60,125,90,65,ice,bug,475,1.3,42.0,ice / bug
-874,stonjourner,Gen 8,25,5200,165,100,125,135,20,20,70,rock,,470,2.5,520.0,rock
-875,eiscue-ice,Gen 8,14,890,165,75,80,110,65,90,50,ice,,470,1.4,89.0,ice
-876,indeedee-male,Gen 8,9,280,166,60,65,55,105,95,95,psychic,normal,475,0.9,28.0,psychic / normal
-877,morpeko-full-belly,Gen 8,3,30,153,58,95,58,70,58,97,electric,dark,436,0.3,3.0,electric / dark
-878,cufant,Gen 8,12,1000,66,72,80,49,40,49,40,steel,,330,1.2,100.0,steel
-879,copperajah,Gen 8,30,6500,175,122,130,69,80,69,30,steel,,500,3.0,650.0,steel
-880,dracozolt,Gen 8,18,1900,177,90,100,90,80,70,75,electric,dragon,505,1.8,190.0,electric / dragon
-881,arctozolt,Gen 8,23,1500,177,90,100,90,90,80,55,electric,ice,505,2.3,150.0,electric / ice
-882,dracovish,Gen 8,23,2150,177,90,90,100,70,80,75,water,dragon,505,2.3,215.0,water / dragon
-883,arctovish,Gen 8,20,1750,177,90,90,100,80,90,55,water,ice,505,2.0,175.0,water / ice
-884,duraludon,Gen 8,18,400,187,70,95,115,120,50,85,steel,dragon,535,1.8,40.0,steel / dragon
-885,dreepy,Gen 8,5,20,54,28,60,30,40,30,82,dragon,ghost,270,0.5,2.0,dragon / ghost
-886,drakloak,Gen 8,14,110,144,68,80,50,60,50,102,dragon,ghost,410,1.4,11.0,dragon / ghost
-887,dragapult,Gen 8,30,500,300,88,120,75,100,75,142,dragon,ghost,600,3.0,50.0,dragon / ghost
-888,zacian,Gen 8,28,1100,335,92,120,115,80,115,138,fairy,,660,2.8,110.0,fairy
-889,zamazenta,Gen 8,29,2100,335,92,120,115,80,115,138,fighting,,660,2.9,210.0,fighting
-890,eternatus,Gen 8,200,9500,345,140,85,95,145,95,130,poison,dragon,690,20.0,950.0,poison / dragon
-891,kubfu,Gen 8,6,120,77,60,90,60,53,50,72,fighting,,385,0.6,12.0,fighting
-892,urshifu-single-strike,Gen 8,19,1050,275,100,130,100,63,60,97,fighting,dark,550,1.9,105.0,fighting / dark
-893,zarude,Gen 8,18,700,300,105,120,105,70,95,105,dark,grass,600,1.8,70.0,dark / grass
-894,regieleki,Gen 8,12,1450,290,80,100,50,100,50,200,electric,,580,1.2,145.0,electric
-895,regidrago,Gen 8,21,2000,290,200,100,50,100,50,80,dragon,,580,2.1,200.0,dragon
-896,glastrier,Gen 8,22,8000,290,100,145,130,65,110,30,ice,,580,2.2,800.0,ice
-897,spectrier,Gen 8,20,445,290,100,65,60,145,80,130,ghost,,580,2.0,44.5,ghost
-898,calyrex,Gen 8,11,77,250,100,80,80,80,80,80,psychic,grass,500,1.1,7.7,psychic / grass
-899,wyrdeer,Gen 8,18,951,263,103,105,72,105,75,65,normal,psychic,525,1.8,95.1,normal / psychic
-900,kleavor,Gen 8,18,890,175,70,135,95,45,70,85,bug,rock,500,1.8,89.0,bug / rock
-901,ursaluna,Gen 8,24,2900,275,130,140,105,45,80,50,ground,normal,550,2.4,290.0,ground / normal
-902,basculegion-male,Gen 8,30,1100,265,120,112,65,80,75,78,water,ghost,530,3.0,110.0,water / ghost
-903,sneasler,Gen 8,13,430,102,80,130,60,40,80,120,fighting,poison,510,1.3,43.0,fighting / poison
-904,overqwil,Gen 8,25,605,179,85,115,95,65,65,85,dark,poison,510,2.5,60.5,dark / poison
-905,enamorus-incarnate,Gen 8,16,480,116,74,115,70,135,80,106,fairy,flying,580,1.6,48.0,fairy / flying
-906,sprigatito,Gen 9,4,41,62,40,61,54,45,45,65,grass,,310,0.4,4.1,grass
-907,floragato,Gen 9,9,122,144,61,80,63,60,63,83,grass,,410,0.9,12.2,grass
-908,meowscarada,Gen 9,15,312,265,76,110,70,81,70,123,grass,dark,530,1.5,31.2,grass / dark
-909,fuecoco,Gen 9,4,98,62,67,45,59,63,40,36,fire,,310,0.4,9.8,fire
-910,crocalor,Gen 9,10,307,144,81,55,78,90,58,49,fire,,411,1.0,30.7,fire
-911,skeledirge,Gen 9,16,3265,265,104,75,100,110,75,66,fire,ghost,530,1.6,326.5,fire / ghost
-912,quaxly,Gen 9,5,61,62,55,65,45,50,45,50,water,,310,0.5,6.1,water
-913,quaxwell,Gen 9,12,215,144,70,85,65,65,60,65,water,,410,1.2,21.5,water
-914,quaquaval,Gen 9,18,619,265,85,120,80,85,75,85,water,fighting,530,1.8,61.9,water / fighting
-915,lechonk,Gen 9,5,102,51,54,45,40,35,45,35,normal,,254,0.5,10.2,normal
-916,oinkologne-male,Gen 9,10,1200,171,110,100,75,59,80,65,normal,,489,1.0,120.0,normal
-917,tarountula,Gen 9,3,40,42,35,41,45,29,40,20,bug,,210,0.3,4.0,bug
-918,spidops,Gen 9,10,165,141,60,79,92,52,86,35,bug,,404,1.0,16.5,bug
-919,nymble,Gen 9,2,10,42,33,46,40,21,25,45,bug,,210,0.2,1.0,bug
-920,lokix,Gen 9,10,175,158,71,102,78,52,55,92,bug,dark,450,1.0,17.5,bug / dark
-921,pawmi,Gen 9,3,25,48,45,50,20,40,25,60,electric,,240,0.3,2.5,electric
-922,pawmo,Gen 9,4,65,123,60,75,40,50,40,85,electric,fighting,350,0.4,6.5,electric / fighting
-923,pawmot,Gen 9,9,410,245,70,115,70,70,60,105,electric,fighting,490,0.9,41.0,electric / fighting
-924,tandemaus,Gen 9,3,18,61,50,50,45,40,45,75,normal,,305,0.3,1.8,normal
-925,maushold-family-of-four,Gen 9,3,28,165,74,75,70,65,75,111,normal,,470,0.3,2.8,normal
-926,fidough,Gen 9,3,109,62,37,55,70,30,55,65,fairy,,312,0.3,10.9,fairy
-927,dachsbun,Gen 9,5,149,167,57,80,115,50,80,95,fairy,,477,0.5,14.9,fairy
-928,smoliv,Gen 9,3,65,52,41,35,45,58,51,30,grass,normal,260,0.3,6.5,grass / normal
-929,dolliv,Gen 9,6,119,124,52,53,60,78,78,33,grass,normal,354,0.6,11.9,grass / normal
-930,arboliva,Gen 9,14,482,255,78,69,90,125,109,39,grass,normal,510,1.4,48.2,grass / normal
-931,squawkabilly-green-plumage,Gen 9,6,24,146,82,96,51,45,51,92,normal,flying,417,0.6,2.4,normal / flying
-932,nacli,Gen 9,4,160,56,55,55,75,35,35,25,rock,,280,0.4,16.0,rock
-933,naclstack,Gen 9,6,1050,124,60,60,100,35,65,35,rock,,355,0.6,105.0,rock
-934,garganacl,Gen 9,23,2400,250,100,100,130,45,90,35,rock,,500,2.3,240.0,rock
-935,charcadet,Gen 9,6,105,51,40,50,40,50,40,35,fire,,255,0.6,10.5,fire
-936,armarouge,Gen 9,15,850,263,85,60,100,125,80,75,fire,psychic,525,1.5,85.0,fire / psychic
-937,ceruledge,Gen 9,16,620,263,75,125,80,60,100,85,fire,ghost,525,1.6,62.0,fire / ghost
-938,tadbulb,Gen 9,3,4,54,61,31,41,59,35,45,electric,,272,0.3,0.4,electric
-939,bellibolt,Gen 9,12,1130,173,109,64,91,103,83,45,electric,,495,1.2,113.0,electric
-940,wattrel,Gen 9,4,36,56,40,40,35,55,40,70,electric,flying,280,0.4,3.6,electric / flying
-941,kilowattrel,Gen 9,14,386,172,70,70,60,105,60,125,electric,flying,490,1.4,38.6,electric / flying
-942,maschiff,Gen 9,5,160,68,60,78,60,40,51,51,dark,,340,0.5,16.0,dark
-943,mabosstiff,Gen 9,11,610,177,80,120,90,60,70,85,dark,,505,1.1,61.0,dark
-944,shroodle,Gen 9,2,7,58,40,65,35,40,35,75,poison,normal,290,0.2,0.7,poison / normal
-945,grafaiai,Gen 9,7,272,170,63,95,65,80,72,110,poison,normal,485,0.7,27.2,poison / normal
-946,bramblin,Gen 9,6,6,55,40,65,30,45,35,60,grass,ghost,275,0.6,0.6,grass / ghost
-947,brambleghast,Gen 9,12,60,168,55,115,70,80,70,90,grass,ghost,480,1.2,6.0,grass / ghost
-948,toedscool,Gen 9,9,330,67,40,40,35,50,100,70,ground,grass,335,0.9,33.0,ground / grass
-949,toedscruel,Gen 9,19,580,180,80,70,65,80,120,100,ground,grass,515,1.9,58.0,ground / grass
-950,klawf,Gen 9,13,790,158,70,100,115,35,55,75,rock,,450,1.3,79.0,rock
-951,capsakid,Gen 9,3,30,61,50,62,40,62,40,50,grass,,304,0.3,3.0,grass
-952,scovillain,Gen 9,9,150,170,65,108,65,108,65,75,grass,fire,486,0.9,15.0,grass / fire
-953,rellor,Gen 9,2,10,54,41,50,60,31,58,30,bug,,270,0.2,1.0,bug
-954,rabsca,Gen 9,3,35,165,75,50,85,115,100,45,bug,psychic,470,0.3,3.5,bug / psychic
-955,flittle,Gen 9,2,15,51,30,35,30,55,30,75,psychic,,255,0.2,1.5,psychic
-956,espathra,Gen 9,19,900,168,95,60,60,101,60,105,psychic,,481,1.9,90.0,psychic
-957,tinkatink,Gen 9,4,89,59,50,45,45,35,64,58,fairy,steel,297,0.4,8.9,fairy / steel
-958,tinkatuff,Gen 9,7,591,133,65,55,55,45,82,78,fairy,steel,380,0.7,59.1,fairy / steel
-959,tinkaton,Gen 9,7,1128,253,85,75,77,70,105,94,fairy,steel,506,0.7,112.8,fairy / steel
-960,wiglett,Gen 9,12,18,49,10,55,25,35,25,95,water,,245,1.2,1.8,water
-961,wugtrio,Gen 9,12,54,149,35,100,50,50,70,120,water,,425,1.2,5.4,water
-962,bombirdier,Gen 9,15,429,243,70,103,85,60,85,82,flying,dark,485,1.5,42.9,flying / dark
-963,finizen,Gen 9,13,602,63,70,45,40,45,40,75,water,,315,1.3,60.2,water
-964,palafin-zero,Gen 9,13,602,160,100,70,72,53,62,100,water,,457,1.3,60.2,water
-965,varoom,Gen 9,10,350,60,45,70,63,30,45,47,steel,poison,300,1.0,35.0,steel / poison
-966,revavroom,Gen 9,18,1200,175,80,119,90,54,67,90,steel,poison,500,1.8,120.0,steel / poison
-967,cyclizar,Gen 9,16,630,175,70,95,65,85,65,121,dragon,normal,501,1.6,63.0,dragon / normal
-968,orthworm,Gen 9,25,3100,240,70,85,145,60,55,65,steel,,480,2.5,310.0,steel
-969,glimmet,Gen 9,7,80,70,48,35,42,105,60,60,rock,poison,350,0.7,8.0,rock / poison
-970,glimmora,Gen 9,15,450,184,83,55,90,130,81,86,rock,poison,525,1.5,45.0,rock / poison
-971,greavard,Gen 9,6,350,58,50,61,60,30,55,34,ghost,,290,0.6,35.0,ghost
-972,houndstone,Gen 9,20,150,171,72,101,100,50,97,68,ghost,,488,2.0,15.0,ghost
-973,flamigo,Gen 9,16,370,175,82,115,74,75,64,90,flying,fighting,500,1.6,37.0,flying / fighting
-974,cetoddle,Gen 9,12,450,67,108,68,45,30,40,43,ice,,334,1.2,45.0,ice
-975,cetitan,Gen 9,45,7000,182,170,113,65,45,55,73,ice,,521,4.5,700.0,ice
-976,veluza,Gen 9,25,900,167,90,102,73,78,65,70,water,psychic,478,2.5,90.0,water / psychic
-977,dondozo,Gen 9,120,2200,265,150,100,115,65,65,35,water,,530,12.0,220.0,water
-978,tatsugiri-curly,Gen 9,3,80,166,68,50,60,120,95,82,dragon,water,475,0.3,8.0,dragon / water
-979,annihilape,Gen 9,12,560,268,110,115,80,50,90,90,fighting,ghost,535,1.2,56.0,fighting / ghost
-980,clodsire,Gen 9,18,2230,151,130,75,60,45,100,20,poison,ground,430,1.8,223.0,poison / ground
-981,farigiraf,Gen 9,32,1600,260,120,90,70,110,70,60,normal,psychic,520,3.2,160.0,normal / psychic
-982,dudunsparce-two-segment,Gen 9,36,392,182,125,100,80,85,75,55,normal,,520,3.6,39.2,normal
-983,kingambit,Gen 9,20,1200,275,100,135,120,60,85,50,dark,steel,550,2.0,120.0,dark / steel
-984,great-tusk,Gen 9,22,3200,285,115,131,131,53,53,87,ground,fighting,570,2.2,320.0,ground / fighting
-985,scream-tail,Gen 9,12,80,285,115,65,99,65,115,111,fairy,psychic,570,1.2,8.0,fairy / psychic
-986,brute-bonnet,Gen 9,12,210,285,111,127,99,79,99,55,grass,dark,570,1.2,21.0,grass / dark
-987,flutter-mane,Gen 9,14,40,285,55,55,55,135,135,135,ghost,fairy,570,1.4,4.0,ghost / fairy
-988,slither-wing,Gen 9,32,920,285,85,135,79,85,105,81,bug,fighting,570,3.2,92.0,bug / fighting
-989,sandy-shocks,Gen 9,23,600,285,85,81,97,121,85,101,electric,ground,570,2.3,60.0,electric / ground
-990,iron-treads,Gen 9,9,2400,285,90,112,120,72,70,106,ground,steel,570,0.9,240.0,ground / steel
-991,iron-bundle,Gen 9,6,110,285,56,80,114,124,60,136,ice,water,570,0.6,11.0,ice / water
-992,iron-hands,Gen 9,18,3807,285,154,140,108,50,68,50,fighting,electric,570,1.8,380.7,fighting / electric
-993,iron-jugulis,Gen 9,13,1110,285,94,80,86,122,80,108,dark,flying,570,1.3,111.0,dark / flying
-994,iron-moth,Gen 9,12,360,285,80,70,60,140,110,110,fire,poison,570,1.2,36.0,fire / poison
-995,iron-thorns,Gen 9,16,3030,285,100,134,110,70,84,72,rock,electric,570,1.6,303.0,rock / electric
-996,frigibax,Gen 9,5,170,64,65,75,45,35,45,55,dragon,ice,320,0.5,17.0,dragon / ice
-997,arctibax,Gen 9,8,300,148,90,95,66,45,65,62,dragon,ice,423,0.8,30.0,dragon / ice
-998,baxcalibur,Gen 9,21,2100,300,115,145,92,75,86,87,dragon,ice,600,2.1,210.0,dragon / ice
-999,gimmighoul,Gen 9,3,50,60,45,30,70,75,70,10,ghost,,300,0.3,5.0,ghost
-1000,gholdengo,Gen 9,12,300,275,87,60,95,133,91,84,steel,ghost,550,1.2,30.0,steel / ghost
-1001,wo-chien,Gen 9,15,742,285,85,85,100,95,135,70,dark,grass,570,1.5,74.2,dark / grass
-1002,chien-pao,Gen 9,19,1522,285,80,120,80,90,65,135,dark,ice,570,1.9,152.2,dark / ice
-1003,ting-lu,Gen 9,27,6997,285,155,110,125,55,80,45,dark,ground,570,2.7,699.7,dark / ground
-1004,chi-yu,Gen 9,4,49,285,55,80,80,135,120,100,dark,fire,570,0.4,4.9,dark / fire
-1005,roaring-moon,Gen 9,20,3800,295,105,139,71,55,101,119,dragon,dark,590,2.0,380.0,dragon / dark
-1006,iron-valiant,Gen 9,14,350,295,74,130,90,120,60,116,fairy,fighting,590,1.4,35.0,fairy / fighting
-1007,koraidon,Gen 9,25,3030,335,100,135,115,85,100,135,fighting,dragon,670,2.5,303.0,fighting / dragon
-1008,miraidon,Gen 9,35,2400,335,100,85,100,135,115,135,electric,dragon,670,3.5,240.0,electric / dragon
-1009,walking-wake,Gen 9,35,2800,295,99,83,91,125,83,109,water,dragon,590,3.5,280.0,water / dragon
-1010,iron-leaves,Gen 9,15,1250,295,90,130,88,70,108,104,grass,psychic,590,1.5,125.0,grass / psychic
-1011,dipplin,Gen 9,4,97,170,80,80,110,95,80,40,grass,dragon,485,0.4,9.7,grass / dragon
-1012,poltchageist,Gen 9,1,11,62,40,45,45,74,54,50,grass,ghost,308,0.1,1.1,grass / ghost
-1013,sinistcha,Gen 9,2,22,178,71,60,106,121,80,70,grass,ghost,508,0.2,2.2,grass / ghost
-1014,okidogi,Gen 9,18,922,278,88,128,115,58,86,80,poison,fighting,555,1.8,92.2,poison / fighting
-1015,munkidori,Gen 9,10,122,278,88,75,66,130,90,106,poison,psychic,555,1.0,12.2,poison / psychic
-1016,fezandipiti,Gen 9,14,301,278,88,91,82,70,125,99,poison,fairy,555,1.4,30.1,poison / fairy
-1017,ogerpon,Gen 9,12,398,275,80,120,84,60,96,110,grass,,550,1.2,39.8,grass
-1018,archaludon,Gen 9,20,600,300,90,105,130,125,65,85,steel,dragon,600,2.0,60.0,steel / dragon
-1019,hydrapple,Gen 9,18,930,270,106,80,110,120,80,44,grass,dragon,540,1.8,93.0,grass / dragon
-1020,gouging-fire,Gen 9,35,5900,295,105,115,121,65,93,91,fire,dragon,590,3.5,590.0,fire / dragon
-1021,raging-bolt,Gen 9,52,4800,295,125,73,91,137,89,75,electric,dragon,590,5.2,480.0,electric / dragon
-1022,iron-boulder,Gen 9,15,1625,295,90,120,80,68,108,124,rock,psychic,590,1.5,162.5,rock / psychic
-1023,iron-crown,Gen 9,16,1560,295,90,72,100,122,108,98,steel,psychic,590,1.6,156.0,steel / psychic
-1024,terapagos,Gen 9,2,65,90,90,65,85,65,85,60,normal,,450,0.2,6.5,normal
-1025,pecharunt,Gen 9,3,3,300,88,88,160,88,88,88,poison,ghost,600,0.3,0.3,poison / ghost
+id,name,generation,height,weight,base_experience,hp,attack,defense,special_attack,special_defense,speed,type_1,type_2,total_stats,height_m,weight_kg,type_combination,overall_rank
+1,bulbasaur,Gen 1,7,69,64,45,49,49,65,65,45,grass,poison,318,0.7,6.9,grass / poison,787
+2,ivysaur,Gen 1,10,130,142,60,62,63,80,80,60,grass,poison,405,1.0,13.0,grass / poison,605
+3,venusaur,Gen 1,20,1000,236,80,82,83,100,100,80,grass,poison,525,2.0,100.0,grass / poison,189
+4,charmander,Gen 1,6,85,62,39,52,43,60,50,65,fire,,309,0.6,8.5,fire,821
+5,charmeleon,Gen 1,11,190,142,58,64,58,80,65,80,fire,,405,1.1,19.0,fire,605
+6,charizard,Gen 1,17,905,240,78,84,78,109,85,100,fire,flying,534,1.7,90.5,fire / flying,157
+7,squirtle,Gen 1,5,90,63,44,48,65,50,64,43,water,,314,0.5,9.0,water,798
+8,wartortle,Gen 1,10,225,142,59,63,80,65,80,58,water,,405,1.0,22.5,water,605
+9,blastoise,Gen 1,16,855,239,79,83,100,85,105,78,water,,530,1.6,85.5,water,163
+10,caterpie,Gen 1,3,29,39,45,30,35,20,20,45,bug,,195,0.3,2.9,bug,1017
+11,metapod,Gen 1,7,99,72,50,20,55,25,25,30,bug,,205,0.7,9.9,bug,1007
+12,butterfree,Gen 1,11,320,178,60,45,50,90,80,70,bug,flying,395,1.1,32.0,bug / flying,640
+13,weedle,Gen 1,3,32,39,40,35,30,20,20,50,bug,poison,195,0.3,3.2,bug / poison,1017
+14,kakuna,Gen 1,6,100,72,45,25,50,25,25,35,bug,poison,205,0.6,10.0,bug / poison,1007
+15,beedrill,Gen 1,10,295,178,65,90,40,45,80,75,bug,poison,395,1.0,29.5,bug / poison,640
+16,pidgey,Gen 1,3,18,50,40,45,40,35,35,56,normal,flying,251,0.3,1.8,normal / flying,966
+17,pidgeotto,Gen 1,11,300,122,63,60,55,50,50,71,normal,flying,349,1.1,30.0,normal / flying,710
+18,pidgeot,Gen 1,15,395,216,83,80,75,70,70,101,normal,flying,479,1.5,39.5,normal / flying,424
+19,rattata,Gen 1,3,35,51,30,56,35,25,35,72,normal,,253,0.3,3.5,normal,964
+20,raticate,Gen 1,7,185,145,55,81,60,50,70,97,normal,,413,0.7,18.5,normal,584
+21,spearow,Gen 1,3,20,52,40,60,30,31,31,70,normal,flying,262,0.3,2.0,normal / flying,953
+22,fearow,Gen 1,12,380,155,65,90,65,61,61,100,normal,flying,442,1.2,38.0,normal / flying,526
+23,ekans,Gen 1,20,69,58,35,60,44,40,54,55,poison,,288,2.0,6.9,poison,903
+24,arbok,Gen 1,35,650,157,60,95,69,65,79,80,poison,,448,3.5,65.0,poison,522
+25,pikachu,Gen 1,4,60,112,35,55,40,50,50,90,electric,,320,0.4,6.0,electric,772
+26,raichu,Gen 1,8,300,218,60,90,55,90,80,110,electric,,485,0.8,30.0,electric,372
+27,sandshrew,Gen 1,6,120,60,50,75,85,20,30,40,ground,,300,0.6,12.0,ground,856
+28,sandslash,Gen 1,10,295,158,75,100,110,45,55,65,ground,,450,1.0,29.5,ground,512
+29,nidoran-f,Gen 1,4,70,55,55,47,52,40,40,41,poison,,275,0.4,7.0,poison,926
+30,nidorina,Gen 1,8,200,128,70,62,67,55,55,56,poison,,365,0.8,20.0,poison,676
+31,nidoqueen,Gen 1,13,600,227,90,92,87,75,85,76,poison,ground,505,1.3,60.0,poison / ground,262
+32,nidoran-m,Gen 1,5,90,55,46,57,40,40,40,50,poison,,273,0.5,9.0,poison,933
+33,nidorino,Gen 1,9,195,128,61,72,57,55,55,65,poison,,365,0.9,19.5,poison,676
+34,nidoking,Gen 1,14,620,227,81,102,77,85,75,85,poison,ground,505,1.4,62.0,poison / ground,262
+35,clefairy,Gen 1,6,75,113,70,45,48,60,65,35,fairy,,323,0.6,7.5,fairy,770
+36,clefable,Gen 1,13,400,217,95,70,73,95,90,60,fairy,,483,1.3,40.0,fairy,396
+37,vulpix,Gen 1,6,99,60,38,41,40,50,65,65,fire,,299,0.6,9.9,fire,880
+38,ninetales,Gen 1,11,199,177,73,76,75,81,100,100,fire,,505,1.1,19.9,fire,262
+39,jigglypuff,Gen 1,5,55,95,115,45,20,45,25,20,normal,fairy,270,0.5,5.5,normal / fairy,935
+40,wigglytuff,Gen 1,10,120,196,140,70,45,85,50,45,normal,fairy,435,1.0,12.0,normal / fairy,538
+41,zubat,Gen 1,8,75,49,40,45,35,30,40,55,poison,flying,245,0.8,7.5,poison / flying,976
+42,golbat,Gen 1,16,550,159,75,80,70,65,75,90,poison,flying,455,1.6,55.0,poison / flying,494
+43,oddish,Gen 1,5,54,64,45,50,55,75,65,30,grass,poison,320,0.5,5.4,grass / poison,772
+44,gloom,Gen 1,8,86,138,60,65,70,85,75,40,grass,poison,395,0.8,8.6,grass / poison,640
+45,vileplume,Gen 1,12,186,221,75,80,85,110,90,50,grass,poison,490,1.2,18.6,grass / poison,338
+46,paras,Gen 1,3,54,57,35,70,55,45,55,25,bug,grass,285,0.3,5.4,bug / grass,907
+47,parasect,Gen 1,10,295,142,60,95,80,60,80,30,bug,grass,405,1.0,29.5,bug / grass,605
+48,venonat,Gen 1,10,300,61,60,55,50,40,55,45,bug,poison,305,1.0,30.0,bug / poison,833
+49,venomoth,Gen 1,15,125,158,70,65,60,90,75,90,bug,poison,450,1.5,12.5,bug / poison,512
+50,diglett,Gen 1,2,8,53,10,55,25,35,45,95,ground,,265,0.2,0.8,ground,946
+51,dugtrio,Gen 1,7,333,149,35,100,50,50,70,120,ground,,425,0.7,33.3,ground,553
+52,meowth,Gen 1,4,42,58,40,45,35,40,40,90,normal,,290,0.4,4.2,normal,892
+53,persian,Gen 1,10,320,154,65,70,60,65,65,115,normal,,440,1.0,32.0,normal,527
+54,psyduck,Gen 1,8,196,64,50,52,48,65,50,55,water,,320,0.8,19.6,water,772
+55,golduck,Gen 1,17,766,175,80,82,78,95,80,85,water,,500,1.7,76.6,water,278
+56,mankey,Gen 1,5,280,61,40,80,35,35,45,70,fighting,,305,0.5,28.0,fighting,833
+57,primeape,Gen 1,10,320,159,65,105,60,60,70,95,fighting,,455,1.0,32.0,fighting,494
+58,growlithe,Gen 1,7,190,70,55,70,45,70,50,60,fire,,350,0.7,19.0,fire,701
+59,arcanine,Gen 1,19,1550,194,90,110,80,100,80,95,fire,,555,1.9,155.0,fire,124
+60,poliwag,Gen 1,6,124,60,40,50,40,40,40,90,water,,300,0.6,12.4,water,856
+61,poliwhirl,Gen 1,10,200,135,65,65,65,50,50,90,water,,385,1.0,20.0,water,653
+62,poliwrath,Gen 1,13,540,230,90,95,95,70,90,70,water,fighting,510,1.3,54.0,water / fighting,237
+63,abra,Gen 1,9,195,62,25,20,15,105,55,90,psychic,,310,0.9,19.5,psychic,804
+64,kadabra,Gen 1,13,565,140,40,35,30,120,70,105,psychic,,400,1.3,56.5,psychic,633
+65,alakazam,Gen 1,15,480,225,55,50,45,135,95,120,psychic,,500,1.5,48.0,psychic,278
+66,machop,Gen 1,8,195,61,70,80,50,35,35,35,fighting,,305,0.8,19.5,fighting,833
+67,machoke,Gen 1,15,705,142,80,100,70,50,60,45,fighting,,405,1.5,70.5,fighting,605
+68,machamp,Gen 1,16,1300,227,90,130,80,65,85,55,fighting,,505,1.6,130.0,fighting,262
+69,bellsprout,Gen 1,7,40,60,50,75,35,70,30,40,grass,poison,300,0.7,4.0,grass / poison,856
+70,weepinbell,Gen 1,10,64,137,65,90,50,85,45,55,grass,poison,390,1.0,6.4,grass / poison,646
+71,victreebel,Gen 1,17,155,221,80,105,65,100,70,70,grass,poison,490,1.7,15.5,grass / poison,338
+72,tentacool,Gen 1,9,455,67,40,40,35,50,100,70,water,poison,335,0.9,45.5,water / poison,731
+73,tentacruel,Gen 1,16,550,180,80,70,65,80,120,100,water,poison,515,1.6,55.0,water / poison,226
+74,geodude,Gen 1,4,200,60,40,80,100,30,30,20,rock,ground,300,0.4,20.0,rock / ground,856
+75,graveler,Gen 1,10,1050,137,55,95,115,45,45,35,rock,ground,390,1.0,105.0,rock / ground,646
+76,golem,Gen 1,14,3000,223,80,120,130,55,65,45,rock,ground,495,1.4,300.0,rock / ground,317
+77,ponyta,Gen 1,10,300,82,50,85,55,65,65,90,fire,,410,1.0,30.0,fire,590
+78,rapidash,Gen 1,17,950,175,65,100,70,80,80,105,fire,,500,1.7,95.0,fire,278
+79,slowpoke,Gen 1,12,360,63,90,65,65,40,40,15,water,psychic,315,1.2,36.0,water / psychic,793
+80,slowbro,Gen 1,16,785,172,95,75,110,100,80,30,water,psychic,490,1.6,78.5,water / psychic,338
+81,magnemite,Gen 1,3,60,65,25,35,70,95,55,45,electric,steel,325,0.3,6.0,electric / steel,761
+82,magneton,Gen 1,10,600,163,50,60,95,120,70,70,electric,steel,465,1.0,60.0,electric / steel,466
+83,farfetchd,Gen 1,8,150,132,52,90,55,58,62,60,normal,flying,377,0.8,15.0,normal / flying,666
+84,doduo,Gen 1,14,392,62,35,85,45,35,35,75,normal,flying,310,1.4,39.2,normal / flying,804
+85,dodrio,Gen 1,18,852,165,60,110,70,60,60,110,normal,flying,470,1.8,85.2,normal / flying,450
+86,seel,Gen 1,11,900,65,65,45,55,45,70,45,water,,325,1.1,90.0,water,761
+87,dewgong,Gen 1,17,1200,166,90,70,80,70,95,70,water,ice,475,1.7,120.0,water / ice,431
+88,grimer,Gen 1,9,300,65,80,80,50,40,50,25,poison,,325,0.9,30.0,poison,761
+89,muk,Gen 1,12,300,175,105,105,75,65,100,50,poison,,500,1.2,30.0,poison,278
+90,shellder,Gen 1,3,40,61,30,65,100,45,25,40,water,,305,0.3,4.0,water,833
+91,cloyster,Gen 1,15,1325,184,50,95,180,85,45,70,water,ice,525,1.5,132.5,water / ice,189
+92,gastly,Gen 1,13,1,62,30,35,30,100,35,80,ghost,poison,310,1.3,0.1,ghost / poison,804
+93,haunter,Gen 1,16,1,142,45,50,45,115,55,95,ghost,poison,405,1.6,0.1,ghost / poison,605
+94,gengar,Gen 1,15,405,225,60,65,60,130,75,110,ghost,poison,500,1.5,40.5,ghost / poison,278
+95,onix,Gen 1,88,2100,77,35,45,160,30,45,70,rock,ground,385,8.8,210.0,rock / ground,653
+96,drowzee,Gen 1,10,324,66,60,48,45,43,90,42,psychic,,328,1.0,32.4,psychic,759
+97,hypno,Gen 1,16,756,169,85,73,70,73,115,67,psychic,,483,1.6,75.6,psychic,396
+98,krabby,Gen 1,4,65,65,30,105,90,25,25,50,water,,325,0.4,6.5,water,761
+99,kingler,Gen 1,13,600,166,55,130,115,50,50,75,water,,475,1.3,60.0,water,431
+100,voltorb,Gen 1,5,104,66,40,30,50,55,55,100,electric,,330,0.5,10.4,electric,741
+101,electrode,Gen 1,12,666,172,60,50,70,80,80,150,electric,,490,1.2,66.6,electric,338
+102,exeggcute,Gen 1,4,25,65,60,40,80,60,45,40,grass,psychic,325,0.4,2.5,grass / psychic,761
+103,exeggutor,Gen 1,20,1200,186,95,95,85,125,75,55,grass,psychic,530,2.0,120.0,grass / psychic,163
+104,cubone,Gen 1,4,65,64,50,50,95,40,50,35,ground,,320,0.4,6.5,ground,772
+105,marowak,Gen 1,10,450,149,60,80,110,50,80,45,ground,,425,1.0,45.0,ground,553
+106,hitmonlee,Gen 1,15,498,159,50,120,53,35,110,87,fighting,,455,1.5,49.8,fighting,494
+107,hitmonchan,Gen 1,14,502,159,50,105,79,35,110,76,fighting,,455,1.4,50.2,fighting,494
+108,lickitung,Gen 1,12,655,77,90,55,75,60,75,30,normal,,385,1.2,65.5,normal,653
+109,koffing,Gen 1,6,10,68,40,65,95,60,45,35,poison,,340,0.6,1.0,poison,719
+110,weezing,Gen 1,12,95,172,65,90,120,85,70,60,poison,,490,1.2,9.5,poison,338
+111,rhyhorn,Gen 1,10,1150,69,80,85,95,30,30,25,ground,rock,345,1.0,115.0,ground / rock,714
+112,rhydon,Gen 1,19,1200,170,105,130,120,45,45,40,ground,rock,485,1.9,120.0,ground / rock,372
+113,chansey,Gen 1,11,346,395,250,5,5,35,105,50,normal,,450,1.1,34.6,normal,512
+114,tangela,Gen 1,10,350,87,65,55,115,100,40,60,grass,,435,1.0,35.0,grass,538
+115,kangaskhan,Gen 1,22,800,172,105,95,80,40,80,90,normal,,490,2.2,80.0,normal,338
+116,horsea,Gen 1,4,80,59,30,40,70,70,25,60,water,,295,0.4,8.0,water,882
+117,seadra,Gen 1,12,250,154,55,65,95,95,45,85,water,,440,1.2,25.0,water,527
+118,goldeen,Gen 1,6,150,64,45,67,60,35,50,63,water,,320,0.6,15.0,water,772
+119,seaking,Gen 1,13,390,158,80,92,65,65,80,68,water,,450,1.3,39.0,water,512
+120,staryu,Gen 1,8,345,68,30,45,55,70,55,85,water,,340,0.8,34.5,water,719
+121,starmie,Gen 1,11,800,182,60,75,85,100,85,115,water,psychic,520,1.1,80.0,water / psychic,214
+122,mr-mime,Gen 1,13,545,161,40,45,65,100,120,90,psychic,fairy,460,1.3,54.5,psychic / fairy,477
+123,scyther,Gen 1,15,560,100,70,110,80,55,80,105,bug,flying,500,1.5,56.0,bug / flying,278
+124,jynx,Gen 1,14,406,159,65,50,35,115,95,95,ice,psychic,455,1.4,40.6,ice / psychic,494
+125,electabuzz,Gen 1,11,300,172,65,83,57,95,85,105,electric,,490,1.1,30.0,electric,338
+126,magmar,Gen 1,13,445,173,65,95,57,100,85,93,fire,,495,1.3,44.5,fire,317
+127,pinsir,Gen 1,15,550,175,65,125,100,55,70,85,bug,,500,1.5,55.0,bug,278
+128,tauros,Gen 1,14,884,172,75,100,95,40,70,110,normal,,490,1.4,88.4,normal,338
+129,magikarp,Gen 1,9,100,40,20,10,55,15,20,80,water,,200,0.9,10.0,water,1012
+130,gyarados,Gen 1,65,2350,189,95,125,79,60,100,81,water,flying,540,6.5,235.0,water / flying,136
+131,lapras,Gen 1,25,2200,187,130,85,80,85,95,60,water,ice,535,2.5,220.0,water / ice,146
+132,ditto,Gen 1,3,40,101,48,48,48,48,48,48,normal,,288,0.3,4.0,normal,903
+133,eevee,Gen 1,3,65,65,55,55,50,45,65,55,normal,,325,0.3,6.5,normal,761
+134,vaporeon,Gen 1,10,290,184,130,65,60,110,95,65,water,,525,1.0,29.0,water,189
+135,jolteon,Gen 1,8,245,184,65,65,60,110,95,130,electric,,525,0.8,24.5,electric,189
+136,flareon,Gen 1,9,250,184,65,130,60,95,110,65,fire,,525,0.9,25.0,fire,189
+137,porygon,Gen 1,8,365,79,65,60,70,85,75,40,normal,,395,0.8,36.5,normal,640
+138,omanyte,Gen 1,4,75,71,35,40,100,90,55,35,rock,water,355,0.4,7.5,rock / water,691
+139,omastar,Gen 1,10,350,173,70,60,125,115,70,55,rock,water,495,1.0,35.0,rock / water,317
+140,kabuto,Gen 1,5,115,71,30,80,90,55,45,55,rock,water,355,0.5,11.5,rock / water,691
+141,kabutops,Gen 1,13,405,173,60,115,105,65,70,80,rock,water,495,1.3,40.5,rock / water,317
+142,aerodactyl,Gen 1,18,590,180,80,105,65,60,75,130,rock,flying,515,1.8,59.0,rock / flying,226
+143,snorlax,Gen 1,21,4600,189,160,110,65,65,110,30,normal,,540,2.1,460.0,normal,136
+144,articuno,Gen 1,17,554,261,90,85,100,95,125,85,ice,flying,580,1.7,55.4,ice / flying,69
+145,zapdos,Gen 1,16,526,261,90,90,85,125,90,100,electric,flying,580,1.6,52.6,electric / flying,69
+146,moltres,Gen 1,20,600,261,90,100,90,125,85,90,fire,flying,580,2.0,60.0,fire / flying,69
+147,dratini,Gen 1,18,33,60,41,64,45,50,50,50,dragon,,300,1.8,3.3,dragon,856
+148,dragonair,Gen 1,40,165,147,61,84,65,70,70,70,dragon,,420,4.0,16.5,dragon,562
+149,dragonite,Gen 1,22,2100,270,91,134,95,100,100,80,dragon,flying,600,2.2,210.0,dragon / flying,25
+150,mewtwo,Gen 1,20,1220,306,106,110,90,154,90,130,psychic,,680,2.0,122.0,psychic,3
+151,mew,Gen 1,4,40,270,100,100,100,100,100,100,psychic,,600,0.4,4.0,psychic,25
+152,chikorita,Gen 2,9,64,64,45,49,65,49,65,45,grass,,318,0.9,6.4,grass,787
+153,bayleef,Gen 2,12,158,142,60,62,80,63,80,60,grass,,405,1.2,15.8,grass,605
+154,meganium,Gen 2,18,1005,236,80,82,100,83,100,80,grass,,525,1.8,100.5,grass,189
+155,cyndaquil,Gen 2,5,79,62,39,52,43,60,50,65,fire,,309,0.5,7.9,fire,821
+156,quilava,Gen 2,9,190,142,58,64,58,80,65,80,fire,,405,0.9,19.0,fire,605
+157,typhlosion,Gen 2,17,795,240,78,84,78,109,85,100,fire,,534,1.7,79.5,fire,157
+158,totodile,Gen 2,6,95,63,50,65,64,44,48,43,water,,314,0.6,9.5,water,798
+159,croconaw,Gen 2,11,250,142,65,80,80,59,63,58,water,,405,1.1,25.0,water,605
+160,feraligatr,Gen 2,23,888,239,85,105,100,79,83,78,water,,530,2.3,88.8,water,163
+161,sentret,Gen 2,8,60,43,35,46,34,35,45,20,normal,,215,0.8,6.0,normal,999
+162,furret,Gen 2,18,325,145,85,76,64,45,55,90,normal,,415,1.8,32.5,normal,582
+163,hoothoot,Gen 2,7,212,52,60,30,30,36,56,50,normal,flying,262,0.7,21.2,normal / flying,953
+164,noctowl,Gen 2,16,408,158,100,50,50,86,96,70,normal,flying,452,1.6,40.8,normal / flying,509
+165,ledyba,Gen 2,10,108,53,40,20,30,40,80,55,bug,flying,265,1.0,10.8,bug / flying,946
+166,ledian,Gen 2,14,356,137,55,35,50,55,110,85,bug,flying,390,1.4,35.6,bug / flying,646
+167,spinarak,Gen 2,5,85,50,40,60,40,40,40,30,bug,poison,250,0.5,8.5,bug / poison,967
+168,ariados,Gen 2,11,335,140,70,90,70,60,70,40,bug,poison,400,1.1,33.5,bug / poison,633
+169,crobat,Gen 2,18,750,241,85,90,80,70,80,130,poison,flying,535,1.8,75.0,poison / flying,146
+170,chinchou,Gen 2,5,120,66,75,38,38,56,56,67,water,electric,330,0.5,12.0,water / electric,741
+171,lanturn,Gen 2,12,225,161,125,58,58,76,76,67,water,electric,460,1.2,22.5,water / electric,477
+172,pichu,Gen 2,3,20,41,20,40,15,35,35,60,electric,,205,0.3,2.0,electric,1007
+173,cleffa,Gen 2,3,30,44,50,25,28,45,55,15,fairy,,218,0.3,3.0,fairy,998
+174,igglybuff,Gen 2,3,10,42,90,30,15,40,20,15,normal,fairy,210,0.3,1.0,normal / fairy,1001
+175,togepi,Gen 2,3,15,49,35,20,65,40,65,20,fairy,,245,0.3,1.5,fairy,976
+176,togetic,Gen 2,6,32,142,55,40,85,80,105,40,fairy,flying,405,0.6,3.2,fairy / flying,605
+177,natu,Gen 2,2,20,64,40,50,45,70,45,70,psychic,flying,320,0.2,2.0,psychic / flying,772
+178,xatu,Gen 2,15,150,165,65,75,70,95,70,95,psychic,flying,470,1.5,15.0,psychic / flying,450
+179,mareep,Gen 2,6,78,56,55,40,40,65,45,35,electric,,280,0.6,7.8,electric,913
+180,flaaffy,Gen 2,8,133,128,70,55,55,80,60,45,electric,,365,0.8,13.3,electric,676
+181,ampharos,Gen 2,14,615,230,90,75,85,115,90,55,electric,,510,1.4,61.5,electric,237
+182,bellossom,Gen 2,4,58,221,75,80,95,90,100,50,grass,,490,0.4,5.8,grass,338
+183,marill,Gen 2,4,85,88,70,20,50,20,50,40,water,fairy,250,0.4,8.5,water / fairy,967
+184,azumarill,Gen 2,8,285,189,100,50,80,60,80,50,water,fairy,420,0.8,28.5,water / fairy,562
+185,sudowoodo,Gen 2,12,380,144,70,100,115,30,65,30,rock,,410,1.2,38.0,rock,590
+186,politoed,Gen 2,11,339,225,90,75,75,90,100,70,water,,500,1.1,33.9,water,278
+187,hoppip,Gen 2,4,5,50,35,35,40,35,55,50,grass,flying,250,0.4,0.5,grass / flying,967
+188,skiploom,Gen 2,6,10,119,55,45,50,45,65,80,grass,flying,340,0.6,1.0,grass / flying,719
+189,jumpluff,Gen 2,8,30,207,75,55,70,55,95,110,grass,flying,460,0.8,3.0,grass / flying,477
+190,aipom,Gen 2,8,115,72,55,70,55,40,55,85,normal,,360,0.8,11.5,normal,684
+191,sunkern,Gen 2,3,18,36,30,30,30,30,30,30,grass,,180,0.3,1.8,grass,1023
+192,sunflora,Gen 2,8,85,149,75,75,55,105,85,30,grass,,425,0.8,8.5,grass,553
+193,yanma,Gen 2,12,380,78,65,65,45,75,45,95,bug,flying,390,1.2,38.0,bug / flying,646
+194,wooper,Gen 2,4,85,42,55,45,45,25,25,15,water,ground,210,0.4,8.5,water / ground,1001
+195,quagsire,Gen 2,14,750,151,95,85,85,65,65,35,water,ground,430,1.4,75.0,water / ground,544
+196,espeon,Gen 2,9,265,184,65,65,60,130,95,110,psychic,,525,0.9,26.5,psychic,189
+197,umbreon,Gen 2,10,270,184,95,65,110,60,130,65,dark,,525,1.0,27.0,dark,189
+198,murkrow,Gen 2,5,21,81,60,85,42,85,42,91,dark,flying,405,0.5,2.1,dark / flying,605
+199,slowking,Gen 2,20,795,172,95,75,80,100,110,30,water,psychic,490,2.0,79.5,water / psychic,338
+200,misdreavus,Gen 2,7,10,87,60,60,60,85,85,85,ghost,,435,0.7,1.0,ghost,538
+201,unown,Gen 2,5,50,118,48,72,48,72,48,48,psychic,,336,0.5,5.0,psychic,730
+202,wobbuffet,Gen 2,13,285,142,190,33,58,33,58,33,psychic,,405,1.3,28.5,psychic,605
+203,girafarig,Gen 2,15,415,159,70,80,65,90,65,85,normal,psychic,455,1.5,41.5,normal / psychic,494
+204,pineco,Gen 2,6,72,58,50,65,90,35,35,15,bug,,290,0.6,7.2,bug,892
+205,forretress,Gen 2,12,1258,163,75,90,140,60,60,40,bug,steel,465,1.2,125.8,bug / steel,466
+206,dunsparce,Gen 2,15,140,145,100,70,70,65,65,45,normal,,415,1.5,14.0,normal,582
+207,gligar,Gen 2,11,648,86,65,75,105,35,65,85,ground,flying,430,1.1,64.8,ground / flying,544
+208,steelix,Gen 2,92,4000,179,75,85,200,55,65,30,steel,ground,510,9.2,400.0,steel / ground,237
+209,snubbull,Gen 2,6,78,60,60,80,50,40,40,30,fairy,,300,0.6,7.8,fairy,856
+210,granbull,Gen 2,14,487,158,90,120,75,60,60,45,fairy,,450,1.4,48.7,fairy,512
+211,qwilfish,Gen 2,5,39,88,65,95,85,55,55,85,water,poison,440,0.5,3.9,water / poison,527
+212,scizor,Gen 2,18,1180,175,70,130,100,55,80,65,bug,steel,500,1.8,118.0,bug / steel,278
+213,shuckle,Gen 2,6,205,177,20,10,230,10,230,5,bug,rock,505,0.6,20.5,bug / rock,262
+214,heracross,Gen 2,15,540,175,80,125,75,40,95,85,bug,fighting,500,1.5,54.0,bug / fighting,278
+215,sneasel,Gen 2,9,280,86,55,95,55,35,75,115,dark,ice,430,0.9,28.0,dark / ice,544
+216,teddiursa,Gen 2,6,88,66,60,80,50,50,50,40,normal,,330,0.6,8.8,normal,741
+217,ursaring,Gen 2,18,1258,175,90,130,75,75,75,55,normal,,500,1.8,125.8,normal,278
+218,slugma,Gen 2,7,350,50,40,40,40,70,40,20,fire,,250,0.7,35.0,fire,967
+219,magcargo,Gen 2,8,550,151,60,50,120,90,80,30,fire,rock,430,0.8,55.0,fire / rock,544
+220,swinub,Gen 2,4,65,50,50,50,40,30,30,50,ice,ground,250,0.4,6.5,ice / ground,967
+221,piloswine,Gen 2,11,558,158,100,100,80,60,60,50,ice,ground,450,1.1,55.8,ice / ground,512
+222,corsola,Gen 2,6,50,144,65,55,95,65,95,35,water,rock,410,0.6,5.0,water / rock,590
+223,remoraid,Gen 2,6,120,60,35,65,35,65,35,65,water,,300,0.6,12.0,water,856
+224,octillery,Gen 2,9,285,168,75,105,75,105,75,45,water,,480,0.9,28.5,water,405
+225,delibird,Gen 2,9,160,116,45,55,45,65,45,75,ice,flying,330,0.9,16.0,ice / flying,741
+226,mantine,Gen 2,21,2200,170,85,40,70,80,140,70,water,flying,485,2.1,220.0,water / flying,372
+227,skarmory,Gen 2,17,505,163,65,80,140,40,70,70,steel,flying,465,1.7,50.5,steel / flying,466
+228,houndour,Gen 2,6,108,66,45,60,30,80,50,65,dark,fire,330,0.6,10.8,dark / fire,741
+229,houndoom,Gen 2,14,350,175,75,90,50,110,80,95,dark,fire,500,1.4,35.0,dark / fire,278
+230,kingdra,Gen 2,18,1520,243,75,95,95,95,95,85,water,dragon,540,1.8,152.0,water / dragon,136
+231,phanpy,Gen 2,5,335,66,90,60,60,40,40,40,ground,,330,0.5,33.5,ground,741
+232,donphan,Gen 2,11,1200,175,90,120,120,60,60,50,ground,,500,1.1,120.0,ground,278
+233,porygon2,Gen 2,6,325,180,85,80,90,105,95,60,normal,,515,0.6,32.5,normal,226
+234,stantler,Gen 2,14,712,163,73,95,62,85,65,85,normal,,465,1.4,71.2,normal,466
+235,smeargle,Gen 2,12,580,88,55,20,35,20,45,75,normal,,250,1.2,58.0,normal,967
+236,tyrogue,Gen 2,7,210,42,35,35,35,35,35,35,fighting,,210,0.7,21.0,fighting,1001
+237,hitmontop,Gen 2,14,480,159,50,95,95,35,110,70,fighting,,455,1.4,48.0,fighting,494
+238,smoochum,Gen 2,4,60,61,45,30,15,85,65,65,ice,psychic,305,0.4,6.0,ice / psychic,833
+239,elekid,Gen 2,6,235,72,45,63,37,65,55,95,electric,,360,0.6,23.5,electric,684
+240,magby,Gen 2,7,214,73,45,75,37,70,55,83,fire,,365,0.7,21.4,fire,676
+241,miltank,Gen 2,12,755,172,95,80,105,40,70,100,normal,,490,1.2,75.5,normal,338
+242,blissey,Gen 2,15,468,608,255,10,10,75,135,55,normal,,540,1.5,46.8,normal,136
+243,raikou,Gen 2,19,1780,261,90,85,75,115,100,115,electric,,580,1.9,178.0,electric,69
+244,entei,Gen 2,21,1980,261,115,115,85,90,75,100,fire,,580,2.1,198.0,fire,69
+245,suicune,Gen 2,20,1870,261,100,75,115,90,115,85,water,,580,2.0,187.0,water,69
+246,larvitar,Gen 2,6,720,60,50,64,50,45,50,41,rock,ground,300,0.6,72.0,rock / ground,856
+247,pupitar,Gen 2,12,1520,144,70,84,70,65,70,51,rock,ground,410,1.2,152.0,rock / ground,590
+248,tyranitar,Gen 2,20,2020,270,100,134,110,95,100,61,rock,dark,600,2.0,202.0,rock / dark,25
+249,lugia,Gen 2,52,2160,306,106,90,130,90,154,110,psychic,flying,680,5.2,216.0,psychic / flying,3
+250,ho-oh,Gen 2,38,1990,306,106,130,90,110,154,90,fire,flying,680,3.8,199.0,fire / flying,3
+251,celebi,Gen 2,6,50,270,100,100,100,100,100,100,psychic,grass,600,0.6,5.0,psychic / grass,25
+252,treecko,Gen 3,5,50,62,40,45,35,65,55,70,grass,,310,0.5,5.0,grass,804
+253,grovyle,Gen 3,9,216,142,50,65,45,85,65,95,grass,,405,0.9,21.6,grass,605
+254,sceptile,Gen 3,17,522,239,70,85,65,105,85,120,grass,,530,1.7,52.2,grass,163
+255,torchic,Gen 3,4,25,62,45,60,40,70,50,45,fire,,310,0.4,2.5,fire,804
+256,combusken,Gen 3,9,195,142,60,85,60,85,60,55,fire,fighting,405,0.9,19.5,fire / fighting,605
+257,blaziken,Gen 3,19,520,239,80,120,70,110,70,80,fire,fighting,530,1.9,52.0,fire / fighting,163
+258,mudkip,Gen 3,4,76,62,50,70,50,50,50,40,water,,310,0.4,7.6,water,804
+259,marshtomp,Gen 3,7,280,142,70,85,70,60,70,50,water,ground,405,0.7,28.0,water / ground,605
+260,swampert,Gen 3,15,819,241,100,110,90,85,90,60,water,ground,535,1.5,81.9,water / ground,146
+261,poochyena,Gen 3,5,136,56,35,55,35,30,30,35,dark,,220,0.5,13.6,dark,994
+262,mightyena,Gen 3,10,370,147,70,90,70,60,60,70,dark,,420,1.0,37.0,dark,562
+263,zigzagoon,Gen 3,4,175,56,38,30,41,30,41,60,normal,,240,0.4,17.5,normal,985
+264,linoone,Gen 3,5,325,147,78,70,61,50,61,100,normal,,420,0.5,32.5,normal,562
+265,wurmple,Gen 3,3,36,56,45,45,35,20,30,20,bug,,195,0.3,3.6,bug,1017
+266,silcoon,Gen 3,6,100,72,50,35,55,25,25,15,bug,,205,0.6,10.0,bug,1007
+267,beautifly,Gen 3,10,284,178,60,70,50,100,50,65,bug,flying,395,1.0,28.4,bug / flying,640
+268,cascoon,Gen 3,7,115,72,50,35,55,25,25,15,bug,,205,0.7,11.5,bug,1007
+269,dustox,Gen 3,12,316,173,60,50,70,50,90,65,bug,poison,385,1.2,31.6,bug / poison,653
+270,lotad,Gen 3,5,26,44,40,30,30,40,50,30,water,grass,220,0.5,2.6,water / grass,994
+271,lombre,Gen 3,12,325,119,60,50,50,60,70,50,water,grass,340,1.2,32.5,water / grass,719
+272,ludicolo,Gen 3,15,550,216,80,70,70,90,100,70,water,grass,480,1.5,55.0,water / grass,405
+273,seedot,Gen 3,5,40,44,40,40,50,30,30,30,grass,,220,0.5,4.0,grass,994
+274,nuzleaf,Gen 3,10,280,119,70,70,40,60,40,60,grass,dark,340,1.0,28.0,grass / dark,719
+275,shiftry,Gen 3,13,596,216,90,100,60,90,60,80,grass,dark,480,1.3,59.6,grass / dark,405
+276,taillow,Gen 3,3,23,54,40,55,30,30,30,85,normal,flying,270,0.3,2.3,normal / flying,935
+277,swellow,Gen 3,7,198,159,60,85,60,75,50,125,normal,flying,455,0.7,19.8,normal / flying,494
+278,wingull,Gen 3,6,95,54,40,30,30,55,30,85,water,flying,270,0.6,9.5,water / flying,935
+279,pelipper,Gen 3,12,280,154,60,50,100,95,70,65,water,flying,440,1.2,28.0,water / flying,527
+280,ralts,Gen 3,4,66,40,28,25,25,45,35,40,psychic,fairy,198,0.4,6.6,psychic / fairy,1016
+281,kirlia,Gen 3,8,202,97,38,35,35,65,55,50,psychic,fairy,278,0.8,20.2,psychic / fairy,924
+282,gardevoir,Gen 3,16,484,233,68,65,65,125,115,80,psychic,fairy,518,1.6,48.4,psychic / fairy,223
+283,surskit,Gen 3,5,17,54,40,30,32,50,52,65,bug,water,269,0.5,1.7,bug / water,943
+284,masquerain,Gen 3,8,36,159,70,60,62,100,82,80,bug,flying,454,0.8,3.6,bug / flying,506
+285,shroomish,Gen 3,4,45,59,60,40,60,40,60,35,grass,,295,0.4,4.5,grass,882
+286,breloom,Gen 3,12,392,161,60,130,80,60,60,70,grass,fighting,460,1.2,39.2,grass / fighting,477
+287,slakoth,Gen 3,8,240,56,60,60,60,35,35,30,normal,,280,0.8,24.0,normal,913
+288,vigoroth,Gen 3,14,465,154,80,80,80,55,55,90,normal,,440,1.4,46.5,normal,527
+289,slaking,Gen 3,20,1305,252,150,160,100,95,65,100,normal,,670,2.0,130.5,normal,16
+290,nincada,Gen 3,5,55,53,31,45,90,30,30,40,bug,ground,266,0.5,5.5,bug / ground,945
+291,ninjask,Gen 3,8,120,160,61,90,45,50,50,160,bug,flying,456,0.8,12.0,bug / flying,493
+292,shedinja,Gen 3,8,12,83,1,90,45,30,30,40,bug,ghost,236,0.8,1.2,bug / ghost,991
+293,whismur,Gen 3,6,163,48,64,51,23,51,23,28,normal,,240,0.6,16.3,normal,985
+294,loudred,Gen 3,10,405,126,84,71,43,71,43,48,normal,,360,1.0,40.5,normal,684
+295,exploud,Gen 3,15,840,221,104,91,63,91,73,68,normal,,490,1.5,84.0,normal,338
+296,makuhita,Gen 3,10,864,47,72,60,30,20,30,25,fighting,,237,1.0,86.4,fighting,989
+297,hariyama,Gen 3,23,2538,166,144,120,60,40,60,50,fighting,,474,2.3,253.8,fighting,442
+298,azurill,Gen 3,2,20,38,50,20,40,20,40,20,normal,fairy,190,0.2,2.0,normal / fairy,1021
+299,nosepass,Gen 3,10,970,75,30,45,135,45,90,30,rock,,375,1.0,97.0,rock,667
+300,skitty,Gen 3,6,110,52,50,45,45,35,35,50,normal,,260,0.6,11.0,normal,955
+301,delcatty,Gen 3,11,326,140,70,65,65,55,55,90,normal,,400,1.1,32.6,normal,633
+302,sableye,Gen 3,5,110,133,50,75,75,65,65,50,dark,ghost,380,0.5,11.0,dark / ghost,662
+303,mawile,Gen 3,6,115,133,50,85,85,55,55,50,steel,fairy,380,0.6,11.5,steel / fairy,662
+304,aron,Gen 3,4,600,66,50,70,100,40,40,30,steel,rock,330,0.4,60.0,steel / rock,741
+305,lairon,Gen 3,9,1200,151,60,90,140,50,50,40,steel,rock,430,0.9,120.0,steel / rock,544
+306,aggron,Gen 3,21,3600,239,70,110,180,60,60,50,steel,rock,530,2.1,360.0,steel / rock,163
+307,meditite,Gen 3,6,112,56,30,40,55,40,55,60,fighting,psychic,280,0.6,11.2,fighting / psychic,913
+308,medicham,Gen 3,13,315,144,60,60,75,60,75,80,fighting,psychic,410,1.3,31.5,fighting / psychic,590
+309,electrike,Gen 3,6,152,59,40,45,40,65,40,65,electric,,295,0.6,15.2,electric,882
+310,manectric,Gen 3,15,402,166,70,75,60,105,60,105,electric,,475,1.5,40.2,electric,431
+311,plusle,Gen 3,4,42,142,60,50,40,85,75,95,electric,,405,0.4,4.2,electric,605
+312,minun,Gen 3,4,42,142,60,40,50,75,85,95,electric,,405,0.4,4.2,electric,605
+313,volbeat,Gen 3,7,177,151,65,73,75,47,85,85,bug,,430,0.7,17.7,bug,544
+314,illumise,Gen 3,6,177,151,65,47,75,73,85,85,bug,,430,0.6,17.7,bug,544
+315,roselia,Gen 3,3,20,140,50,60,45,100,80,65,grass,poison,400,0.3,2.0,grass / poison,633
+316,gulpin,Gen 3,4,103,60,70,43,53,43,53,40,poison,,302,0.4,10.3,poison,855
+317,swalot,Gen 3,17,800,163,100,73,83,73,83,55,poison,,467,1.7,80.0,poison,464
+318,carvanha,Gen 3,8,208,61,45,90,20,65,20,65,water,dark,305,0.8,20.8,water / dark,833
+319,sharpedo,Gen 3,18,888,161,70,120,40,95,40,95,water,dark,460,1.8,88.8,water / dark,477
+320,wailmer,Gen 3,20,1300,80,130,70,35,70,35,60,water,,400,2.0,130.0,water,633
+321,wailord,Gen 3,145,3980,175,170,90,45,90,45,60,water,,500,14.5,398.0,water,278
+322,numel,Gen 3,7,240,61,60,60,40,65,45,35,fire,ground,305,0.7,24.0,fire / ground,833
+323,camerupt,Gen 3,19,2200,161,70,100,70,105,75,40,fire,ground,460,1.9,220.0,fire / ground,477
+324,torkoal,Gen 3,5,804,165,70,85,140,85,70,20,fire,,470,0.5,80.4,fire,450
+325,spoink,Gen 3,7,306,66,60,25,35,70,80,60,psychic,,330,0.7,30.6,psychic,741
+326,grumpig,Gen 3,9,715,165,80,45,65,90,110,80,psychic,,470,0.9,71.5,psychic,450
+327,spinda,Gen 3,11,50,126,60,60,60,60,60,60,normal,,360,1.1,5.0,normal,684
+328,trapinch,Gen 3,7,150,58,45,100,45,45,45,10,ground,,290,0.7,15.0,ground,892
+329,vibrava,Gen 3,11,153,119,50,70,50,50,50,70,ground,dragon,340,1.1,15.3,ground / dragon,719
+330,flygon,Gen 3,20,820,234,80,100,80,80,80,100,ground,dragon,520,2.0,82.0,ground / dragon,214
+331,cacnea,Gen 3,4,513,67,50,85,40,85,40,35,grass,,335,0.4,51.3,grass,731
+332,cacturne,Gen 3,13,774,166,70,115,60,115,60,55,grass,dark,475,1.3,77.4,grass / dark,431
+333,swablu,Gen 3,4,12,62,45,40,60,40,75,50,normal,flying,310,0.4,1.2,normal / flying,804
+334,altaria,Gen 3,11,206,172,75,70,90,70,105,80,dragon,flying,490,1.1,20.6,dragon / flying,338
+335,zangoose,Gen 3,13,403,160,73,115,60,60,60,90,normal,,458,1.3,40.3,normal,490
+336,seviper,Gen 3,27,525,160,73,100,60,100,60,65,poison,,458,2.7,52.5,poison,490
+337,lunatone,Gen 3,10,1680,161,90,55,65,95,85,70,rock,psychic,460,1.0,168.0,rock / psychic,477
+338,solrock,Gen 3,12,1540,161,90,95,85,55,65,70,rock,psychic,460,1.2,154.0,rock / psychic,477
+339,barboach,Gen 3,4,19,58,50,48,43,46,41,60,water,ground,288,0.4,1.9,water / ground,903
+340,whiscash,Gen 3,9,236,164,110,78,73,76,71,60,water,ground,468,0.9,23.6,water / ground,462
+341,corphish,Gen 3,6,115,62,43,80,65,50,35,35,water,,308,0.6,11.5,water,825
+342,crawdaunt,Gen 3,11,328,164,63,120,85,90,55,55,water,dark,468,1.1,32.8,water / dark,462
+343,baltoy,Gen 3,5,215,60,40,40,55,40,70,55,ground,psychic,300,0.5,21.5,ground / psychic,856
+344,claydol,Gen 3,15,1080,175,60,70,105,70,120,75,ground,psychic,500,1.5,108.0,ground / psychic,278
+345,lileep,Gen 3,10,238,71,66,41,77,61,87,23,rock,grass,355,1.0,23.8,rock / grass,691
+346,cradily,Gen 3,15,604,173,86,81,97,81,107,43,rock,grass,495,1.5,60.4,rock / grass,317
+347,anorith,Gen 3,7,125,71,45,95,50,40,50,75,rock,bug,355,0.7,12.5,rock / bug,691
+348,armaldo,Gen 3,15,682,173,75,125,100,70,80,45,rock,bug,495,1.5,68.2,rock / bug,317
+349,feebas,Gen 3,6,74,40,20,15,20,10,55,80,water,,200,0.6,7.4,water,1012
+350,milotic,Gen 3,62,1620,189,95,60,79,100,125,81,water,,540,6.2,162.0,water,136
+351,castform,Gen 3,3,8,147,70,70,70,70,70,70,normal,,420,0.3,0.8,normal,562
+352,kecleon,Gen 3,10,220,154,60,90,70,60,120,40,normal,,440,1.0,22.0,normal,527
+353,shuppet,Gen 3,6,23,59,44,75,35,63,33,45,ghost,,295,0.6,2.3,ghost,882
+354,banette,Gen 3,11,125,159,64,115,65,83,63,65,ghost,,455,1.1,12.5,ghost,494
+355,duskull,Gen 3,8,150,59,20,40,90,30,90,25,ghost,,295,0.8,15.0,ghost,882
+356,dusclops,Gen 3,16,306,159,40,70,130,60,130,25,ghost,,455,1.6,30.6,ghost,494
+357,tropius,Gen 3,20,1000,161,99,68,83,72,87,51,grass,flying,460,2.0,100.0,grass / flying,477
+358,chimecho,Gen 3,6,10,159,75,50,80,95,90,65,psychic,,455,0.6,1.0,psychic,494
+359,absol,Gen 3,12,470,163,65,130,60,75,60,75,dark,,465,1.2,47.0,dark,466
+360,wynaut,Gen 3,6,140,52,95,23,48,23,48,23,psychic,,260,0.6,14.0,psychic,955
+361,snorunt,Gen 3,7,168,60,50,50,50,50,50,50,ice,,300,0.7,16.8,ice,856
+362,glalie,Gen 3,15,2565,168,80,80,80,80,80,80,ice,,480,1.5,256.5,ice,405
+363,spheal,Gen 3,8,395,58,70,40,50,55,50,25,ice,water,290,0.8,39.5,ice / water,892
+364,sealeo,Gen 3,11,876,144,90,60,70,75,70,45,ice,water,410,1.1,87.6,ice / water,590
+365,walrein,Gen 3,14,1506,239,110,80,90,95,90,65,ice,water,530,1.4,150.6,ice / water,163
+366,clamperl,Gen 3,4,525,69,35,64,85,74,55,32,water,,345,0.4,52.5,water,714
+367,huntail,Gen 3,17,270,170,55,104,105,94,75,52,water,,485,1.7,27.0,water,372
+368,gorebyss,Gen 3,18,226,170,55,84,105,114,75,52,water,,485,1.8,22.6,water,372
+369,relicanth,Gen 3,10,234,170,100,90,130,45,65,55,water,rock,485,1.0,23.4,water / rock,372
+370,luvdisc,Gen 3,6,87,116,43,30,55,40,65,97,water,,330,0.6,8.7,water,741
+371,bagon,Gen 3,6,421,60,45,75,60,40,30,50,dragon,,300,0.6,42.1,dragon,856
+372,shelgon,Gen 3,11,1105,147,65,95,100,60,50,50,dragon,,420,1.1,110.5,dragon,562
+373,salamence,Gen 3,15,1026,270,95,135,80,110,80,100,dragon,flying,600,1.5,102.6,dragon / flying,25
+374,beldum,Gen 3,6,952,60,40,55,80,35,60,30,steel,psychic,300,0.6,95.2,steel / psychic,856
+375,metang,Gen 3,12,2025,147,60,75,100,55,80,50,steel,psychic,420,1.2,202.5,steel / psychic,562
+376,metagross,Gen 3,16,5500,270,80,135,130,95,90,70,steel,psychic,600,1.6,550.0,steel / psychic,25
+377,regirock,Gen 3,17,2300,261,80,100,200,50,100,50,rock,,580,1.7,230.0,rock,69
+378,regice,Gen 3,18,1750,261,80,50,100,100,200,50,ice,,580,1.8,175.0,ice,69
+379,registeel,Gen 3,19,2050,261,80,75,150,75,150,50,steel,,580,1.9,205.0,steel,69
+380,latias,Gen 3,14,400,270,80,80,90,110,130,110,dragon,psychic,600,1.4,40.0,dragon / psychic,25
+381,latios,Gen 3,20,600,270,80,90,80,130,110,110,dragon,psychic,600,2.0,60.0,dragon / psychic,25
+382,kyogre,Gen 3,45,3520,302,100,100,90,150,140,90,water,,670,4.5,352.0,water,16
+383,groudon,Gen 3,35,9500,302,100,150,140,100,90,90,ground,,670,3.5,950.0,ground,16
+384,rayquaza,Gen 3,70,2065,306,105,150,90,150,90,95,dragon,flying,680,7.0,206.5,dragon / flying,3
+385,jirachi,Gen 3,3,11,270,100,100,100,100,100,100,steel,psychic,600,0.3,1.1,steel / psychic,25
+386,deoxys-normal,Gen 3,17,608,270,50,150,50,150,50,150,psychic,,600,1.7,60.8,psychic,25
+387,turtwig,Gen 4,4,102,64,55,68,64,45,55,31,grass,,318,0.4,10.2,grass,787
+388,grotle,Gen 4,11,970,142,75,89,85,55,65,36,grass,,405,1.1,97.0,grass,605
+389,torterra,Gen 4,22,3100,236,95,109,105,75,85,56,grass,ground,525,2.2,310.0,grass / ground,189
+390,chimchar,Gen 4,5,62,62,44,58,44,58,44,61,fire,,309,0.5,6.2,fire,821
+391,monferno,Gen 4,9,220,142,64,78,52,78,52,81,fire,fighting,405,0.9,22.0,fire / fighting,605
+392,infernape,Gen 4,12,550,240,76,104,71,104,71,108,fire,fighting,534,1.2,55.0,fire / fighting,157
+393,piplup,Gen 4,4,52,63,53,51,53,61,56,40,water,,314,0.4,5.2,water,798
+394,prinplup,Gen 4,8,230,142,64,66,68,81,76,50,water,,405,0.8,23.0,water,605
+395,empoleon,Gen 4,17,845,239,84,86,88,111,101,60,water,steel,530,1.7,84.5,water / steel,163
+396,starly,Gen 4,3,20,49,40,55,30,30,30,60,normal,flying,245,0.3,2.0,normal / flying,976
+397,staravia,Gen 4,6,155,119,55,75,50,40,40,80,normal,flying,340,0.6,15.5,normal / flying,719
+398,staraptor,Gen 4,12,249,218,85,120,70,50,60,100,normal,flying,485,1.2,24.9,normal / flying,372
+399,bidoof,Gen 4,5,200,50,59,45,40,35,40,31,normal,,250,0.5,20.0,normal,967
+400,bibarel,Gen 4,10,315,144,79,85,60,55,60,71,normal,water,410,1.0,31.5,normal / water,590
+401,kricketot,Gen 4,3,22,39,37,25,41,25,41,25,bug,,194,0.3,2.2,bug,1020
+402,kricketune,Gen 4,10,255,134,77,85,51,55,51,65,bug,,384,1.0,25.5,bug,659
+403,shinx,Gen 4,5,95,53,45,65,34,40,34,45,electric,,263,0.5,9.5,electric,952
+404,luxio,Gen 4,9,305,127,60,85,49,60,49,60,electric,,363,0.9,30.5,electric,681
+405,luxray,Gen 4,14,420,235,80,120,79,95,79,70,electric,,523,1.4,42.0,electric,210
+406,budew,Gen 4,2,12,56,40,30,35,50,70,55,grass,poison,280,0.2,1.2,grass / poison,913
+407,roserade,Gen 4,9,145,232,60,70,65,125,105,90,grass,poison,515,0.9,14.5,grass / poison,226
+408,cranidos,Gen 4,9,315,70,67,125,40,30,30,58,rock,,350,0.9,31.5,rock,701
+409,rampardos,Gen 4,16,1025,173,97,165,60,65,50,58,rock,,495,1.6,102.5,rock,317
+410,shieldon,Gen 4,5,570,70,30,42,118,42,88,30,rock,steel,350,0.5,57.0,rock / steel,701
+411,bastiodon,Gen 4,13,1495,173,60,52,168,47,138,30,rock,steel,495,1.3,149.5,rock / steel,317
+412,burmy,Gen 4,2,34,45,40,29,45,29,45,36,bug,,224,0.2,3.4,bug,993
+413,wormadam-plant,Gen 4,5,65,148,60,59,85,79,105,36,bug,grass,424,0.5,6.5,bug / grass,558
+414,mothim,Gen 4,9,233,148,70,94,50,94,50,66,bug,flying,424,0.9,23.3,bug / flying,558
+415,combee,Gen 4,3,55,49,30,30,42,30,42,70,bug,flying,244,0.3,5.5,bug / flying,983
+416,vespiquen,Gen 4,12,385,166,70,80,102,80,102,40,bug,flying,474,1.2,38.5,bug / flying,442
+417,pachirisu,Gen 4,4,39,142,60,45,70,45,90,95,electric,,405,0.4,3.9,electric,605
+418,buizel,Gen 4,7,295,66,55,65,35,60,30,85,water,,330,0.7,29.5,water,741
+419,floatzel,Gen 4,11,335,173,85,105,55,85,50,115,water,,495,1.1,33.5,water,317
+420,cherubi,Gen 4,4,33,55,45,35,45,62,53,35,grass,,275,0.4,3.3,grass,926
+421,cherrim,Gen 4,5,93,158,70,60,70,87,78,85,grass,,450,0.5,9.3,grass,512
+422,shellos,Gen 4,3,63,65,76,48,48,57,62,34,water,,325,0.3,6.3,water,761
+423,gastrodon,Gen 4,9,299,166,111,83,68,92,82,39,water,ground,475,0.9,29.9,water / ground,431
+424,ambipom,Gen 4,12,203,169,75,100,66,60,66,115,normal,,482,1.2,20.3,normal,401
+425,drifloon,Gen 4,4,12,70,90,50,34,60,44,70,ghost,flying,348,0.4,1.2,ghost / flying,711
+426,drifblim,Gen 4,12,150,174,150,80,44,90,54,80,ghost,flying,498,1.2,15.0,ghost / flying,312
+427,buneary,Gen 4,4,55,70,55,66,44,44,56,85,normal,,350,0.4,5.5,normal,701
+428,lopunny,Gen 4,12,333,168,65,76,84,54,96,105,normal,,480,1.2,33.3,normal,405
+429,mismagius,Gen 4,9,44,173,60,60,60,105,105,105,ghost,,495,0.9,4.4,ghost,317
+430,honchkrow,Gen 4,9,273,177,100,125,52,105,52,71,dark,flying,505,0.9,27.3,dark / flying,262
+431,glameow,Gen 4,5,39,62,49,55,42,42,37,85,normal,,310,0.5,3.9,normal,804
+432,purugly,Gen 4,10,438,158,71,82,64,64,59,112,normal,,452,1.0,43.8,normal,509
+433,chingling,Gen 4,2,6,57,45,30,50,65,50,45,psychic,,285,0.2,0.6,psychic,907
+434,stunky,Gen 4,4,192,66,63,63,47,41,41,74,poison,dark,329,0.4,19.2,poison / dark,757
+435,skuntank,Gen 4,10,380,168,103,93,67,71,61,84,poison,dark,479,1.0,38.0,poison / dark,424
+436,bronzor,Gen 4,5,605,60,57,24,86,24,86,23,steel,psychic,300,0.5,60.5,steel / psychic,856
+437,bronzong,Gen 4,13,1870,175,67,89,116,79,116,33,steel,psychic,500,1.3,187.0,steel / psychic,278
+438,bonsly,Gen 4,5,150,58,50,80,95,10,45,10,rock,,290,0.5,15.0,rock,892
+439,mime-jr,Gen 4,6,130,62,20,25,45,70,90,60,psychic,fairy,310,0.6,13.0,psychic / fairy,804
+440,happiny,Gen 4,6,244,110,100,5,5,15,65,30,normal,,220,0.6,24.4,normal,994
+441,chatot,Gen 4,5,19,144,76,65,45,92,42,91,normal,flying,411,0.5,1.9,normal / flying,587
+442,spiritomb,Gen 4,10,1080,170,50,92,108,92,108,35,ghost,dark,485,1.0,108.0,ghost / dark,372
+443,gible,Gen 4,7,205,60,58,70,45,40,45,42,dragon,ground,300,0.7,20.5,dragon / ground,856
+444,gabite,Gen 4,14,560,144,68,90,65,50,55,82,dragon,ground,410,1.4,56.0,dragon / ground,590
+445,garchomp,Gen 4,19,950,270,108,130,95,80,85,102,dragon,ground,600,1.9,95.0,dragon / ground,25
+446,munchlax,Gen 4,6,1050,78,135,85,40,40,85,5,normal,,390,0.6,105.0,normal,646
+447,riolu,Gen 4,7,202,57,40,70,40,35,40,60,fighting,,285,0.7,20.2,fighting,907
+448,lucario,Gen 4,12,540,184,70,110,70,115,70,90,fighting,steel,525,1.2,54.0,fighting / steel,189
+449,hippopotas,Gen 4,8,495,66,68,72,78,38,42,32,ground,,330,0.8,49.5,ground,741
+450,hippowdon,Gen 4,20,3000,184,108,112,118,68,72,47,ground,,525,2.0,300.0,ground,189
+451,skorupi,Gen 4,8,120,66,40,50,90,30,55,65,poison,bug,330,0.8,12.0,poison / bug,741
+452,drapion,Gen 4,13,615,175,70,90,110,60,75,95,poison,dark,500,1.3,61.5,poison / dark,278
+453,croagunk,Gen 4,7,230,60,48,61,40,61,40,50,poison,fighting,300,0.7,23.0,poison / fighting,856
+454,toxicroak,Gen 4,13,444,172,83,106,65,86,65,85,poison,fighting,490,1.3,44.4,poison / fighting,338
+455,carnivine,Gen 4,14,270,159,74,100,72,90,72,46,grass,,454,1.4,27.0,grass,506
+456,finneon,Gen 4,4,70,66,49,49,56,49,61,66,water,,330,0.4,7.0,water,741
+457,lumineon,Gen 4,12,240,161,69,69,76,69,86,91,water,,460,1.2,24.0,water,477
+458,mantyke,Gen 4,10,650,69,45,20,50,60,120,50,water,flying,345,1.0,65.0,water / flying,714
+459,snover,Gen 4,10,505,67,60,62,50,62,60,40,grass,ice,334,1.0,50.5,grass / ice,739
+460,abomasnow,Gen 4,22,1355,173,90,92,75,92,85,60,grass,ice,494,2.2,135.5,grass / ice,335
+461,weavile,Gen 4,11,340,179,70,120,65,45,85,125,dark,ice,510,1.1,34.0,dark / ice,237
+462,magnezone,Gen 4,12,1800,241,70,70,115,130,90,60,electric,steel,535,1.2,180.0,electric / steel,146
+463,lickilicky,Gen 4,17,1400,180,110,85,95,80,95,50,normal,,515,1.7,140.0,normal,226
+464,rhyperior,Gen 4,24,2828,241,115,140,130,55,55,40,ground,rock,535,2.4,282.8,ground / rock,146
+465,tangrowth,Gen 4,20,1286,187,100,100,125,110,50,50,grass,,535,2.0,128.6,grass,146
+466,electivire,Gen 4,18,1386,243,75,123,67,95,85,95,electric,,540,1.8,138.6,electric,136
+467,magmortar,Gen 4,16,680,243,75,95,67,125,95,83,fire,,540,1.6,68.0,fire,136
+468,togekiss,Gen 4,15,380,245,85,50,95,120,115,80,fairy,flying,545,1.5,38.0,fairy / flying,135
+469,yanmega,Gen 4,19,515,180,86,76,86,116,56,95,bug,flying,515,1.9,51.5,bug / flying,226
+470,leafeon,Gen 4,10,255,184,65,110,130,60,65,95,grass,,525,1.0,25.5,grass,189
+471,glaceon,Gen 4,8,259,184,65,60,110,130,95,65,ice,,525,0.8,25.9,ice,189
+472,gliscor,Gen 4,20,425,179,75,95,125,45,75,95,ground,flying,510,2.0,42.5,ground / flying,237
+473,mamoswine,Gen 4,25,2910,239,110,130,80,70,60,80,ice,ground,530,2.5,291.0,ice / ground,163
+474,porygon-z,Gen 4,9,340,241,85,80,70,135,75,90,normal,,535,0.9,34.0,normal,146
+475,gallade,Gen 4,16,520,233,68,125,65,65,115,80,psychic,fighting,518,1.6,52.0,psychic / fighting,223
+476,probopass,Gen 4,14,3400,184,60,55,145,75,150,40,rock,steel,525,1.4,340.0,rock / steel,189
+477,dusknoir,Gen 4,22,1066,236,45,100,135,65,135,45,ghost,,525,2.2,106.6,ghost,189
+478,froslass,Gen 4,13,266,168,70,80,70,80,70,110,ice,ghost,480,1.3,26.6,ice / ghost,405
+479,rotom,Gen 4,3,3,154,50,50,77,95,77,91,electric,ghost,440,0.3,0.3,electric / ghost,527
+480,uxie,Gen 4,3,3,261,75,75,130,75,130,95,psychic,,580,0.3,0.3,psychic,69
+481,mesprit,Gen 4,3,3,261,80,105,105,105,105,80,psychic,,580,0.3,0.3,psychic,69
+482,azelf,Gen 4,3,3,261,75,125,70,125,70,115,psychic,,580,0.3,0.3,psychic,69
+483,dialga,Gen 4,54,6830,306,100,120,120,150,100,90,steel,dragon,680,5.4,683.0,steel / dragon,3
+484,palkia,Gen 4,42,3360,306,90,120,100,150,120,100,water,dragon,680,4.2,336.0,water / dragon,3
+485,heatran,Gen 4,17,4300,270,91,90,106,130,106,77,fire,steel,600,1.7,430.0,fire / steel,25
+486,regigigas,Gen 4,37,4200,302,110,160,110,80,110,100,normal,,670,3.7,420.0,normal,16
+487,giratina-altered,Gen 4,45,7500,306,150,100,120,100,120,90,ghost,dragon,680,4.5,750.0,ghost / dragon,3
+488,cresselia,Gen 4,15,856,270,120,70,110,75,120,85,psychic,,580,1.5,85.6,psychic,69
+489,phione,Gen 4,4,31,216,80,80,80,80,80,80,water,,480,0.4,3.1,water,405
+490,manaphy,Gen 4,3,14,270,100,100,100,100,100,100,water,,600,0.3,1.4,water,25
+491,darkrai,Gen 4,15,505,270,70,90,90,135,90,125,dark,,600,1.5,50.5,dark,25
+492,shaymin-land,Gen 4,2,21,270,100,100,100,100,100,100,grass,,600,0.2,2.1,grass,25
+493,arceus,Gen 4,32,3200,324,120,120,120,120,120,120,normal,,720,3.2,320.0,normal,1
+494,victini,Gen 5,4,40,270,100,100,100,100,100,100,psychic,fire,600,0.4,4.0,psychic / fire,25
+495,snivy,Gen 5,6,81,62,45,45,55,45,55,63,grass,,308,0.6,8.1,grass,825
+496,servine,Gen 5,8,160,145,60,60,75,60,75,83,grass,,413,0.8,16.0,grass,584
+497,serperior,Gen 5,33,630,238,75,75,95,75,95,113,grass,,528,3.3,63.0,grass,186
+498,tepig,Gen 5,5,99,62,65,63,45,45,45,45,fire,,308,0.5,9.9,fire,825
+499,pignite,Gen 5,10,555,146,90,93,55,70,55,55,fire,fighting,418,1.0,55.5,fire / fighting,579
+500,emboar,Gen 5,16,1500,238,110,123,65,100,65,65,fire,fighting,528,1.6,150.0,fire / fighting,186
+501,oshawott,Gen 5,5,59,62,55,55,45,63,45,45,water,,308,0.5,5.9,water,825
+502,dewott,Gen 5,8,245,145,75,75,60,83,60,60,water,,413,0.8,24.5,water,584
+503,samurott,Gen 5,15,946,238,95,100,85,108,70,70,water,,528,1.5,94.6,water,186
+504,patrat,Gen 5,5,116,51,45,55,39,35,39,42,normal,,255,0.5,11.6,normal,960
+505,watchog,Gen 5,11,270,147,60,85,69,60,69,77,normal,,420,1.1,27.0,normal,562
+506,lillipup,Gen 5,4,41,55,45,60,45,25,45,55,normal,,275,0.4,4.1,normal,926
+507,herdier,Gen 5,9,147,130,65,80,65,35,65,60,normal,,370,0.9,14.7,normal,669
+508,stoutland,Gen 5,12,610,225,85,110,90,45,90,80,normal,,500,1.2,61.0,normal,278
+509,purrloin,Gen 5,4,101,56,41,50,37,50,37,66,dark,,281,0.4,10.1,dark,912
+510,liepard,Gen 5,11,375,156,64,88,50,88,50,106,dark,,446,1.1,37.5,dark,524
+511,pansage,Gen 5,6,105,63,50,53,48,53,48,64,grass,,316,0.6,10.5,grass,790
+512,simisage,Gen 5,11,305,174,75,98,63,98,63,101,grass,,498,1.1,30.5,grass,312
+513,pansear,Gen 5,6,110,63,50,53,48,53,48,64,fire,,316,0.6,11.0,fire,790
+514,simisear,Gen 5,10,280,174,75,98,63,98,63,101,fire,,498,1.0,28.0,fire,312
+515,panpour,Gen 5,6,135,63,50,53,48,53,48,64,water,,316,0.6,13.5,water,790
+516,simipour,Gen 5,10,290,174,75,98,63,98,63,101,water,,498,1.0,29.0,water,312
+517,munna,Gen 5,6,233,58,76,25,45,67,55,24,psychic,,292,0.6,23.3,psychic,890
+518,musharna,Gen 5,11,605,170,116,55,85,107,95,29,psychic,,487,1.1,60.5,psychic,369
+519,pidove,Gen 5,3,21,53,50,55,50,36,30,43,normal,flying,264,0.3,2.1,normal / flying,951
+520,tranquill,Gen 5,6,150,125,62,77,62,50,42,65,normal,flying,358,0.6,15.0,normal / flying,690
+521,unfezant,Gen 5,12,290,220,80,115,80,65,55,93,normal,flying,488,1.2,29.0,normal / flying,366
+522,blitzle,Gen 5,8,298,59,45,60,32,50,32,76,electric,,295,0.8,29.8,electric,882
+523,zebstrika,Gen 5,16,795,174,75,100,63,80,63,116,electric,,497,1.6,79.5,electric,316
+524,roggenrola,Gen 5,4,180,56,55,75,85,25,25,15,rock,,280,0.4,18.0,rock,913
+525,boldore,Gen 5,9,1020,137,70,105,105,50,40,20,rock,,390,0.9,102.0,rock,646
+526,gigalith,Gen 5,17,2600,232,85,135,130,60,80,25,rock,,515,1.7,260.0,rock,226
+527,woobat,Gen 5,4,21,65,65,45,43,55,43,72,psychic,flying,323,0.4,2.1,psychic / flying,770
+528,swoobat,Gen 5,9,105,149,67,57,55,77,55,114,psychic,flying,425,0.9,10.5,psychic / flying,553
+529,drilbur,Gen 5,3,85,66,60,85,40,30,45,68,ground,,328,0.3,8.5,ground,759
+530,excadrill,Gen 5,7,404,178,110,135,60,50,65,88,ground,steel,508,0.7,40.4,ground / steel,256
+531,audino,Gen 5,11,310,390,103,60,86,60,86,50,normal,,445,1.1,31.0,normal,525
+532,timburr,Gen 5,6,125,61,75,80,55,25,35,35,fighting,,305,0.6,12.5,fighting,833
+533,gurdurr,Gen 5,12,400,142,85,105,85,40,50,40,fighting,,405,1.2,40.0,fighting,605
+534,conkeldurr,Gen 5,14,870,227,105,140,95,55,65,45,fighting,,505,1.4,87.0,fighting,262
+535,tympole,Gen 5,5,45,59,50,50,40,50,40,64,water,,294,0.5,4.5,water,888
+536,palpitoad,Gen 5,8,170,134,75,65,55,65,55,69,water,ground,384,0.8,17.0,water / ground,659
+537,seismitoad,Gen 5,15,620,229,105,95,75,85,75,74,water,ground,509,1.5,62.0,water / ground,255
+538,throh,Gen 5,13,555,163,120,100,85,30,85,45,fighting,,465,1.3,55.5,fighting,466
+539,sawk,Gen 5,14,510,163,75,125,75,30,75,85,fighting,,465,1.4,51.0,fighting,466
+540,sewaddle,Gen 5,3,25,62,45,53,70,40,60,42,bug,grass,310,0.3,2.5,bug / grass,804
+541,swadloon,Gen 5,5,73,133,55,63,90,50,80,42,bug,grass,380,0.5,7.3,bug / grass,662
+542,leavanny,Gen 5,12,205,225,75,103,80,70,80,92,bug,grass,500,1.2,20.5,bug / grass,278
+543,venipede,Gen 5,4,53,52,30,45,59,30,39,57,bug,poison,260,0.4,5.3,bug / poison,955
+544,whirlipede,Gen 5,12,585,126,40,55,99,40,79,47,bug,poison,360,1.2,58.5,bug / poison,684
+545,scolipede,Gen 5,25,2005,218,60,100,89,55,69,112,bug,poison,485,2.5,200.5,bug / poison,372
+546,cottonee,Gen 5,3,6,56,40,27,60,37,50,66,grass,fairy,280,0.3,0.6,grass / fairy,913
+547,whimsicott,Gen 5,7,66,168,60,67,85,77,75,116,grass,fairy,480,0.7,6.6,grass / fairy,405
+548,petilil,Gen 5,5,66,56,45,35,50,70,50,30,grass,,280,0.5,6.6,grass,913
+549,lilligant,Gen 5,11,163,168,70,60,75,110,75,90,grass,,480,1.1,16.3,grass,405
+550,basculin-red-striped,Gen 5,10,180,161,70,92,65,80,55,98,water,,460,1.0,18.0,water,477
+551,sandile,Gen 5,7,152,58,50,72,35,35,35,65,ground,dark,292,0.7,15.2,ground / dark,890
+552,krokorok,Gen 5,10,334,123,60,82,45,45,45,74,ground,dark,351,1.0,33.4,ground / dark,700
+553,krookodile,Gen 5,15,963,234,95,117,80,65,70,92,ground,dark,519,1.5,96.3,ground / dark,222
+554,darumaka,Gen 5,6,375,63,70,90,45,15,45,50,fire,,315,0.6,37.5,fire,793
+555,darmanitan-standard,Gen 5,13,929,168,105,140,55,30,55,95,fire,,480,1.3,92.9,fire,405
+556,maractus,Gen 5,10,280,161,75,86,67,106,67,60,grass,,461,1.0,28.0,grass,476
+557,dwebble,Gen 5,3,145,65,50,65,85,35,35,55,bug,rock,325,0.3,14.5,bug / rock,761
+558,crustle,Gen 5,14,2000,170,70,105,125,65,75,45,bug,rock,485,1.4,200.0,bug / rock,372
+559,scraggy,Gen 5,6,118,70,50,75,70,35,70,48,dark,fighting,348,0.6,11.8,dark / fighting,711
+560,scrafty,Gen 5,11,300,171,65,90,115,45,115,58,dark,fighting,488,1.1,30.0,dark / fighting,366
+561,sigilyph,Gen 5,14,140,172,72,58,80,103,80,97,psychic,flying,490,1.4,14.0,psychic / flying,338
+562,yamask,Gen 5,5,15,61,38,30,85,55,65,30,ghost,,303,0.5,1.5,ghost,852
+563,cofagrigus,Gen 5,17,765,169,58,50,145,95,105,30,ghost,,483,1.7,76.5,ghost,396
+564,tirtouga,Gen 5,7,165,71,54,78,103,53,45,22,water,rock,355,0.7,16.5,water / rock,691
+565,carracosta,Gen 5,12,810,173,74,108,133,83,65,32,water,rock,495,1.2,81.0,water / rock,317
+566,archen,Gen 5,5,95,71,55,112,45,74,45,70,rock,flying,401,0.5,9.5,rock / flying,632
+567,archeops,Gen 5,14,320,177,75,140,65,112,65,110,rock,flying,567,1.4,32.0,rock / flying,123
+568,trubbish,Gen 5,6,310,66,50,50,62,40,62,65,poison,,329,0.6,31.0,poison,757
+569,garbodor,Gen 5,19,1073,166,80,95,82,60,82,75,poison,,474,1.9,107.3,poison,442
+570,zorua,Gen 5,7,125,66,40,65,40,80,40,65,dark,,330,0.7,12.5,dark,741
+571,zoroark,Gen 5,16,811,179,60,105,60,120,60,105,dark,,510,1.6,81.1,dark,237
+572,minccino,Gen 5,4,58,60,55,50,40,40,40,75,normal,,300,0.4,5.8,normal,856
+573,cinccino,Gen 5,5,75,165,75,95,60,65,60,115,normal,,470,0.5,7.5,normal,450
+574,gothita,Gen 5,4,58,58,45,30,50,55,65,45,psychic,,290,0.4,5.8,psychic,892
+575,gothorita,Gen 5,7,180,137,60,45,70,75,85,55,psychic,,390,0.7,18.0,psychic,646
+576,gothitelle,Gen 5,15,440,221,70,55,95,95,110,65,psychic,,490,1.5,44.0,psychic,338
+577,solosis,Gen 5,3,10,58,45,30,40,105,50,20,psychic,,290,0.3,1.0,psychic,892
+578,duosion,Gen 5,6,80,130,65,40,50,125,60,30,psychic,,370,0.6,8.0,psychic,669
+579,reuniclus,Gen 5,10,201,221,110,65,75,125,85,30,psychic,,490,1.0,20.1,psychic,338
+580,ducklett,Gen 5,5,55,61,62,44,50,44,50,55,water,flying,305,0.5,5.5,water / flying,833
+581,swanna,Gen 5,13,242,166,75,87,63,87,63,98,water,flying,473,1.3,24.2,water / flying,446
+582,vanillite,Gen 5,4,57,61,36,50,50,65,60,44,ice,,305,0.4,5.7,ice,833
+583,vanillish,Gen 5,11,410,138,51,65,65,80,75,59,ice,,395,1.1,41.0,ice,640
+584,vanilluxe,Gen 5,13,575,241,71,95,85,110,95,79,ice,,535,1.3,57.5,ice,146
+585,deerling,Gen 5,6,195,67,60,60,50,40,50,75,normal,grass,335,0.6,19.5,normal / grass,731
+586,sawsbuck,Gen 5,19,925,166,80,100,70,60,70,95,normal,grass,475,1.9,92.5,normal / grass,431
+587,emolga,Gen 5,4,50,150,55,75,60,75,60,103,electric,flying,428,0.4,5.0,electric / flying,552
+588,karrablast,Gen 5,5,59,63,50,75,45,40,45,60,bug,,315,0.5,5.9,bug,793
+589,escavalier,Gen 5,10,330,173,70,135,105,60,105,20,bug,steel,495,1.0,33.0,bug / steel,317
+590,foongus,Gen 5,2,10,59,69,55,45,55,55,15,grass,poison,294,0.2,1.0,grass / poison,888
+591,amoonguss,Gen 5,6,105,162,114,85,70,85,80,30,grass,poison,464,0.6,10.5,grass / poison,473
+592,frillish-male,Gen 5,12,330,67,55,40,50,65,85,40,water,ghost,335,1.2,33.0,water / ghost,731
+593,jellicent-male,Gen 5,22,1350,168,100,60,70,85,105,60,water,ghost,480,2.2,135.0,water / ghost,405
+594,alomomola,Gen 5,12,316,165,165,75,80,40,45,65,water,,470,1.2,31.6,water,450
+595,joltik,Gen 5,1,6,64,50,47,50,57,50,65,bug,electric,319,0.1,0.6,bug / electric,786
+596,galvantula,Gen 5,8,143,165,70,77,60,97,60,108,bug,electric,472,0.8,14.3,bug / electric,447
+597,ferroseed,Gen 5,6,188,61,44,50,91,24,86,10,grass,steel,305,0.6,18.8,grass / steel,833
+598,ferrothorn,Gen 5,10,1100,171,74,94,131,54,116,20,grass,steel,489,1.0,110.0,grass / steel,364
+599,klink,Gen 5,3,210,60,40,55,70,45,60,30,steel,,300,0.3,21.0,steel,856
+600,klang,Gen 5,6,510,154,60,80,95,70,85,50,steel,,440,0.6,51.0,steel,527
+601,klinklang,Gen 5,6,810,234,60,100,115,70,85,90,steel,,520,0.6,81.0,steel,214
+602,tynamo,Gen 5,2,3,55,35,55,40,45,40,60,electric,,275,0.2,0.3,electric,926
+603,eelektrik,Gen 5,12,220,142,65,85,70,75,70,40,electric,,405,1.2,22.0,electric,605
+604,eelektross,Gen 5,21,805,232,85,115,80,105,80,50,electric,,515,2.1,80.5,electric,226
+605,elgyem,Gen 5,5,90,67,55,55,55,85,55,30,psychic,,335,0.5,9.0,psychic,731
+606,beheeyem,Gen 5,10,345,170,75,75,75,125,95,40,psychic,,485,1.0,34.5,psychic,372
+607,litwick,Gen 5,3,31,55,50,30,55,65,55,20,ghost,fire,275,0.3,3.1,ghost / fire,926
+608,lampent,Gen 5,6,130,130,60,40,60,95,60,55,ghost,fire,370,0.6,13.0,ghost / fire,669
+609,chandelure,Gen 5,10,343,234,60,55,90,145,90,80,ghost,fire,520,1.0,34.3,ghost / fire,214
+610,axew,Gen 5,6,180,64,46,87,60,30,40,57,dragon,,320,0.6,18.0,dragon,772
+611,fraxure,Gen 5,10,360,144,66,117,70,40,50,67,dragon,,410,1.0,36.0,dragon,590
+612,haxorus,Gen 5,18,1055,243,76,147,90,60,70,97,dragon,,540,1.8,105.5,dragon,136
+613,cubchoo,Gen 5,5,85,61,55,70,40,60,40,40,ice,,305,0.5,8.5,ice,833
+614,beartic,Gen 5,26,2600,177,95,130,80,70,80,50,ice,,505,2.6,260.0,ice,262
+615,cryogonal,Gen 5,11,1480,180,80,50,50,95,135,105,ice,,515,1.1,148.0,ice,226
+616,shelmet,Gen 5,4,77,61,50,40,85,40,65,25,bug,,305,0.4,7.7,bug,833
+617,accelgor,Gen 5,8,253,173,80,70,40,100,60,145,bug,,495,0.8,25.3,bug,317
+618,stunfisk,Gen 5,7,110,165,109,66,84,81,99,32,ground,electric,471,0.7,11.0,ground / electric,449
+619,mienfoo,Gen 5,9,200,70,45,85,50,55,50,65,fighting,,350,0.9,20.0,fighting,701
+620,mienshao,Gen 5,14,355,179,65,125,60,95,60,105,fighting,,510,1.4,35.5,fighting,237
+621,druddigon,Gen 5,16,1390,170,77,120,90,60,90,48,dragon,,485,1.6,139.0,dragon,372
+622,golett,Gen 5,10,920,61,59,74,50,35,50,35,ground,ghost,303,1.0,92.0,ground / ghost,852
+623,golurk,Gen 5,28,3300,169,89,124,80,55,80,55,ground,ghost,483,2.8,330.0,ground / ghost,396
+624,pawniard,Gen 5,5,102,68,45,85,70,40,40,60,dark,steel,340,0.5,10.2,dark / steel,719
+625,bisharp,Gen 5,16,700,172,65,125,100,60,70,70,dark,steel,490,1.6,70.0,dark / steel,338
+626,bouffalant,Gen 5,16,946,172,95,110,95,40,95,55,normal,,490,1.6,94.6,normal,338
+627,rufflet,Gen 5,5,105,70,70,83,50,37,50,60,normal,flying,350,0.5,10.5,normal / flying,701
+628,braviary,Gen 5,15,410,179,100,123,75,57,75,80,normal,flying,510,1.5,41.0,normal / flying,237
+629,vullaby,Gen 5,5,90,74,70,55,75,45,65,60,dark,flying,370,0.5,9.0,dark / flying,669
+630,mandibuzz,Gen 5,12,395,179,110,65,105,55,95,80,dark,flying,510,1.2,39.5,dark / flying,237
+631,heatmor,Gen 5,14,580,169,85,97,66,105,66,65,fire,,484,1.4,58.0,fire,394
+632,durant,Gen 5,3,330,169,58,109,112,48,48,109,bug,steel,484,0.3,33.0,bug / steel,394
+633,deino,Gen 5,8,173,60,52,65,50,45,50,38,dark,dragon,300,0.8,17.3,dark / dragon,856
+634,zweilous,Gen 5,14,500,147,72,85,70,65,70,58,dark,dragon,420,1.4,50.0,dark / dragon,562
+635,hydreigon,Gen 5,18,1600,270,92,105,90,125,90,98,dark,dragon,600,1.8,160.0,dark / dragon,25
+636,larvesta,Gen 5,11,288,72,55,85,55,50,55,60,bug,fire,360,1.1,28.8,bug / fire,684
+637,volcarona,Gen 5,16,460,248,85,60,65,135,105,100,bug,fire,550,1.6,46.0,bug / fire,129
+638,cobalion,Gen 5,21,2500,261,91,90,129,90,72,108,steel,fighting,580,2.1,250.0,steel / fighting,69
+639,terrakion,Gen 5,19,2600,261,91,129,90,72,90,108,rock,fighting,580,1.9,260.0,rock / fighting,69
+640,virizion,Gen 5,20,2000,261,91,90,72,90,129,108,grass,fighting,580,2.0,200.0,grass / fighting,69
+641,tornadus-incarnate,Gen 5,15,630,261,79,115,70,125,80,111,flying,,580,1.5,63.0,flying,69
+642,thundurus-incarnate,Gen 5,15,610,261,79,115,70,125,80,111,electric,flying,580,1.5,61.0,electric / flying,69
+643,reshiram,Gen 5,32,3300,306,100,120,100,150,120,90,dragon,fire,680,3.2,330.0,dragon / fire,3
+644,zekrom,Gen 5,29,3450,306,100,150,120,120,100,90,dragon,electric,680,2.9,345.0,dragon / electric,3
+645,landorus-incarnate,Gen 5,15,680,270,89,125,90,115,80,101,ground,flying,600,1.5,68.0,ground / flying,25
+646,kyurem,Gen 5,30,3250,297,125,130,90,130,90,95,dragon,ice,660,3.0,325.0,dragon / ice,22
+647,keldeo-ordinary,Gen 5,14,485,261,91,72,90,129,90,108,water,fighting,580,1.4,48.5,water / fighting,69
+648,meloetta-aria,Gen 5,6,65,270,100,77,77,128,128,90,normal,psychic,600,0.6,6.5,normal / psychic,25
+649,genesect,Gen 5,15,825,270,71,120,95,120,95,99,bug,steel,600,1.5,82.5,bug / steel,25
+650,chespin,Gen 6,4,90,63,56,61,65,48,45,38,grass,,313,0.4,9.0,grass,802
+651,quilladin,Gen 6,7,290,142,61,78,95,56,58,57,grass,,405,0.7,29.0,grass,605
+652,chesnaught,Gen 6,16,900,239,88,107,122,74,75,64,grass,fighting,530,1.6,90.0,grass / fighting,163
+653,fennekin,Gen 6,4,94,61,40,45,40,62,60,60,fire,,307,0.4,9.4,fire,831
+654,braixen,Gen 6,10,145,143,59,59,58,90,70,73,fire,,409,1.0,14.5,fire,604
+655,delphox,Gen 6,15,390,240,75,69,72,114,100,104,fire,psychic,534,1.5,39.0,fire / psychic,157
+656,froakie,Gen 6,3,70,63,41,56,40,62,44,71,water,,314,0.3,7.0,water,798
+657,frogadier,Gen 6,6,109,142,54,63,52,83,56,97,water,,405,0.6,10.9,water,605
+658,greninja,Gen 6,15,400,239,72,95,67,103,71,122,water,dark,530,1.5,40.0,water / dark,163
+659,bunnelby,Gen 6,4,50,47,38,36,38,32,36,57,normal,,237,0.4,5.0,normal,989
+660,diggersby,Gen 6,10,424,148,85,56,77,50,77,78,normal,ground,423,1.0,42.4,normal / ground,560
+661,fletchling,Gen 6,3,17,56,45,50,43,40,38,62,normal,flying,278,0.3,1.7,normal / flying,924
+662,fletchinder,Gen 6,7,160,134,62,73,55,56,52,84,fire,flying,382,0.7,16.0,fire / flying,661
+663,talonflame,Gen 6,12,245,175,78,81,71,74,69,126,fire,flying,499,1.2,24.5,fire / flying,311
+664,scatterbug,Gen 6,3,25,40,38,35,40,27,25,35,bug,,200,0.3,2.5,bug,1012
+665,spewpa,Gen 6,3,84,75,45,22,60,27,30,29,bug,,213,0.3,8.4,bug,1000
+666,vivillon,Gen 6,12,170,185,80,52,50,90,50,89,bug,flying,411,1.2,17.0,bug / flying,587
+667,litleo,Gen 6,6,135,74,62,50,58,73,54,72,fire,normal,369,0.6,13.5,fire / normal,675
+668,pyroar-male,Gen 6,15,815,177,86,68,72,109,66,106,fire,normal,507,1.5,81.5,fire / normal,259
+669,flabebe,Gen 6,1,1,61,44,38,39,61,79,42,fairy,,303,0.1,0.1,fairy,852
+670,floette,Gen 6,2,9,130,54,45,47,75,98,52,fairy,,371,0.2,0.9,fairy,668
+671,florges,Gen 6,11,100,248,78,65,68,112,154,75,fairy,,552,1.1,10.0,fairy,128
+672,skiddo,Gen 6,9,310,70,66,65,48,62,57,52,grass,,350,0.9,31.0,grass,701
+673,gogoat,Gen 6,17,910,186,123,100,62,97,81,68,grass,,531,1.7,91.0,grass,162
+674,pancham,Gen 6,6,80,70,67,82,62,46,48,43,fighting,,348,0.6,8.0,fighting,711
+675,pangoro,Gen 6,21,1360,173,95,124,78,69,71,58,fighting,dark,495,2.1,136.0,fighting / dark,317
+676,furfrou,Gen 6,12,280,165,75,80,60,65,90,102,normal,,472,1.2,28.0,normal,447
+677,espurr,Gen 6,3,35,71,62,48,54,63,60,68,psychic,,355,0.3,3.5,psychic,691
+678,meowstic-male,Gen 6,6,85,163,74,48,76,83,81,104,psychic,,466,0.6,8.5,psychic,465
+679,honedge,Gen 6,8,20,65,45,80,100,35,37,28,steel,ghost,325,0.8,2.0,steel / ghost,761
+680,doublade,Gen 6,8,45,157,59,110,150,45,49,35,steel,ghost,448,0.8,4.5,steel / ghost,522
+681,aegislash-shield,Gen 6,17,530,234,60,50,140,50,140,60,steel,ghost,500,1.7,53.0,steel / ghost,278
+682,spritzee,Gen 6,2,5,68,78,52,60,63,65,23,fairy,,341,0.2,0.5,fairy,717
+683,aromatisse,Gen 6,8,155,162,101,72,72,99,89,29,fairy,,462,0.8,15.5,fairy,475
+684,swirlix,Gen 6,4,35,68,62,48,66,59,57,49,fairy,,341,0.4,3.5,fairy,717
+685,slurpuff,Gen 6,8,50,168,82,80,86,85,75,72,fairy,,480,0.8,5.0,fairy,405
+686,inkay,Gen 6,4,35,58,53,54,53,37,46,45,dark,psychic,288,0.4,3.5,dark / psychic,903
+687,malamar,Gen 6,15,470,169,86,92,88,68,75,73,dark,psychic,482,1.5,47.0,dark / psychic,401
+688,binacle,Gen 6,5,310,61,42,52,67,39,56,50,rock,water,306,0.5,31.0,rock / water,832
+689,barbaracle,Gen 6,13,960,175,72,105,115,54,86,68,rock,water,500,1.3,96.0,rock / water,278
+690,skrelp,Gen 6,5,73,64,50,60,60,60,60,30,poison,water,320,0.5,7.3,poison / water,772
+691,dragalge,Gen 6,18,815,173,65,75,90,97,123,44,poison,dragon,494,1.8,81.5,poison / dragon,335
+692,clauncher,Gen 6,5,83,66,50,53,62,58,63,44,water,,330,0.5,8.3,water,741
+693,clawitzer,Gen 6,13,353,100,71,73,88,120,89,59,water,,500,1.3,35.3,water,278
+694,helioptile,Gen 6,5,60,58,44,38,33,61,43,70,electric,normal,289,0.5,6.0,electric / normal,902
+695,heliolisk,Gen 6,10,210,168,62,55,52,109,94,109,electric,normal,481,1.0,21.0,electric / normal,403
+696,tyrunt,Gen 6,8,260,72,58,89,77,45,45,48,rock,dragon,362,0.8,26.0,rock / dragon,682
+697,tyrantrum,Gen 6,25,2700,182,82,121,119,69,59,71,rock,dragon,521,2.5,270.0,rock / dragon,211
+698,amaura,Gen 6,13,252,72,77,59,50,67,63,46,rock,ice,362,1.3,25.2,rock / ice,682
+699,aurorus,Gen 6,27,2250,104,123,77,72,99,92,58,rock,ice,521,2.7,225.0,rock / ice,211
+700,sylveon,Gen 6,10,235,184,95,65,65,110,130,60,fairy,,525,1.0,23.5,fairy,189
+701,hawlucha,Gen 6,8,215,175,78,92,75,74,63,118,fighting,flying,500,0.8,21.5,fighting / flying,278
+702,dedenne,Gen 6,2,22,151,67,58,57,81,67,101,electric,fairy,431,0.2,2.2,electric / fairy,543
+703,carbink,Gen 6,3,57,100,50,50,150,50,150,50,rock,fairy,500,0.3,5.7,rock / fairy,278
+704,goomy,Gen 6,3,28,60,45,50,35,55,75,40,dragon,,300,0.3,2.8,dragon,856
+705,sliggoo,Gen 6,8,175,158,68,75,53,83,113,60,dragon,,452,0.8,17.5,dragon,509
+706,goodra,Gen 6,20,1505,270,90,100,70,110,150,80,dragon,,600,2.0,150.5,dragon,25
+707,klefki,Gen 6,2,30,165,57,80,91,80,87,75,steel,fairy,470,0.2,3.0,steel / fairy,450
+708,phantump,Gen 6,4,70,62,43,70,48,50,60,38,ghost,grass,309,0.4,7.0,ghost / grass,821
+709,trevenant,Gen 6,15,710,166,85,110,76,65,82,56,ghost,grass,474,1.5,71.0,ghost / grass,442
+710,pumpkaboo-average,Gen 6,4,50,67,49,66,70,44,55,51,ghost,grass,335,0.4,5.0,ghost / grass,731
+711,gourgeist-average,Gen 6,9,125,173,65,90,122,58,75,84,ghost,grass,494,0.9,12.5,ghost / grass,335
+712,bergmite,Gen 6,10,995,61,55,69,85,32,35,28,ice,,304,1.0,99.5,ice,849
+713,avalugg,Gen 6,20,5050,180,95,117,184,44,46,28,ice,,514,2.0,505.0,ice,236
+714,noibat,Gen 6,5,80,49,40,30,35,45,40,55,flying,dragon,245,0.5,8.0,flying / dragon,976
+715,noivern,Gen 6,15,850,187,85,70,80,97,80,123,flying,dragon,535,1.5,85.0,flying / dragon,146
+716,xerneas,Gen 6,30,2150,306,126,131,95,131,98,99,fairy,,680,3.0,215.0,fairy,3
+717,yveltal,Gen 6,58,2030,306,126,131,95,131,98,99,dark,flying,680,5.8,203.0,dark / flying,3
+718,zygarde-50,Gen 6,50,3050,270,108,100,121,81,95,95,dragon,ground,600,5.0,305.0,dragon / ground,25
+719,diancie,Gen 6,7,88,270,50,100,150,100,150,50,rock,fairy,600,0.7,8.8,rock / fairy,25
+720,hoopa,Gen 6,5,90,270,80,110,60,150,130,70,psychic,ghost,600,0.5,9.0,psychic / ghost,25
+721,volcanion,Gen 6,17,1950,270,80,110,120,130,90,70,fire,water,600,1.7,195.0,fire / water,25
+722,rowlet,Gen 7,3,15,64,68,55,55,50,50,42,grass,flying,320,0.3,1.5,grass / flying,772
+723,dartrix,Gen 7,7,160,147,78,75,75,70,70,52,grass,flying,420,0.7,16.0,grass / flying,562
+724,decidueye,Gen 7,16,366,239,78,107,75,100,100,70,grass,ghost,530,1.6,36.6,grass / ghost,163
+725,litten,Gen 7,4,43,64,45,65,40,60,40,70,fire,,320,0.4,4.3,fire,772
+726,torracat,Gen 7,7,250,147,65,85,50,80,50,90,fire,,420,0.7,25.0,fire,562
+727,incineroar,Gen 7,18,830,239,95,115,90,80,90,60,fire,dark,530,1.8,83.0,fire / dark,163
+728,popplio,Gen 7,4,75,64,50,54,54,66,56,40,water,,320,0.4,7.5,water,772
+729,brionne,Gen 7,6,175,147,60,69,69,91,81,50,water,,420,0.6,17.5,water,562
+730,primarina,Gen 7,18,440,239,80,74,74,126,116,60,water,fairy,530,1.8,44.0,water / fairy,163
+731,pikipek,Gen 7,3,12,53,35,75,30,30,30,65,normal,flying,265,0.3,1.2,normal / flying,946
+732,trumbeak,Gen 7,6,148,124,55,85,50,40,50,75,normal,flying,355,0.6,14.8,normal / flying,691
+733,toucannon,Gen 7,11,260,218,80,120,75,75,75,60,normal,flying,485,1.1,26.0,normal / flying,372
+734,yungoos,Gen 7,4,60,51,48,70,30,30,30,45,normal,,253,0.4,6.0,normal,964
+735,gumshoos,Gen 7,7,142,146,88,110,60,55,60,45,normal,,418,0.7,14.2,normal,579
+736,grubbin,Gen 7,4,44,60,47,62,45,55,45,46,bug,,300,0.4,4.4,bug,856
+737,charjabug,Gen 7,5,105,140,57,82,95,55,75,36,bug,electric,400,0.5,10.5,bug / electric,633
+738,vikavolt,Gen 7,15,450,225,77,70,90,145,75,43,bug,electric,500,1.5,45.0,bug / electric,278
+739,crabrawler,Gen 7,6,70,68,47,82,57,42,47,63,fighting,,338,0.6,7.0,fighting,729
+740,crabominable,Gen 7,17,1800,167,97,132,77,62,67,43,fighting,ice,478,1.7,180.0,fighting / ice,426
+741,oricorio-baile,Gen 7,6,34,167,75,70,70,98,70,93,fire,flying,476,0.6,3.4,fire / flying,429
+742,cutiefly,Gen 7,1,2,61,40,45,40,55,40,84,bug,fairy,304,0.1,0.2,bug / fairy,849
+743,ribombee,Gen 7,2,5,162,60,55,60,95,70,124,bug,fairy,464,0.2,0.5,bug / fairy,473
+744,rockruff,Gen 7,5,92,56,45,65,40,30,40,60,rock,,280,0.5,9.2,rock,913
+745,lycanroc-midday,Gen 7,8,250,170,75,115,65,55,65,112,rock,,487,0.8,25.0,rock,369
+746,wishiwashi-solo,Gen 7,2,3,61,45,20,20,25,25,40,water,,175,0.2,0.3,water,1025
+747,mareanie,Gen 7,4,80,61,50,53,62,43,52,45,poison,water,305,0.4,8.0,poison / water,833
+748,toxapex,Gen 7,7,145,173,50,63,152,53,142,35,poison,water,495,0.7,14.5,poison / water,317
+749,mudbray,Gen 7,10,1100,77,70,100,70,45,55,45,ground,,385,1.0,110.0,ground,653
+750,mudsdale,Gen 7,25,9200,175,100,125,100,55,85,35,ground,,500,2.5,920.0,ground,278
+751,dewpider,Gen 7,3,40,54,38,40,52,40,72,27,water,bug,269,0.3,4.0,water / bug,943
+752,araquanid,Gen 7,18,820,159,68,70,92,50,132,42,water,bug,454,1.8,82.0,water / bug,506
+753,fomantis,Gen 7,3,15,50,40,55,35,50,35,35,grass,,250,0.3,1.5,grass,967
+754,lurantis,Gen 7,9,185,168,70,105,90,80,90,45,grass,,480,0.9,18.5,grass,405
+755,morelull,Gen 7,2,15,57,40,35,55,65,75,15,grass,fairy,285,0.2,1.5,grass / fairy,907
+756,shiinotic,Gen 7,10,115,142,60,45,80,90,100,30,grass,fairy,405,1.0,11.5,grass / fairy,605
+757,salandit,Gen 7,6,48,64,48,44,40,71,40,77,poison,fire,320,0.6,4.8,poison / fire,772
+758,salazzle,Gen 7,12,222,168,68,64,60,111,60,117,poison,fire,480,1.2,22.2,poison / fire,405
+759,stufful,Gen 7,5,68,68,70,75,50,45,50,50,normal,fighting,340,0.5,6.8,normal / fighting,719
+760,bewear,Gen 7,21,1350,175,120,125,80,55,60,60,normal,fighting,500,2.1,135.0,normal / fighting,278
+761,bounsweet,Gen 7,3,32,42,42,30,38,30,38,32,grass,,210,0.3,3.2,grass,1001
+762,steenee,Gen 7,7,82,102,52,40,48,40,48,62,grass,,290,0.7,8.2,grass,892
+763,tsareena,Gen 7,12,214,230,72,120,98,50,98,72,grass,,510,1.2,21.4,grass,237
+764,comfey,Gen 7,1,3,170,51,52,90,82,110,100,fairy,,485,0.1,0.3,fairy,372
+765,oranguru,Gen 7,15,760,172,90,60,80,90,110,60,normal,psychic,490,1.5,76.0,normal / psychic,338
+766,passimian,Gen 7,20,828,172,100,120,90,40,60,80,fighting,,490,2.0,82.8,fighting,338
+767,wimpod,Gen 7,5,120,46,25,35,40,20,30,80,bug,water,230,0.5,12.0,bug / water,992
+768,golisopod,Gen 7,20,1080,186,75,125,140,60,90,40,bug,water,530,2.0,108.0,bug / water,163
+769,sandygast,Gen 7,5,700,64,55,55,80,70,45,15,ghost,ground,320,0.5,70.0,ghost / ground,772
+770,palossand,Gen 7,13,2500,168,85,75,110,100,75,35,ghost,ground,480,1.3,250.0,ghost / ground,405
+771,pyukumuku,Gen 7,3,12,144,55,60,130,30,130,5,water,,410,0.3,1.2,water,590
+772,type-null,Gen 7,19,1205,107,95,95,95,95,95,59,normal,,534,1.9,120.5,normal,157
+773,silvally,Gen 7,23,1005,257,95,95,95,95,95,95,normal,,570,2.3,100.5,normal,93
+774,minior-red-meteor,Gen 7,3,400,154,60,60,100,60,100,60,rock,flying,440,0.3,40.0,rock / flying,527
+775,komala,Gen 7,4,199,168,65,115,65,75,95,65,normal,,480,0.4,19.9,normal,405
+776,turtonator,Gen 7,20,2120,170,60,78,135,91,85,36,fire,dragon,485,2.0,212.0,fire / dragon,372
+777,togedemaru,Gen 7,3,33,152,65,98,63,40,73,96,electric,steel,435,0.3,3.3,electric / steel,538
+778,mimikyu-disguised,Gen 7,2,7,167,55,90,80,50,105,96,ghost,fairy,476,0.2,0.7,ghost / fairy,429
+779,bruxish,Gen 7,9,190,166,68,105,70,70,70,92,water,psychic,475,0.9,19.0,water / psychic,431
+780,drampa,Gen 7,30,1850,170,78,60,85,135,91,36,normal,dragon,485,3.0,185.0,normal / dragon,372
+781,dhelmise,Gen 7,39,2100,181,70,131,100,86,90,40,ghost,grass,517,3.9,210.0,ghost / grass,225
+782,jangmo-o,Gen 7,6,297,60,45,55,65,45,45,45,dragon,,300,0.6,29.7,dragon,856
+783,hakamo-o,Gen 7,12,470,147,55,75,90,65,70,65,dragon,fighting,420,1.2,47.0,dragon / fighting,562
+784,kommo-o,Gen 7,16,782,270,75,110,125,100,105,85,dragon,fighting,600,1.6,78.2,dragon / fighting,25
+785,tapu-koko,Gen 7,18,205,257,70,115,85,95,75,130,electric,fairy,570,1.8,20.5,electric / fairy,93
+786,tapu-lele,Gen 7,12,186,257,70,85,75,130,115,95,psychic,fairy,570,1.2,18.6,psychic / fairy,93
+787,tapu-bulu,Gen 7,19,455,257,70,130,115,85,95,75,grass,fairy,570,1.9,45.5,grass / fairy,93
+788,tapu-fini,Gen 7,13,212,257,70,75,115,95,130,85,water,fairy,570,1.3,21.2,water / fairy,93
+789,cosmog,Gen 7,2,1,40,43,29,31,29,31,37,psychic,,200,0.2,0.1,psychic,1012
+790,cosmoem,Gen 7,1,9999,140,43,29,131,29,131,37,psychic,,400,0.1,999.9,psychic,633
+791,solgaleo,Gen 7,34,2300,306,137,137,107,113,89,97,psychic,steel,680,3.4,230.0,psychic / steel,3
+792,lunala,Gen 7,40,1200,306,137,113,89,137,107,97,psychic,ghost,680,4.0,120.0,psychic / ghost,3
+793,nihilego,Gen 7,12,555,257,109,53,47,127,131,103,rock,poison,570,1.2,55.5,rock / poison,93
+794,buzzwole,Gen 7,24,3336,257,107,139,139,53,53,79,bug,fighting,570,2.4,333.6,bug / fighting,93
+795,pheromosa,Gen 7,18,250,257,71,137,37,137,37,151,bug,fighting,570,1.8,25.0,bug / fighting,93
+796,xurkitree,Gen 7,38,1000,257,83,89,71,173,71,83,electric,,570,3.8,100.0,electric,93
+797,celesteela,Gen 7,92,9999,257,97,101,103,107,101,61,steel,flying,570,9.2,999.9,steel / flying,93
+798,kartana,Gen 7,3,1,257,59,181,131,59,31,109,grass,steel,570,0.3,0.1,grass / steel,93
+799,guzzlord,Gen 7,55,8880,257,223,101,53,97,53,43,dark,dragon,570,5.5,888.0,dark / dragon,93
+800,necrozma,Gen 7,24,2300,270,97,107,101,127,89,79,psychic,,600,2.4,230.0,psychic,25
+801,magearna,Gen 7,10,805,270,80,95,115,130,115,65,steel,fairy,600,1.0,80.5,steel / fairy,25
+802,marshadow,Gen 7,7,222,270,90,125,80,90,90,125,fighting,ghost,600,0.7,22.2,fighting / ghost,25
+803,poipole,Gen 7,6,18,189,67,73,67,73,67,73,poison,,420,0.6,1.8,poison,562
+804,naganadel,Gen 7,36,1500,243,73,73,73,127,73,121,poison,dragon,540,3.6,150.0,poison / dragon,136
+805,stakataka,Gen 7,55,8200,257,61,131,211,53,101,13,rock,steel,570,5.5,820.0,rock / steel,93
+806,blacephalon,Gen 7,18,130,257,53,127,53,151,79,107,fire,ghost,570,1.8,13.0,fire / ghost,93
+807,zeraora,Gen 7,15,445,270,88,112,75,102,80,143,electric,,600,1.5,44.5,electric,25
+808,meltan,Gen 7,2,80,135,46,65,65,55,35,34,steel,,300,0.2,8.0,steel,856
+809,melmetal,Gen 7,25,8000,270,135,143,143,80,65,34,steel,,600,2.5,800.0,steel,25
+810,grookey,Gen 8,3,50,62,50,65,50,40,40,65,grass,,310,0.3,5.0,grass,804
+811,thwackey,Gen 8,7,140,147,70,85,70,55,60,80,grass,,420,0.7,14.0,grass,562
+812,rillaboom,Gen 8,21,900,265,100,125,90,60,70,85,grass,,530,2.1,90.0,grass,163
+813,scorbunny,Gen 8,3,45,62,50,71,40,40,40,69,fire,,310,0.3,4.5,fire,804
+814,raboot,Gen 8,6,90,147,65,86,60,55,60,94,fire,,420,0.6,9.0,fire,562
+815,cinderace,Gen 8,14,330,265,80,116,75,65,75,119,fire,,530,1.4,33.0,fire,163
+816,sobble,Gen 8,3,40,62,50,40,40,70,40,70,water,,310,0.3,4.0,water,804
+817,drizzile,Gen 8,7,115,147,65,60,55,95,55,90,water,,420,0.7,11.5,water,562
+818,inteleon,Gen 8,19,452,265,70,85,65,125,65,120,water,,530,1.9,45.2,water,163
+819,skwovet,Gen 8,3,25,55,70,55,55,35,35,25,normal,,275,0.3,2.5,normal,926
+820,greedent,Gen 8,6,60,161,120,95,95,55,75,20,normal,,460,0.6,6.0,normal,477
+821,rookidee,Gen 8,2,18,49,38,47,35,33,35,57,flying,,245,0.2,1.8,flying,976
+822,corvisquire,Gen 8,8,160,128,68,67,55,43,55,77,flying,,365,0.8,16.0,flying,676
+823,corviknight,Gen 8,22,750,248,98,87,105,53,85,67,flying,steel,495,2.2,75.0,flying / steel,317
+824,blipbug,Gen 8,4,80,36,25,20,20,25,45,45,bug,,180,0.4,8.0,bug,1023
+825,dottler,Gen 8,4,195,117,50,35,80,50,90,30,bug,psychic,335,0.4,19.5,bug / psychic,731
+826,orbeetle,Gen 8,4,408,253,60,45,110,80,120,90,bug,psychic,505,0.4,40.8,bug / psychic,262
+827,nickit,Gen 8,6,89,49,40,28,28,47,52,50,dark,,245,0.6,8.9,dark,976
+828,thievul,Gen 8,12,199,159,70,58,58,87,92,90,dark,,455,1.2,19.9,dark,494
+829,gossifleur,Gen 8,4,22,50,40,40,60,40,60,10,grass,,250,0.4,2.2,grass,967
+830,eldegoss,Gen 8,5,25,161,60,50,90,80,120,60,grass,,460,0.5,2.5,grass,477
+831,wooloo,Gen 8,6,60,122,42,40,55,40,45,48,normal,,270,0.6,6.0,normal,935
+832,dubwool,Gen 8,13,430,172,72,80,100,60,90,88,normal,,490,1.3,43.0,normal,338
+833,chewtle,Gen 8,3,85,57,50,64,50,38,38,44,water,,284,0.3,8.5,water,911
+834,drednaw,Gen 8,10,1155,170,90,115,90,48,68,74,water,rock,485,1.0,115.5,water / rock,372
+835,yamper,Gen 8,3,135,54,59,45,50,40,50,26,electric,,270,0.3,13.5,electric,935
+836,boltund,Gen 8,10,340,172,69,90,60,90,60,121,electric,,490,1.0,34.0,electric,338
+837,rolycoly,Gen 8,3,120,48,30,40,50,40,50,30,rock,,240,0.3,12.0,rock,985
+838,carkol,Gen 8,11,780,144,80,60,90,60,70,50,rock,fire,410,1.1,78.0,rock / fire,590
+839,coalossal,Gen 8,28,3105,255,110,80,120,80,90,30,rock,fire,510,2.8,310.5,rock / fire,237
+840,applin,Gen 8,2,5,52,40,40,80,40,40,20,grass,dragon,260,0.2,0.5,grass / dragon,955
+841,flapple,Gen 8,3,10,170,70,110,80,95,60,70,grass,dragon,485,0.3,1.0,grass / dragon,372
+842,appletun,Gen 8,4,130,170,110,85,80,100,80,30,grass,dragon,485,0.4,13.0,grass / dragon,372
+843,silicobra,Gen 8,22,76,63,52,57,75,35,50,46,ground,,315,2.2,7.6,ground,793
+844,sandaconda,Gen 8,38,655,179,72,107,125,65,70,71,ground,,510,3.8,65.5,ground,237
+845,cramorant,Gen 8,8,180,166,70,85,55,85,95,85,flying,water,475,0.8,18.0,flying / water,431
+846,arrokuda,Gen 8,5,10,56,41,63,40,40,30,66,water,,280,0.5,1.0,water,913
+847,barraskewda,Gen 8,13,300,172,61,123,60,60,50,136,water,,490,1.3,30.0,water,338
+848,toxel,Gen 8,4,110,48,40,38,35,54,35,40,electric,poison,242,0.4,11.0,electric / poison,984
+849,toxtricity-amped,Gen 8,16,400,176,75,98,70,114,70,75,electric,poison,502,1.6,40.0,electric / poison,276
+850,sizzlipede,Gen 8,7,10,61,50,65,45,50,50,45,fire,bug,305,0.7,1.0,fire / bug,833
+851,centiskorch,Gen 8,30,1200,184,100,115,65,90,90,65,fire,bug,525,3.0,120.0,fire / bug,189
+852,clobbopus,Gen 8,6,40,62,50,68,60,50,50,32,fighting,,310,0.6,4.0,fighting,804
+853,grapploct,Gen 8,16,390,168,80,118,90,70,80,42,fighting,,480,1.6,39.0,fighting,405
+854,sinistea,Gen 8,1,2,62,40,45,45,74,54,50,ghost,,308,0.1,0.2,ghost,825
+855,polteageist,Gen 8,2,4,178,60,65,65,134,114,70,ghost,,508,0.2,0.4,ghost,256
+856,hatenna,Gen 8,4,34,53,42,30,45,56,53,39,psychic,,265,0.4,3.4,psychic,946
+857,hattrem,Gen 8,6,48,130,57,40,65,86,73,49,psychic,,370,0.6,4.8,psychic,669
+858,hatterene,Gen 8,21,51,255,57,90,95,136,103,29,psychic,fairy,510,2.1,5.1,psychic / fairy,237
+859,impidimp,Gen 8,4,55,53,45,45,30,55,40,50,dark,fairy,265,0.4,5.5,dark / fairy,946
+860,morgrem,Gen 8,8,125,130,65,60,45,75,55,70,dark,fairy,370,0.8,12.5,dark / fairy,669
+861,grimmsnarl,Gen 8,15,610,255,95,120,65,95,75,60,dark,fairy,510,1.5,61.0,dark / fairy,237
+862,obstagoon,Gen 8,16,460,260,93,90,101,60,81,95,dark,normal,520,1.6,46.0,dark / normal,214
+863,perrserker,Gen 8,8,280,154,70,110,100,50,60,50,steel,,440,0.8,28.0,steel,527
+864,cursola,Gen 8,10,4,179,60,95,50,145,130,30,ghost,,510,1.0,0.4,ghost,237
+865,sirfetchd,Gen 8,8,1170,177,62,135,95,68,82,65,fighting,,507,0.8,117.0,fighting,259
+866,mr-rime,Gen 8,15,582,182,80,85,75,110,100,70,ice,psychic,520,1.5,58.2,ice / psychic,214
+867,runerigus,Gen 8,16,666,169,58,95,145,50,105,30,ground,ghost,483,1.6,66.6,ground / ghost,396
+868,milcery,Gen 8,2,3,54,45,40,40,50,61,34,fairy,,270,0.2,0.3,fairy,935
+869,alcremie,Gen 8,3,5,173,65,60,75,110,121,64,fairy,,495,0.3,0.5,fairy,317
+870,falinks,Gen 8,30,620,165,65,100,100,70,60,75,fighting,,470,3.0,62.0,fighting,450
+871,pincurchin,Gen 8,3,10,152,48,101,95,91,85,15,electric,,435,0.3,1.0,electric,538
+872,snom,Gen 8,3,38,37,30,25,35,45,30,20,ice,bug,185,0.3,3.8,ice / bug,1022
+873,frosmoth,Gen 8,13,420,166,70,65,60,125,90,65,ice,bug,475,1.3,42.0,ice / bug,431
+874,stonjourner,Gen 8,25,5200,165,100,125,135,20,20,70,rock,,470,2.5,520.0,rock,450
+875,eiscue-ice,Gen 8,14,890,165,75,80,110,65,90,50,ice,,470,1.4,89.0,ice,450
+876,indeedee-male,Gen 8,9,280,166,60,65,55,105,95,95,psychic,normal,475,0.9,28.0,psychic / normal,431
+877,morpeko-full-belly,Gen 8,3,30,153,58,95,58,70,58,97,electric,dark,436,0.3,3.0,electric / dark,537
+878,cufant,Gen 8,12,1000,66,72,80,49,40,49,40,steel,,330,1.2,100.0,steel,741
+879,copperajah,Gen 8,30,6500,175,122,130,69,80,69,30,steel,,500,3.0,650.0,steel,278
+880,dracozolt,Gen 8,18,1900,177,90,100,90,80,70,75,electric,dragon,505,1.8,190.0,electric / dragon,262
+881,arctozolt,Gen 8,23,1500,177,90,100,90,90,80,55,electric,ice,505,2.3,150.0,electric / ice,262
+882,dracovish,Gen 8,23,2150,177,90,90,100,70,80,75,water,dragon,505,2.3,215.0,water / dragon,262
+883,arctovish,Gen 8,20,1750,177,90,90,100,80,90,55,water,ice,505,2.0,175.0,water / ice,262
+884,duraludon,Gen 8,18,400,187,70,95,115,120,50,85,steel,dragon,535,1.8,40.0,steel / dragon,146
+885,dreepy,Gen 8,5,20,54,28,60,30,40,30,82,dragon,ghost,270,0.5,2.0,dragon / ghost,935
+886,drakloak,Gen 8,14,110,144,68,80,50,60,50,102,dragon,ghost,410,1.4,11.0,dragon / ghost,590
+887,dragapult,Gen 8,30,500,300,88,120,75,100,75,142,dragon,ghost,600,3.0,50.0,dragon / ghost,25
+888,zacian,Gen 8,28,1100,335,92,120,115,80,115,138,fairy,,660,2.8,110.0,fairy,22
+889,zamazenta,Gen 8,29,2100,335,92,120,115,80,115,138,fighting,,660,2.9,210.0,fighting,22
+890,eternatus,Gen 8,200,9500,345,140,85,95,145,95,130,poison,dragon,690,20.0,950.0,poison / dragon,2
+891,kubfu,Gen 8,6,120,77,60,90,60,53,50,72,fighting,,385,0.6,12.0,fighting,653
+892,urshifu-single-strike,Gen 8,19,1050,275,100,130,100,63,60,97,fighting,dark,550,1.9,105.0,fighting / dark,129
+893,zarude,Gen 8,18,700,300,105,120,105,70,95,105,dark,grass,600,1.8,70.0,dark / grass,25
+894,regieleki,Gen 8,12,1450,290,80,100,50,100,50,200,electric,,580,1.2,145.0,electric,69
+895,regidrago,Gen 8,21,2000,290,200,100,50,100,50,80,dragon,,580,2.1,200.0,dragon,69
+896,glastrier,Gen 8,22,8000,290,100,145,130,65,110,30,ice,,580,2.2,800.0,ice,69
+897,spectrier,Gen 8,20,445,290,100,65,60,145,80,130,ghost,,580,2.0,44.5,ghost,69
+898,calyrex,Gen 8,11,77,250,100,80,80,80,80,80,psychic,grass,500,1.1,7.7,psychic / grass,278
+899,wyrdeer,Gen 8,18,951,263,103,105,72,105,75,65,normal,psychic,525,1.8,95.1,normal / psychic,189
+900,kleavor,Gen 8,18,890,175,70,135,95,45,70,85,bug,rock,500,1.8,89.0,bug / rock,278
+901,ursaluna,Gen 8,24,2900,275,130,140,105,45,80,50,ground,normal,550,2.4,290.0,ground / normal,129
+902,basculegion-male,Gen 8,30,1100,265,120,112,65,80,75,78,water,ghost,530,3.0,110.0,water / ghost,163
+903,sneasler,Gen 8,13,430,102,80,130,60,40,80,120,fighting,poison,510,1.3,43.0,fighting / poison,237
+904,overqwil,Gen 8,25,605,179,85,115,95,65,65,85,dark,poison,510,2.5,60.5,dark / poison,237
+905,enamorus-incarnate,Gen 8,16,480,116,74,115,70,135,80,106,fairy,flying,580,1.6,48.0,fairy / flying,69
+906,sprigatito,Gen 9,4,41,62,40,61,54,45,45,65,grass,,310,0.4,4.1,grass,804
+907,floragato,Gen 9,9,122,144,61,80,63,60,63,83,grass,,410,0.9,12.2,grass,590
+908,meowscarada,Gen 9,15,312,265,76,110,70,81,70,123,grass,dark,530,1.5,31.2,grass / dark,163
+909,fuecoco,Gen 9,4,98,62,67,45,59,63,40,36,fire,,310,0.4,9.8,fire,804
+910,crocalor,Gen 9,10,307,144,81,55,78,90,58,49,fire,,411,1.0,30.7,fire,587
+911,skeledirge,Gen 9,16,3265,265,104,75,100,110,75,66,fire,ghost,530,1.6,326.5,fire / ghost,163
+912,quaxly,Gen 9,5,61,62,55,65,45,50,45,50,water,,310,0.5,6.1,water,804
+913,quaxwell,Gen 9,12,215,144,70,85,65,65,60,65,water,,410,1.2,21.5,water,590
+914,quaquaval,Gen 9,18,619,265,85,120,80,85,75,85,water,fighting,530,1.8,61.9,water / fighting,163
+915,lechonk,Gen 9,5,102,51,54,45,40,35,45,35,normal,,254,0.5,10.2,normal,963
+916,oinkologne-male,Gen 9,10,1200,171,110,100,75,59,80,65,normal,,489,1.0,120.0,normal,364
+917,tarountula,Gen 9,3,40,42,35,41,45,29,40,20,bug,,210,0.3,4.0,bug,1001
+918,spidops,Gen 9,10,165,141,60,79,92,52,86,35,bug,,404,1.0,16.5,bug,631
+919,nymble,Gen 9,2,10,42,33,46,40,21,25,45,bug,,210,0.2,1.0,bug,1001
+920,lokix,Gen 9,10,175,158,71,102,78,52,55,92,bug,dark,450,1.0,17.5,bug / dark,512
+921,pawmi,Gen 9,3,25,48,45,50,20,40,25,60,electric,,240,0.3,2.5,electric,985
+922,pawmo,Gen 9,4,65,123,60,75,40,50,40,85,electric,fighting,350,0.4,6.5,electric / fighting,701
+923,pawmot,Gen 9,9,410,245,70,115,70,70,60,105,electric,fighting,490,0.9,41.0,electric / fighting,338
+924,tandemaus,Gen 9,3,18,61,50,50,45,40,45,75,normal,,305,0.3,1.8,normal,833
+925,maushold-family-of-four,Gen 9,3,28,165,74,75,70,65,75,111,normal,,470,0.3,2.8,normal,450
+926,fidough,Gen 9,3,109,62,37,55,70,30,55,65,fairy,,312,0.3,10.9,fairy,803
+927,dachsbun,Gen 9,5,149,167,57,80,115,50,80,95,fairy,,477,0.5,14.9,fairy,428
+928,smoliv,Gen 9,3,65,52,41,35,45,58,51,30,grass,normal,260,0.3,6.5,grass / normal,955
+929,dolliv,Gen 9,6,119,124,52,53,60,78,78,33,grass,normal,354,0.6,11.9,grass / normal,699
+930,arboliva,Gen 9,14,482,255,78,69,90,125,109,39,grass,normal,510,1.4,48.2,grass / normal,237
+931,squawkabilly-green-plumage,Gen 9,6,24,146,82,96,51,45,51,92,normal,flying,417,0.6,2.4,normal / flying,581
+932,nacli,Gen 9,4,160,56,55,55,75,35,35,25,rock,,280,0.4,16.0,rock,913
+933,naclstack,Gen 9,6,1050,124,60,60,100,35,65,35,rock,,355,0.6,105.0,rock,691
+934,garganacl,Gen 9,23,2400,250,100,100,130,45,90,35,rock,,500,2.3,240.0,rock,278
+935,charcadet,Gen 9,6,105,51,40,50,40,50,40,35,fire,,255,0.6,10.5,fire,960
+936,armarouge,Gen 9,15,850,263,85,60,100,125,80,75,fire,psychic,525,1.5,85.0,fire / psychic,189
+937,ceruledge,Gen 9,16,620,263,75,125,80,60,100,85,fire,ghost,525,1.6,62.0,fire / ghost,189
+938,tadbulb,Gen 9,3,4,54,61,31,41,59,35,45,electric,,272,0.3,0.4,electric,934
+939,bellibolt,Gen 9,12,1130,173,109,64,91,103,83,45,electric,,495,1.2,113.0,electric,317
+940,wattrel,Gen 9,4,36,56,40,40,35,55,40,70,electric,flying,280,0.4,3.6,electric / flying,913
+941,kilowattrel,Gen 9,14,386,172,70,70,60,105,60,125,electric,flying,490,1.4,38.6,electric / flying,338
+942,maschiff,Gen 9,5,160,68,60,78,60,40,51,51,dark,,340,0.5,16.0,dark,719
+943,mabosstiff,Gen 9,11,610,177,80,120,90,60,70,85,dark,,505,1.1,61.0,dark,262
+944,shroodle,Gen 9,2,7,58,40,65,35,40,35,75,poison,normal,290,0.2,0.7,poison / normal,892
+945,grafaiai,Gen 9,7,272,170,63,95,65,80,72,110,poison,normal,485,0.7,27.2,poison / normal,372
+946,bramblin,Gen 9,6,6,55,40,65,30,45,35,60,grass,ghost,275,0.6,0.6,grass / ghost,926
+947,brambleghast,Gen 9,12,60,168,55,115,70,80,70,90,grass,ghost,480,1.2,6.0,grass / ghost,405
+948,toedscool,Gen 9,9,330,67,40,40,35,50,100,70,ground,grass,335,0.9,33.0,ground / grass,731
+949,toedscruel,Gen 9,19,580,180,80,70,65,80,120,100,ground,grass,515,1.9,58.0,ground / grass,226
+950,klawf,Gen 9,13,790,158,70,100,115,35,55,75,rock,,450,1.3,79.0,rock,512
+951,capsakid,Gen 9,3,30,61,50,62,40,62,40,50,grass,,304,0.3,3.0,grass,849
+952,scovillain,Gen 9,9,150,170,65,108,65,108,65,75,grass,fire,486,0.9,15.0,grass / fire,371
+953,rellor,Gen 9,2,10,54,41,50,60,31,58,30,bug,,270,0.2,1.0,bug,935
+954,rabsca,Gen 9,3,35,165,75,50,85,115,100,45,bug,psychic,470,0.3,3.5,bug / psychic,450
+955,flittle,Gen 9,2,15,51,30,35,30,55,30,75,psychic,,255,0.2,1.5,psychic,960
+956,espathra,Gen 9,19,900,168,95,60,60,101,60,105,psychic,,481,1.9,90.0,psychic,403
+957,tinkatink,Gen 9,4,89,59,50,45,45,35,64,58,fairy,steel,297,0.4,8.9,fairy / steel,881
+958,tinkatuff,Gen 9,7,591,133,65,55,55,45,82,78,fairy,steel,380,0.7,59.1,fairy / steel,662
+959,tinkaton,Gen 9,7,1128,253,85,75,77,70,105,94,fairy,steel,506,0.7,112.8,fairy / steel,261
+960,wiglett,Gen 9,12,18,49,10,55,25,35,25,95,water,,245,1.2,1.8,water,976
+961,wugtrio,Gen 9,12,54,149,35,100,50,50,70,120,water,,425,1.2,5.4,water,553
+962,bombirdier,Gen 9,15,429,243,70,103,85,60,85,82,flying,dark,485,1.5,42.9,flying / dark,372
+963,finizen,Gen 9,13,602,63,70,45,40,45,40,75,water,,315,1.3,60.2,water,793
+964,palafin-zero,Gen 9,13,602,160,100,70,72,53,62,100,water,,457,1.3,60.2,water,492
+965,varoom,Gen 9,10,350,60,45,70,63,30,45,47,steel,poison,300,1.0,35.0,steel / poison,856
+966,revavroom,Gen 9,18,1200,175,80,119,90,54,67,90,steel,poison,500,1.8,120.0,steel / poison,278
+967,cyclizar,Gen 9,16,630,175,70,95,65,85,65,121,dragon,normal,501,1.6,63.0,dragon / normal,277
+968,orthworm,Gen 9,25,3100,240,70,85,145,60,55,65,steel,,480,2.5,310.0,steel,405
+969,glimmet,Gen 9,7,80,70,48,35,42,105,60,60,rock,poison,350,0.7,8.0,rock / poison,701
+970,glimmora,Gen 9,15,450,184,83,55,90,130,81,86,rock,poison,525,1.5,45.0,rock / poison,189
+971,greavard,Gen 9,6,350,58,50,61,60,30,55,34,ghost,,290,0.6,35.0,ghost,892
+972,houndstone,Gen 9,20,150,171,72,101,100,50,97,68,ghost,,488,2.0,15.0,ghost,366
+973,flamigo,Gen 9,16,370,175,82,115,74,75,64,90,flying,fighting,500,1.6,37.0,flying / fighting,278
+974,cetoddle,Gen 9,12,450,67,108,68,45,30,40,43,ice,,334,1.2,45.0,ice,739
+975,cetitan,Gen 9,45,7000,182,170,113,65,45,55,73,ice,,521,4.5,700.0,ice,211
+976,veluza,Gen 9,25,900,167,90,102,73,78,65,70,water,psychic,478,2.5,90.0,water / psychic,426
+977,dondozo,Gen 9,120,2200,265,150,100,115,65,65,35,water,,530,12.0,220.0,water,163
+978,tatsugiri-curly,Gen 9,3,80,166,68,50,60,120,95,82,dragon,water,475,0.3,8.0,dragon / water,431
+979,annihilape,Gen 9,12,560,268,110,115,80,50,90,90,fighting,ghost,535,1.2,56.0,fighting / ghost,146
+980,clodsire,Gen 9,18,2230,151,130,75,60,45,100,20,poison,ground,430,1.8,223.0,poison / ground,544
+981,farigiraf,Gen 9,32,1600,260,120,90,70,110,70,60,normal,psychic,520,3.2,160.0,normal / psychic,214
+982,dudunsparce-two-segment,Gen 9,36,392,182,125,100,80,85,75,55,normal,,520,3.6,39.2,normal,214
+983,kingambit,Gen 9,20,1200,275,100,135,120,60,85,50,dark,steel,550,2.0,120.0,dark / steel,129
+984,great-tusk,Gen 9,22,3200,285,115,131,131,53,53,87,ground,fighting,570,2.2,320.0,ground / fighting,93
+985,scream-tail,Gen 9,12,80,285,115,65,99,65,115,111,fairy,psychic,570,1.2,8.0,fairy / psychic,93
+986,brute-bonnet,Gen 9,12,210,285,111,127,99,79,99,55,grass,dark,570,1.2,21.0,grass / dark,93
+987,flutter-mane,Gen 9,14,40,285,55,55,55,135,135,135,ghost,fairy,570,1.4,4.0,ghost / fairy,93
+988,slither-wing,Gen 9,32,920,285,85,135,79,85,105,81,bug,fighting,570,3.2,92.0,bug / fighting,93
+989,sandy-shocks,Gen 9,23,600,285,85,81,97,121,85,101,electric,ground,570,2.3,60.0,electric / ground,93
+990,iron-treads,Gen 9,9,2400,285,90,112,120,72,70,106,ground,steel,570,0.9,240.0,ground / steel,93
+991,iron-bundle,Gen 9,6,110,285,56,80,114,124,60,136,ice,water,570,0.6,11.0,ice / water,93
+992,iron-hands,Gen 9,18,3807,285,154,140,108,50,68,50,fighting,electric,570,1.8,380.7,fighting / electric,93
+993,iron-jugulis,Gen 9,13,1110,285,94,80,86,122,80,108,dark,flying,570,1.3,111.0,dark / flying,93
+994,iron-moth,Gen 9,12,360,285,80,70,60,140,110,110,fire,poison,570,1.2,36.0,fire / poison,93
+995,iron-thorns,Gen 9,16,3030,285,100,134,110,70,84,72,rock,electric,570,1.6,303.0,rock / electric,93
+996,frigibax,Gen 9,5,170,64,65,75,45,35,45,55,dragon,ice,320,0.5,17.0,dragon / ice,772
+997,arctibax,Gen 9,8,300,148,90,95,66,45,65,62,dragon,ice,423,0.8,30.0,dragon / ice,560
+998,baxcalibur,Gen 9,21,2100,300,115,145,92,75,86,87,dragon,ice,600,2.1,210.0,dragon / ice,25
+999,gimmighoul,Gen 9,3,50,60,45,30,70,75,70,10,ghost,,300,0.3,5.0,ghost,856
+1000,gholdengo,Gen 9,12,300,275,87,60,95,133,91,84,steel,ghost,550,1.2,30.0,steel / ghost,129
+1001,wo-chien,Gen 9,15,742,285,85,85,100,95,135,70,dark,grass,570,1.5,74.2,dark / grass,93
+1002,chien-pao,Gen 9,19,1522,285,80,120,80,90,65,135,dark,ice,570,1.9,152.2,dark / ice,93
+1003,ting-lu,Gen 9,27,6997,285,155,110,125,55,80,45,dark,ground,570,2.7,699.7,dark / ground,93
+1004,chi-yu,Gen 9,4,49,285,55,80,80,135,120,100,dark,fire,570,0.4,4.9,dark / fire,93
+1005,roaring-moon,Gen 9,20,3800,295,105,139,71,55,101,119,dragon,dark,590,2.0,380.0,dragon / dark,61
+1006,iron-valiant,Gen 9,14,350,295,74,130,90,120,60,116,fairy,fighting,590,1.4,35.0,fairy / fighting,61
+1007,koraidon,Gen 9,25,3030,335,100,135,115,85,100,135,fighting,dragon,670,2.5,303.0,fighting / dragon,16
+1008,miraidon,Gen 9,35,2400,335,100,85,100,135,115,135,electric,dragon,670,3.5,240.0,electric / dragon,16
+1009,walking-wake,Gen 9,35,2800,295,99,83,91,125,83,109,water,dragon,590,3.5,280.0,water / dragon,61
+1010,iron-leaves,Gen 9,15,1250,295,90,130,88,70,108,104,grass,psychic,590,1.5,125.0,grass / psychic,61
+1011,dipplin,Gen 9,4,97,170,80,80,110,95,80,40,grass,dragon,485,0.4,9.7,grass / dragon,372
+1012,poltchageist,Gen 9,1,11,62,40,45,45,74,54,50,grass,ghost,308,0.1,1.1,grass / ghost,825
+1013,sinistcha,Gen 9,2,22,178,71,60,106,121,80,70,grass,ghost,508,0.2,2.2,grass / ghost,256
+1014,okidogi,Gen 9,18,922,278,88,128,115,58,86,80,poison,fighting,555,1.8,92.2,poison / fighting,124
+1015,munkidori,Gen 9,10,122,278,88,75,66,130,90,106,poison,psychic,555,1.0,12.2,poison / psychic,124
+1016,fezandipiti,Gen 9,14,301,278,88,91,82,70,125,99,poison,fairy,555,1.4,30.1,poison / fairy,124
+1017,ogerpon,Gen 9,12,398,275,80,120,84,60,96,110,grass,,550,1.2,39.8,grass,129
+1018,archaludon,Gen 9,20,600,300,90,105,130,125,65,85,steel,dragon,600,2.0,60.0,steel / dragon,25
+1019,hydrapple,Gen 9,18,930,270,106,80,110,120,80,44,grass,dragon,540,1.8,93.0,grass / dragon,136
+1020,gouging-fire,Gen 9,35,5900,295,105,115,121,65,93,91,fire,dragon,590,3.5,590.0,fire / dragon,61
+1021,raging-bolt,Gen 9,52,4800,295,125,73,91,137,89,75,electric,dragon,590,5.2,480.0,electric / dragon,61
+1022,iron-boulder,Gen 9,15,1625,295,90,120,80,68,108,124,rock,psychic,590,1.5,162.5,rock / psychic,61
+1023,iron-crown,Gen 9,16,1560,295,90,72,100,122,108,98,steel,psychic,590,1.6,156.0,steel / psychic,61
+1024,terapagos,Gen 9,2,65,90,90,65,85,65,85,60,normal,,450,0.2,6.5,normal,512
+1025,pecharunt,Gen 9,3,3,300,88,88,160,88,88,88,poison,ghost,600,0.3,0.3,poison / ghost,25
