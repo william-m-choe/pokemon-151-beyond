@@ -11,12 +11,18 @@ from fastapi.responses import FileResponse
 
 load_dotenv()
 
-database_url = os.getenv("DATABASE_URL")
+DATABASE_URL = os.getenv("DATABASE_URL")
 
-if not database_url:
-    raise ValueError("DATABASE_URL was not found in the .env file.")
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace(
+        "postgres://", "postgresql+psycopg://", 1
+    )
+elif DATABASE_URL.startswith("postgresql://"):
+    DATABASE_URL = DATABASE_URL.replace(
+        "postgresql://", "postgresql+psycopg://", 1
+    )
 
-engine = create_engine(database_url)
+engine = create_engine(DATABASE_URL)
 
 app = FastAPI(
     title="Pokémon 151 & Beyond API",
