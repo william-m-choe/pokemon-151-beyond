@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
+pokemon_151_beyond.twb Files/
+*.twbx

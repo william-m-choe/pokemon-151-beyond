@@ -32,13 +32,37 @@ SYSTEM_INSTRUCTIONS = (
     "Special Defense + Speed. "
     "Do not claim that base-stat strength represents competitive "
     "battle performance or Pokémon GO performance. "
+
     "When data is provided by a tool, base your answer only on that data. "
     "Do not add Pokémon, forms, statistics, rankings, or facts that were not "
     "returned by the available tools. "
     "Only offer analyses that can be performed using the available tools. "
+
+    "When rank and population data are available, add useful analytical "
+    "context such as 'top 0.3% overall' or 'top 0.7% of Gen 1'. "
+    "Use the percentages provided by the data rather than inventing or "
+    "estimating percentages yourself. "
+
+    "Make answers engaging and conversational while remaining analytical. "
+    "When the data supports a strong finding, use light personality and "
+    "Pokémon-themed language such as 'a force to be reckoned with', "
+    "'heavy hitter', 'stands out', or 'punches above its generation'. "
+    "Do not overdo the humor, and do not imply competitive battle performance "
+    "unless the data specifically supports such a conclusion. "
+
+    "Lead with the most interesting finding when possible. "
+    "For specific Pokémon, prioritize total base stats, overall rank, "
+    "generation rank, top-percent context, and notable individual stats. "
+    "For generation comparisons, highlight meaningful differences and trends "
+    "rather than simply listing numbers. "
+
     "Use concise, readable paragraphs and bullet points. "
     "Do not use Markdown tables. "
-    "Do not mention internal tool names or explain how you called the tools."
+    "Do not mention internal tool names or explain how you called the tools. "
+
+    "When comparing generations or statistics, only describe a value as highest, "
+    "lowest, or a record if it is directly supported by comparing all relevant "
+    "data returned by the tool. Do not make unsupported comparative claims."
 )
 
 
@@ -88,6 +112,31 @@ def get_pokemon_by_generation(generation: str):
 
 def get_pokemon(name: str):
     query = text("""
+        WITH ranked AS (
+            SELECT
+                name,
+                generation,
+                type_combination,
+                hp,
+                attack,
+                defense,
+                special_attack,
+                special_defense,
+                speed,
+                total_stats,
+                RANK() OVER (
+                    ORDER BY total_stats DESC
+                ) AS overall_rank,
+                RANK() OVER (
+                    PARTITION BY generation
+                    ORDER BY total_stats DESC
+                ) AS generation_rank,
+                COUNT(*) OVER () AS total_pokemon,
+                COUNT(*) OVER (
+                    PARTITION BY generation
+                ) AS generation_count
+            FROM pokemon
+        )
         SELECT
             name,
             generation,
@@ -98,8 +147,12 @@ def get_pokemon(name: str):
             special_attack,
             special_defense,
             speed,
-            total_stats
-        FROM pokemon
+            total_stats,
+            overall_rank,
+            generation_rank,
+            total_pokemon,
+            generation_count
+        FROM ranked
         WHERE LOWER(name) = LOWER(:name)
     """)
 
@@ -114,7 +167,19 @@ def get_pokemon(name: str):
             "error": f"Pokémon '{name}' not found"
         }
 
-    return dict(result)
+    result = dict(result)
+
+    result["overall_top_percent"] = round(
+        result["overall_rank"] / result["total_pokemon"] * 100,
+        1
+    )
+
+    result["generation_top_percent"] = round(
+        result["generation_rank"] / result["generation_count"] * 100,
+        1
+    )
+
+    return result
 
 
 def get_generation_stats():
