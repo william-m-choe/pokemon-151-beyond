@@ -2,6 +2,10 @@
 
 An end-to-end analytics application exploring how Pokémon base stats have changed across generations and whether the original 151 Pokémon still rank among the strongest today.
 
+## Live Demo
+
+[View the deployed application](https://pokemon-151-beyond.onrender.com/app)
+
 ## Project Question
 
 I grew up with the original 151 Pokémon and wanted to answer:
