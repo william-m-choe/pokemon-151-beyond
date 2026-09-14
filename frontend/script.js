@@ -27,7 +27,7 @@ async function askAnalyst(question) {
     askButton.disabled = true;
 
     try {
-        const response = await fetch("http://127.0.0.1:8000/ai/ask", {
+        const response = await fetch("/ai/ask", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
