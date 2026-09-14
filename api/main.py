@@ -3,6 +3,11 @@ import os
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from sqlalchemy import create_engine, text
+from pydantic import BaseModel
+from api.ai_analyst import ask_ai
+from pathlib import Path
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 
 load_dotenv()
 
@@ -19,6 +24,19 @@ app = FastAPI(
     version="1.0.0",
 )
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+FRONTEND_DIR = PROJECT_ROOT / "frontend"
+
+app.mount(
+    "/static",
+    StaticFiles(directory=FRONTEND_DIR),
+    name="static"
+)
+
+
+@app.get("/app")
+def serve_frontend():
+    return FileResponse(FRONTEND_DIR / "index.html")
 
 @app.get("/")
 def root():
@@ -132,3 +150,16 @@ def get_generation_stats():
         results = connection.execute(query).mappings().all()
 
     return [dict(row) for row in results]
+
+
+class AIQuestion(BaseModel):
+    question: str
+
+
+@app.post("/ai/ask")
+def ask_ai_endpoint(request: AIQuestion):
+    answer = ask_ai(request.question)
+
+    return {
+        "answer": answer
+    }

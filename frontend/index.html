@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon 151 & Beyond</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <h1>Pokémon 151 & Beyond</h1>
+            <p>
+                Explore how Pokémon base stats have changed across generations
+                and discover which Pokémon rank among the strongest today.
+            </p>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- AI Analyst -->
+        <section class="analyst-section">
+            <h2>AI Pokémon Analyst</h2>
+            <p class="section-description">
+                Ask questions about Pokémon rankings, generations, and base stats.
+            </p>
+
+            <div class="chat-box">
+                <textarea
+                    id="question"
+                    placeholder="Ask something like: Which Gen 1 Pokémon are still among the strongest today?"
+                    rows="3"
+                ></textarea>
+
+                <button id="ask-button">
+                    Ask Analyst
+                </button>
+            </div>
+
+            <div id="loading" class="loading hidden">
+                Analyzing Pokémon data...
+            </div>
+
+            <div id="answer" class="answer hidden">
+                <h3>Analyst Response</h3>
+                <p id="answer-text"></p>
+            </div>
+        </section>
+
+        <!-- Example Questions -->
+        <section class="examples">
+            <h2>Try asking</h2>
+
+            <div class="example-grid">
+                <button class="example-question">
+                    Which Gen 1 Pokémon are still among the strongest today?
+                </button>
+
+                <button class="example-question">
+                    What are the 5 strongest Pokémon?
+                </button>
+
+                <button class="example-question">
+                    How strong is Mewtwo?
+                </button>
+
+                <button class="example-question">
+                    Which generation is strongest on average?
+                </button>
+            </div>
+        </section>
+
+        <!-- Tableau Dashboard -->
+        <section class="dashboard-section">
+            <h2>Pokémon Analytics Dashboard</h2>
+            <p class="section-description">
+                Explore rankings, generational trends, and type-level statistics.
+            </p>
+
+            <div class="tableau-container">
+                <div class="tableau-wrapper">
+                    <iframe
+                        src="https://public.tableau.com/views/Pokmon151Beyond/Pokmon151Beyond?:showVizHome=no&:embed=yes"
+                        frameborder="0"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Pokémon 151 & Beyond · Built with Python, PostgreSQL, FastAPI, OpenAI API & Tableau</p>
+    </footer>
+
+    <script src="/static/script.js"></script>
+
+</body>
+</html>

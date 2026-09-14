@@ -20,9 +20,13 @@ SYSTEM_INSTRUCTIONS = (
     "Special Defense + Speed. "
     "Do not claim that base-stat strength represents competitive "
     "battle performance or Pokémon GO performance. "
-    "When data is provided by a tool, base your answer on that data "
-    "and do not invent additional statistics."
-    "Only offer analyses that can be performed using the available tools."
+    "When data is provided by a tool, base your answer only on that data. "
+    "Do not add Pokémon, forms, statistics, rankings, or facts that were not "
+    "returned by the available tools. "
+    "Only offer analyses that can be performed using the available tools. "
+    "Use concise, readable paragraphs and bullet points. "
+    "Do not use Markdown tables. "
+    "Do not mention internal tool names or explain how you called the tools."
 )
 
 def get_top_pokemon(limit: int):
@@ -124,7 +128,7 @@ tools = [
 def ask_ai(question: str) -> str:
 
     response = client.responses.create(
-        model="gpt-5-mini",
+        model="gpt-5.6-luna",
         instructions=SYSTEM_INSTRUCTIONS,
         input=question,
         tools=tools,
@@ -132,20 +136,23 @@ def ask_ai(question: str) -> str:
 
     while True:
 
-        function_call_found = False
+        function_calls = [
+            item
+            for item in response.output
+            if item.type == "function_call"
+        ]
 
-        for item in response.output:
+        if not function_calls:
+            return response.output_text
 
-            if item.type != "function_call":
-                continue
+        tool_outputs = []
 
-            function_call_found = True
+        for item in function_calls:
+
             arguments = json.loads(item.arguments)
 
             if item.name == "get_top_pokemon":
-                results = get_top_pokemon(
-                    arguments["limit"]
-                )
+                results = get_top_pokemon(arguments["limit"])
 
             elif item.name == "get_pokemon_by_generation":
                 results = get_pokemon_by_generation(
@@ -158,54 +165,32 @@ def ask_ai(question: str) -> str:
                 )
 
             elif item.name == "get_generation_stats":
-
                 results = get_generation_stats()
-
-                response = client.responses.create(
-                    model="gpt-5-mini",
-                    instructions=SYSTEM_INSTRUCTIONS,
-                    input=[
-                        {
-                            "role": "user",
-                            "content": question,
-                        },
-                        *response.output,
-                        {
-                            "type": "function_call_output",
-                            "call_id": item.call_id,
-                            "output": json.dumps(results),
-                        },
-                    ],
-                    tools=tools,
-                )
-
-                return response.output_text
 
             else:
                 continue
 
-            response = client.responses.create(
-                model="gpt-5-mini",
-                instructions=SYSTEM_INSTRUCTIONS,
-                input=[
-                    {
-                        "role": "user",
-                        "content": question,
-                    },
-                    *response.output,
-                    {
-                        "type": "function_call_output",
-                        "call_id": item.call_id,
-                        "output": json.dumps(results),
-                    },
-                ],
-                tools=tools,
+            tool_outputs.append(
+                {
+                    "type": "function_call_output",
+                    "call_id": item.call_id,
+                    "output": json.dumps(results),
+                }
             )
 
-            break
-
-        if not function_call_found:
-            return response.output_text
+        response = client.responses.create(
+            model="gpt-5.6-luna",
+            instructions=SYSTEM_INSTRUCTIONS,
+            input=[
+                {
+                    "role": "user",
+                    "content": question,
+                },
+                *response.output,
+                *tool_outputs,
+            ],
+            tools=tools,
+        )
 
 
 if __name__ == "__main__":
