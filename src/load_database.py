@@ -14,6 +14,11 @@ if not database_url:
     raise ValueError("DATABASE_URL was not found in the .env file.")
 
 # Connect to PostgreSQL
+if database_url.startswith("postgres://"):
+    database_url = database_url.replace("postgres://", "postgresql+psycopg://", 1)
+elif database_url.startswith("postgresql://"):
+    database_url = database_url.replace("postgresql://", "postgresql+psycopg://", 1)
+
 engine = create_engine(database_url)
 
 # Find the CSV relative to the project folder
@@ -36,3 +41,4 @@ df.to_sql(
 )
 
 print(f"Loaded {len(df)} Pokémon into PostgreSQL.")
+
