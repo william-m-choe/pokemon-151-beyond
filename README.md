@@ -88,7 +88,6 @@ The SQL analytics layer examines:
 2. Generation rankings by average total base stats
 3. Original Gen 1 Pokémon ranked against the full dataset
 4. Gen 1 representation within the overall top 10%
-5. Average total base stats by primary Pokémon type
 
 ## AI Analyst
 
@@ -143,10 +142,6 @@ Ranks the strongest Pokémon across all generations while highlighting Gen 1 Pok
 
 This visualization directly addresses the project's original question of whether the original 151 still hold up against newer generations.
 
-### Average Total Base Stats by Primary Type
-
-Compares average total base stats across primary Pokémon types.
-
 ### Tableau Public
 
 View the interactive Tableau dashboard:
@@ -159,7 +154,6 @@ https://public.tableau.com/app/profile/william.choe4079/viz/Pokmon151Beyond/Pokm
 - Gen 1 ranks 7th of 9 generations by average total base stats at 407.6.
 - Mewtwo is the highest-ranked Gen 1 Pokémon, with 680 total base stats, ranking #3 overall.
 - Six Gen 1 Pokémon appear within the overall top 10% under the project's rank-based methodology.
-- Dragon has the highest average total base stats among primary types with at least 10 Pokémon, at 490.2.
 
 ## Project Status
 
