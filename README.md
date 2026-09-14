@@ -97,7 +97,7 @@ Example questions include:
 - How strong is Mewtwo?
 - Which Pokémon generation is strongest on average?
 
-The AI analyst uses the OpenAI API with function calling to determine which project data should be retrieved through the FastAPI layer. FastAPI queries PostgreSQL and returns the relevant data to the AI for interpretation.
+The AI analyst uses the OpenAI API with function calling to determine which project data should be retrieved. The analyst queries PostgreSQL through SQLAlchemy and returns the relevant data to the model for interpretation.
 
 The analyst is explicitly grounded in the project's dataset and defines "strongest" using total base stats.
 
@@ -115,11 +115,11 @@ AI Analyst
      ↓
 OpenAI API
      ↓
-FastAPI Data Endpoints
+SQLAlchemy
      ↓
 PostgreSQL
 
-The web application currently runs locally and is ready for cloud deployment.
+The web application is deployed publicly using Render.
 
 ## Tableau Dashboard
 
@@ -129,9 +129,9 @@ The interactive Tableau dashboard includes:
 
 Compares average total base stats across Generations 1–9.
 
-### Top 10 Pokémon by Total Base Stats
+### Top 10 Gen 1 Pokémon by Total Base Stats
 
-Highlights the Pokémon with the highest total base stats in the dataset.
+Highlights the 10 strongest Gen 1 Pokémon by total base stats.
 
 ### Top 100 Pokémon by Total Base Stats — Gen 1 Highlighted
 
@@ -159,7 +159,7 @@ https://public.tableau.com/app/profile/william.choe4079/viz/Pokmon151Beyond/Pokm
 
 ## Project Status
 
-Complete — Local Application
+Complete — Deployed Application
 
 - [x] Extract Pokémon data from PokéAPI
 - [x] Clean and transform data with Python/Pandas
@@ -171,7 +171,7 @@ Complete — Local Application
 - [x] Build web frontend
 - [x] Integrate frontend with FastAPI and AI analyst
 - [x] Publish Tableau dashboard to Tableau Public
-- [ ] Deploy web application publicly
+- [x] Deploy web application publicly
 - [ ] Expand analysis and document additional insights
 
 ## Methodology Note
