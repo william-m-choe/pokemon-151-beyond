@@ -1,16 +1,28 @@
 import json
 import os
 
-import requests
 from dotenv import load_dotenv
 from openai import OpenAI
+from sqlalchemy import create_engine, text
 
 
 load_dotenv()
 
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace(
+        "postgres://", "postgresql+psycopg://", 1
+    )
+elif DATABASE_URL.startswith("postgresql://"):
+    DATABASE_URL = DATABASE_URL.replace(
+        "postgresql://", "postgresql+psycopg://", 1
+    )
+
+engine = create_engine(DATABASE_URL)
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-API_BASE_URL = f"http://127.0.0.1:{os.getenv('PORT', '8000')}"
 
 SYSTEM_INSTRUCTIONS = (
     "You are the AI analyst for the Pokémon 151 & Beyond project. "
@@ -29,41 +41,102 @@ SYSTEM_INSTRUCTIONS = (
     "Do not mention internal tool names or explain how you called the tools."
 )
 
+
 def get_top_pokemon(limit: int):
-    response = requests.get(
-        f"{API_BASE_URL}/pokemon/top/{limit}"
-    )
+    query = text("""
+        SELECT
+            name,
+            generation,
+            type_combination,
+            total_stats,
+            overall_rank
+        FROM pokemon_rankings
+        ORDER BY overall_rank
+        LIMIT :limit
+    """)
 
-    response.raise_for_status()
+    with engine.connect() as connection:
+        results = connection.execute(
+            query,
+            {"limit": limit}
+        ).mappings().all()
 
-    return response.json()
+    return [dict(row) for row in results]
+
 
 def get_pokemon_by_generation(generation: str):
-    response = requests.get(
-        f"{API_BASE_URL}/pokemon/generation/{generation}"
-    )
+    query = text("""
+        SELECT
+            name,
+            generation,
+            type_combination,
+            total_stats,
+            overall_rank
+        FROM pokemon_rankings
+        WHERE LOWER(generation) = LOWER(:generation)
+        ORDER BY overall_rank
+    """)
 
-    response.raise_for_status()
+    with engine.connect() as connection:
+        results = connection.execute(
+            query,
+            {"generation": generation}
+        ).mappings().all()
 
-    return response.json()
+    return [dict(row) for row in results]
+
 
 def get_pokemon(name: str):
-    response = requests.get(
-        f"{API_BASE_URL}/pokemon/{name}"
-    )
+    query = text("""
+        SELECT
+            name,
+            generation,
+            type_combination,
+            hp,
+            attack,
+            defense,
+            special_attack,
+            special_defense,
+            speed,
+            total_stats
+        FROM pokemon
+        WHERE LOWER(name) = LOWER(:name)
+    """)
 
-    response.raise_for_status()
+    with engine.connect() as connection:
+        result = connection.execute(
+            query,
+            {"name": name}
+        ).mappings().first()
 
-    return response.json()
+    if result is None:
+        return {
+            "error": f"Pokémon '{name}' not found"
+        }
+
+    return dict(result)
+
 
 def get_generation_stats():
-    response = requests.get(
-        f"{API_BASE_URL}/generations"
-    )
+    query = text("""
+        SELECT
+            generation,
+            COUNT(*) AS pokemon_count,
+            ROUND(AVG(total_stats), 1) AS avg_total_stats,
+            MAX(total_stats) AS max_total_stats,
+            ROUND(AVG(attack), 1) AS avg_attack,
+            ROUND(AVG(defense), 1) AS avg_defense,
+            ROUND(AVG(hp), 1) AS avg_hp
+        FROM pokemon
+        GROUP BY generation
+        ORDER BY avg_total_stats DESC
+    """)
 
-    response.raise_for_status()
+    with engine.connect() as connection:
+        results = connection.execute(query).mappings().all()
 
-    return response.json()
+    return [dict(row) for row in results]
+
 
 tools = [
     {
@@ -174,7 +247,7 @@ def ask_ai(question: str) -> str:
                 {
                     "type": "function_call_output",
                     "call_id": item.call_id,
-                    "output": json.dumps(results),
+                    "output": json.dumps(results, default=str),
                 }
             )
 
